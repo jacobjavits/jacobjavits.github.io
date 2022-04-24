@@ -1,0 +1,564 @@
+[
+  {
+    "date":"October 12, 2019",
+    "venue":"McSpanky's",
+    "city":"Lowell",
+    "state":"MA",
+    "time":"8pm",
+    "link":"",
+    "otherbands":"Peaer, The Water Cycle, Downy Woodpecker, Emmett McCleary",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 19, 2019",
+    "venue":"Cozy Coffin",
+    "city":"Manchester",
+    "state":"NH",
+    "time":"8pm",
+    "link":"https://www.facebook.com/events/917967538537651/",
+    "otherbands":"Trashboy, Trent, Black Hatch",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 25, 2019",
+    "venue":"Pete's Candy Store",
+    "city":"Brooklyn",
+    "state":"NY",
+    "time":"9pm",
+    "link":"https://www.facebook.com/events/2446960835388692/",
+    "otherbands":"John Shakespeare",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"October 26, 2019",
+    "venue":"The Jungle",
+    "city":"Somerville",
+    "state":"MA",
+    "time":"8pm",
+    "link":"https://www.facebook.com/events/396335171077002/",
+    "otherbands":"Dutch Tulips, Today Junior, Dear Forbidden",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"November 2, 2019",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "time":"2pm",
+    "link":"https://www.carterandstevensfarm.com/events",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"November 4, 2019",
+    "venue":"Chateau Shows",
+    "city":"Albany",
+    "state":"NY",
+    "time":"8pm",
+    "link":"",
+    "otherbands":"Jenali Sei, Pink Nois, The Obsessives",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 6, 2019",
+    "venue":"Duende",
+    "city":"Buffalo",
+    "state":"NY",
+    "time":"8pm",
+    "link":"",
+    "otherbands":"Jungle Steve",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 7, 2019",
+    "venue":"The Union",
+    "city":"Athens",
+    "state":"OH",
+    "time":"8pm",
+    "link":"https://www.theunionbaroh.com/events",
+    "otherbands":"Natural Rat, Cutler Station, No Stars",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 10, 2019",
+    "venue":"Gman Tavern",
+    "city":"Chicago",
+    "state":"IL",
+    "time":"7:00pm",
+    "link":"https://gmantavern.com/event/hemhora-the-glass-band-mint-mile-jake-mckelvie/",
+    "otherbands":"Mint Mile, Hemhora & the Glass Band",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 12, 2019",
+    "venue":"Kitty Cat Klub",
+    "city":"Minneapolis",
+    "state":"MN",
+    "time":"8:30pm",
+    "link":"https://www.facebook.com/events/2736761576389786/",
+    "otherbands":"Bella Yaga, P. Larkin",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 14, 2019",
+    "venue":"House Show",
+    "city":"Des Moines",
+    "state":"IA",
+    "time":"6:30pm",
+    "link":"https://www.eventbrite.com/e/jake-mckelvie-unplugged-house-concert-tickets-73603815995",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 15, 2019",
+    "venue":"The Livery",
+    "city":"St. Louis",
+    "state":"MO",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Stephen Wolf",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 17, 2019",
+    "venue":"House Show",
+    "city":"Nashville",
+    "state":"TN",
+    "time":"8:00pm",
+    "link":"https://www.facebook.com/events/520155398546531/",
+    "otherbands":"John Shakespear, Carla Diaz",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 18, 2019",
+    "venue":"House Show",
+    "city":"Durham",
+    "state":"NC",
+    "time":"7:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 20, 2019",
+    "venue":"Asbury Hotel",
+    "city":"Asbury Park",
+    "state":"NJ",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Avery Mandeville, Fake Pockets",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 22, 2019",
+    "venue":"The Footlight",
+    "city":"Queens",
+    "state":"NY",
+    "time":"9:00pm",
+    "link":"https://www.facebook.com/events/722760014893063/",
+    "otherbands":"Miracle Sweepstakes, Railings, Gorgeous",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"November 23, 2019",
+    "venue":"Never Get to Be Cool",
+    "city":"New Haven",
+    "state":"CT",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Winnebago Vacation, Knife Kickers, Skating",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"November 27, 2019",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "time":"4:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"December 14, 2019",
+    "venue":"Hotel Vernon",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"9:00pm",
+    "link":"",
+    "otherbands":"Eye Witness, Tysk Tysk Task",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"December 15, 2019",
+    "venue":"Light Club Lamp Shop",
+    "city":"Burlington",
+    "state":"VT",
+    "time":"9:00pm",
+    "link":"https://www.facebook.com/events/1358988534280143/",
+    "otherbands":"A Box of Stars",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"December 19, 2019",
+    "venue":"Gardner Ale House",
+    "city":"Gardner",
+    "state":"MA",
+    "time":"9:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"January 2, 2020",
+    "venue":"Book & Bar",
+    "city":"Portstmouth",
+    "state":"NH",
+    "time":"TBA",
+    "link":"",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 3, 2020",
+    "venue":"Good Orneing",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"7:00pm",
+    "link":"https://www.facebook.com/events/2480412808910523/",
+    "otherbands":"Tyler Berd, Bettny Roze, Lauri McNamara",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 4, 2020",
+    "venue":"Pete's Candy Store",
+    "city":"Brooklyn",
+    "state":"NY",
+    "time":"8:00pm",
+    "link":"https://www.petescandystore.com/calendar",
+    "otherbands":"Tyler Berd",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 5, 2020",
+    "venue":"O'Briens' Pub",
+    "city":"Allston",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"https://www.obrienspubboston.com/",
+    "otherbands":"Tyler Berd & His Deputies, Time & Place",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"January 9, 2020",
+    "venue":"Asbestos Farm",
+    "city":"Hadley",
+    "state":"MA",
+    "time":"9:00pm",
+    "link":"",
+    "otherbands":"Deer Scout, The Duchess, Jesus Vio, Gilt Head",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"January 16, 2020",
+    "venue":"Crumb Bar",
+    "city":"Littleton",
+    "state":"NH",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"A Box of Stars",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 18, 2020",
+    "venue":"Wishbone Collective",
+    "city":"Winooski",
+    "state":"VT",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"A Box of Stars, Old Sky",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 22, 2020",
+    "venue":"The Zoo",
+    "city":"Athens",
+    "state":"OH",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Sneakthief, Captain Chucke",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 24, 2020",
+    "venue":"The Livery",
+    "city":"St. Louis",
+    "state":"MO",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 26, 2020",
+    "venue":"Plus On Block",
+    "city":"St. Paul",
+    "state":"MN",
+    "time":"8:00pm",
+    "link":"https://www.facebook.com/events/210587273302646/",
+    "otherbands":"Daniel Bonespur",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"January 28, 2020",
+    "venue":"Mute City",
+    "city":"Kalamazoo",
+    "state":"MI",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Jimmie Bennett, King Bug",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"February 8, 2020",
+    "venue":"Firehouse",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"https://www.facebook.com/events/2531394930454272/",
+    "otherbands":"The Committee To Elect Pat Malone, Sasha Musik, Jazz Faculty",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"February 16, 2020",
+    "venue":"Kitty Citty",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"7:00pm",
+    "link":"https://www.facebook.com/events/768257780331177/",
+    "otherbands":"Looks Like Mountains, Comet Pond, Moshi",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"February 28, 2020",
+    "venue":"Cafe Nine",
+    "city":"New Haven",
+    "state":"CT",
+    "time":"9:00pm",
+    "link":"https://www.facebook.com/events/594231998024135/",
+    "otherbands":"Shy, Jason Rule Three",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"February 29, 2020",
+    "venue":"Pet Rescue",
+    "city":"Brooklyn",
+    "state":"NY",
+    "time":"8:00pm",
+    "link":"https://www.facebook.com/events/2434072220178877/",
+    "otherbands":"The Rizzos, The Unders, Sammi Lanzetta",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"March 5, 2020",
+    "venue":"Shaskeen",
+    "city":"Manchester",
+    "state":"NH",
+    "time":"9:00pm",
+    "link":"https://www.facebook.com/events/125421742130215/",
+    "otherbands":"New Neighbors, Ham the Band, Odd Fellows Way",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"March 8, 2020",
+    "venue":"Nick's",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:30pm",
+    "link":"",
+    "otherbands":"Bettny Roze",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"July 3, 2021",
+    "venue":"Union Coffee",
+    "city":"Milford",
+    "state":"NH",
+    "time":"5:00pm",
+    "link":"",
+    "otherbands":"Dwarf Cannon",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"July 10, 2021",
+    "venue":"Mike's Secret Garden",
+    "city":"Medford",
+    "state":"MA",
+    "time":"8:00pm",
+    "link":"",
+    "otherbands":"Mike & the Gang, Sunshine (at nite)",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"July 31, 2021",
+    "venue":"Ralph's Rock Diner",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:30pm",
+    "link":"https://www.facebook.com/events/175552784548618",
+    "otherbands":"Eye Witness, The True Jacqueline",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"August 6, 2021",
+    "venue":"Rutland Town Common",
+    "city":"Rutland",
+    "state":"MA",
+    "time":"6:00pm",
+    "link":"https://www.townofrutland.org/300th-anniversary-committee/events/30341",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"August 11, 2021",
+    "venue":"Princeton Town Common",
+    "city":"Princeton",
+    "state":"MA",
+    "time":"6:00pm",
+    "link":"",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"August 21, 2021",
+    "venue":"The Root",
+    "city":"Sprakers",
+    "state":"NY",
+    "time":"8:00pm",
+    "link":"https://www.therootcommunity.org/limbsnapping",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"September 4, 2021",
+    "venue":"Keene Music Festival",
+    "city":"Keene",
+    "state":"NH",
+    "time":"8:00pm",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"September 11, 2021",
+    "venue":"Votrubapalooza",
+    "city":"Rutland",
+    "state":"MA",
+    "time":"7:00pm",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 2, 2021",
+    "venue":"Barre Town Common",
+    "city":"Barre",
+    "state":"MA",
+    "time":"11:30am",
+    "otherbands":"Say Uncle",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 13, 2021",
+    "venue":"Gardner Area League of Artists",
+    "city":"Gardner",
+    "state":"MA",
+    "time":"7:00pm",
+    "link": "https://galagardner.org/",
+    "otherbands":"Jared Moore",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"October 30, 2021",
+    "venue":"Nick's Bar",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"8:00pm",
+    "otherbands":"Shaun Connelly, Troye Lonely",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 14, 2021",
+    "venue":"Bodacious Backyard",
+    "city":"Worcester",
+    "state":"MA",
+    "time":"2:00pm",
+    "otherbands":"Brook Pridemore, Troye Lonely",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 24, 2021",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "time":"6:00pm",
+    "otherbands":"",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"May 1, 2022",
+    "venue":"State Park",
+    "city":"Cambridge",
+    "state":"MA",
+    "time":"8:30pm",
+    "otherbands":"Happy Just to See You",
+    "solo_or_band":"band",
+    "link": "http://www.statepark.is/"
+  },
+  {
+    "date":"May 7, 2022",
+    "venue":"Candia Road Brewing",
+    "city":"Manchester",
+    "state":"NH",
+    "time":"6pm",
+    "otherbands":"Black Hatch",
+    "solo_or_band":"band",
+    "link": "https://www.candiaroadbrewingco.com/"
+  },
+  {
+    "date":"June 2, 2022",
+    "venue":"Notch Brewing",
+    "city":"Brighton",
+    "state":"MA",
+    "otherbands":"Mill Pond Falls",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"June 10, 2022",
+    "venue":"Terra Nova",
+    "city":"Keene",
+    "state":"NH",
+    "otherbands":"Blue Motel",
+    "solo_or_band":"band",
+    "link": "https://www.novaarts.org/events/jakemckelvie"
+  },
+  {
+    "date":"June 24, 2022",
+    "venue":"Rutland Town Center",
+    "city":"Rutland",
+    "state":"MA",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"July 2, 2022",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"September 2, 2022",
+    "venue":"Rutland Town Center",
+    "city":"Rutland",
+    "state":"MA",
+    "solo_or_band":"band"
+  }
+]
