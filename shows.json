@@ -529,7 +529,8 @@
     "city":"Brighton",
     "state":"MA",
     "otherbands":"Mill Pond Falls",
-    "solo_or_band":"band"
+    "solo_or_band":"band",
+    "link": "https://www.notchbrewing.com/notchbrighton#brightonevents"
   },
   {
     "date":"June 10, 2022",
@@ -552,7 +553,8 @@
     "venue":"Stone Cow Brewery",
     "city":"Barre",
     "state":"MA",
-    "solo_or_band":"band"
+    "solo_or_band":"band",
+    "link": "https://www.carterandstevensfarm.com/events"
   },
   {
     "date":"September 2, 2022",
