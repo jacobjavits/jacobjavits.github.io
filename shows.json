@@ -562,5 +562,14 @@
     "city":"Rutland",
     "state":"MA",
     "solo_or_band":"band"
+  },
+  {
+    "date":"September 17, 2022",
+    "time": "4:30pm",
+    "venue":"Milk Room Brewing Co.",
+    "city":"Rutland",
+    "state":"MA",
+    "solo_or_band":"band",
+    "link": "https://www.milkroombrewing.com/musicandfood"
   }
 ]
