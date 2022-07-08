@@ -207,6 +207,19 @@ form input[type="submit"] {
   display: inline-block;
 }
 
+.show__badge {
+  margin: 0;
+  font-size: var(--font-size-300);
+}
+
+.show__badge::before {
+  content: '(';
+}
+
+.show__badge::after {
+  content: ')';
+}
+
 .show__city {
   margin: 0;
   font-size: var(--font-size-300);
