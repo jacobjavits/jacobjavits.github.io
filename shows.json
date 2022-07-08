@@ -557,6 +557,33 @@
     "link": "https://www.carterandstevensfarm.com/events"
   },
   {
+    "date":"July 15, 2022",
+    "venue":"Hotel Vernon",
+    "city":"Worcester",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Eye Witness, Tysk Tysk Task, Happy Little Clouds",
+    "link": "https://www.facebook.com/HotelVernon16KelleySquare/"
+  },
+  {
+    "date":"July 18, 2022",
+    "venue":"Hippy Hollow",
+    "city":"Greenville",
+    "state":"NH",
+    "solo_or_band":"solo",
+    "otherbands": "Jonah Tolchin, Coyote Island",
+    "link": "https://www.hippyhollowrecordings.com/copy-of-the-double-crossers-1"
+  },
+  {
+    "date":"August 18, 2022",
+    "venue":"Notch Brewing",
+    "city":"Brighton",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Dwarf Cannon",
+    "link": "https://www.notchbrewing.com/notchbrighton#brightonevents"
+  },
+  {
     "date":"September 2, 2022",
     "venue":"Rutland Town Center",
     "city":"Rutland",
@@ -571,5 +598,13 @@
     "state":"MA",
     "solo_or_band":"band",
     "link": "https://www.milkroombrewing.com/musicandfood"
+  },
+  {
+    "date":"October 21, 2022",
+    "venue":"Dusk",
+    "city":"Providence",
+    "state":"RI",
+    "solo_or_band":"band",
+    "link": "http://duskprovidence.com/"
   }
 ]
