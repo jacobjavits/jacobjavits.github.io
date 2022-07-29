@@ -193,7 +193,7 @@ form input[type="submit"] {
   content: "More Info >";
   font-weight: bold;
   position: absolute;
-  bottom: 0;
+  top: 0;
   right: 0;
   font-size: var(--font-size-100);
   text-transform: uppercase;
