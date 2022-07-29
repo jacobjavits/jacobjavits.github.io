@@ -594,6 +594,41 @@
     "link": "https://www.notchbrewing.com/notchbrighton#brightonevents"
   },
   {
+    "date":"August 19, 2022",
+    "venue":"Limb Snapping",
+    "city":"Sprakers",
+    "state":"NY",
+    "solo_or_band":"band",
+    "link": "https://www.therootcommunity.org/limbsnapping"
+  },
+  {
+    "date":"August 25, 2022",
+    "venue":"Red Ink",
+    "city":"Providence",
+    "state":"RI",
+    "solo_or_band":"solo",
+    "otherbands": "Tragwag, Lady Queen Paradise",
+    "link": "https://www.redinkri.org/events/tragwag-with-jake-mckelvie-and-lady-queen-paradise"
+  },
+  {
+    "date":"August 26, 2022",
+    "venue":"Wishbone Collective",
+    "city":"Winooski",
+    "state":"VT",
+    "solo_or_band":"solo",
+    "otherbands": "Tragwag, A Box of Stars, Lillian and the Muses",
+    "link": "https://www.wishbonecollectivevt.com/"
+  },
+  {
+    "date":"August 27, 2022",
+    "venue":"Thirsty First",
+    "city":"Lowell",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands": "Tragwag, Inspector 34, PWRUP",
+    "link": "http://thirstyfirstma.com/"
+  },
+  {
     "date":"September 2, 2022",
     "venue":"Rutland Town Center",
     "city":"Rutland",
