@@ -652,6 +652,23 @@
     "solo_or_band":"band"
   },
   {
+    "date":"September 4, 2022",
+    "venue":"Votrubapalooza",
+    "city":"Rutland",
+    "state":"MA",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"September 15, 2022",
+    "time": "8:00pm",
+    "venue":"Faces",
+    "city":"Malden",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Mike Frazier, Today Junior",
+    "link": "https://www.facesbrewing.com/store/event/rtt-sum-studios-present-mike-frazier-today-junior-jake-mckelvie-the-countertops/"
+  },
+  {
     "date":"September 17, 2022",
     "time": "4:30pm",
     "venue":"Milk Room Brewing Co.",
@@ -659,6 +676,32 @@
     "state":"MA",
     "solo_or_band":"band",
     "link": "https://www.milkroombrewing.com/musicandfood"
+  },
+  {
+    "date":"October 7, 2022",
+    "venue":"Cafe Nine",
+    "city":"New Haven",
+    "state":"CT",
+    "solo_or_band":"band",
+    "otherbands": "Ports of Spain, Dust Hat",
+    "link": "https://www.tixr.com/groups/cafenine/events/ports-of-spain-jake-mckelvie-countertops-dust-hat-50282"
+  },
+  {
+    "date":"October 8, 2022",
+    "venue":"Bar Freda",
+    "city":"Queens",
+    "state":"NY",
+    "solo_or_band":"band",
+    "link": "https://www.barfreda.com"
+  },
+  {
+    "date":"October 17, 2022",
+    "venue":"10 Forward",
+    "city":"Greenfield",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands": "Brook Pridemore, Troll 2",
+    "link": "https://www.10forwardartsvenue.org"
   },
   {
     "date":"October 21, 2022",
