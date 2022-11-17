@@ -710,5 +710,23 @@
     "state":"RI",
     "solo_or_band":"band",
     "link": "http://duskprovidence.com/"
+  },
+  {
+    "date":"November 23, 2022",
+    "time": "5-8pm",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "solo_or_band":"band",
+    "link": "https://www.stonecowbrewery.com/"
+  },
+  {
+    "date":"December 4, 2022",
+    "time": "7:30pm",
+    "venue":"Hawks &amp; Reed",
+    "city":"Greenfield",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "link": "https://www.hawksandreed.com/event/madhouse-local-concert-series-jake-mckelvie-big-big-buildings-more-tba/"
   }
 ]
