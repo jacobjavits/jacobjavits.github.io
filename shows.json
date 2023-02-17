@@ -728,5 +728,84 @@
     "state":"MA",
     "solo_or_band":"solo",
     "link": "https://www.hawksandreed.com/event/madhouse-local-concert-series-jake-mckelvie-big-big-buildings-more-tba/"
-  }
+  },
+  {
+    "date":"February 22, 2023",
+    "time": "9:30pm",
+    "venue":"Rockwood Music Hall",
+    "city":"New York",
+    "state":"NY",
+    "solo_or_band":"solo",
+    "link": "https://rockwoodmusichall.com/event/jake-mckelvie-the-countertops/"
+  },
+  {
+    "date":"February 23, 2023",
+    "time": "9:00pm",
+    "venue":"The Rockwell",
+    "city":"Somerville",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands":"Zoe Rose De Paz, Sweet Petunia",
+    "link": "https://www.eventbrite.com/e/after-hours-by-zoe-rose-depaz-tickets-527541459707"
+  },
+  {
+    "date":"March 3, 2023",
+    "time": "8:00pm",
+    "venue":"Ralph's Rock Diner",
+    "city":"Worcester",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands":"Eye Witness, Celseigh, Dan Lambert",
+    "link": ""
+  },
+  {
+    "date":"April 1, 2023",
+    "time": "8:00pm",
+    "venue":"Sawtooth Kitchen",
+    "city":"Hanover",
+    "state":"NH",
+    "solo_or_band":"solo",
+    "otherbands":"The Pilgrims, Western Terrestrials",
+    "link": ""
+  },
+  {
+    "date":"April 6, 2023",
+    "time": "7:00pm",
+    "venue":"Notch Brewing",
+    "city":"Brighton",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands":"Thalia Zedek",
+    "link": ""
+  },
+  {
+    "date":"April 13, 2023",
+    "time": "7:00pm",
+    "venue":"Notch Brewing",
+    "city":"Brighton",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands":"Dutch Tulips",
+    "link": ""
+  },
+  {
+    "date":"April 20, 2023",
+    "time": "7:00pm",
+    "venue":"Notch Brewing",
+    "city":"Brighton",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands":"Slim Volume, Puppy Problems",
+    "link": ""
+  },
+  {
+    "date":"April 27, 2023",
+    "time": "7:00pm",
+    "venue":"Notch Brewing",
+    "city":"Brighton",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands":"Ezra Cohen and the Big City Band, Andy Cohen",
+    "link": ""
+  },
 ]
