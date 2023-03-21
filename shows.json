@@ -797,5 +797,15 @@
     "solo_or_band":"band",
     "otherbands":"Ezra Cohen and the Big City Band, Andy Cohen",
     "link": ""
+  },
+  {
+    "date":"May 12, 2023",
+    "time": "7:00pm",
+    "venue":"Nova Arts",
+    "city":"Keene",
+    "state":"NH",
+    "solo_or_band":"band",
+    "otherbands":"Vapors of Morphine",
+    "link": "https://www.novaarts.org/events/vaporsofmorphine512"
   }
 ]
