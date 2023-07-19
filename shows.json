@@ -807,5 +807,85 @@
     "solo_or_band":"band",
     "otherbands":"Vapors of Morphine",
     "link": "https://www.novaarts.org/events/vaporsofmorphine512"
+  },
+  {
+    "date":"May 19, 2023",
+    "time": "8:00pm",
+    "venue":"Hawks &amp; Reed",
+    "city":"Greenfield",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands":"Misery Quilts",
+    "link": "https://www.hawksandreed.com/event/jake-mckelvie-misery-quilts-dearest-hearts/"
+  },
+  {
+    "date":"July 7, 2023",
+    "time": "8:00pm",
+    "venue":"Electric Haze",
+    "city":"Worcester",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands":""
+  },
+  {
+    "date":"July 14, 2023",
+    "time": "8:00pm",
+    "venue":"Radio Bean",
+    "city":"Burlington",
+    "state":"VT",
+    "solo_or_band":"solo",
+    "otherbands":"Rockin' Worms, Laces"
+  },
+  {
+    "date":"July 15, 2023",
+    "time": "3:00pm",
+    "venue":"House Show",
+    "city":"Lancaster",
+    "state":"NH",
+    "solo_or_band":"solo",
+    "otherbands":"Jonee Earthquake Band, Marianne Toilet, Tsunamibots, Milk Street, Ragz to Stitchez, The Hungwells"
+  },
+  {
+    "date":"July 22, 2023",
+    "time": "4:00pm",
+    "venue":"The Overlook",
+    "city":"Lowell",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands":"George Barber, Modern Fools, Rachel Berlin"
+  },
+  {
+    "date":"July 23, 2023",
+    "time": "4:00pm",
+    "venue":"Hippy Hollow",
+    "city":"Greenville",
+    "state":"NH",
+    "solo_or_band":"solo",
+    "otherbands":"Darling Hill, Justin Cohn, Sunset Electric, Nick di Cicco, Tom Rousseau, Charlie Chronopolous, Kenny &amp; the Grateful Deb"
+  },
+  {
+    "date":"August 5, 2023",
+    "time": "8:00pm",
+    "venue":"Starlite",
+    "city":"Southbridge",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands":"Young Man Winter, Berm, Yes Chef!"
+  },
+  {
+    "date":"August 16, 2023",
+    "time": "5:00pm",
+    "venue":"Town Common",
+    "city":"Rochester",
+    "state":"NH",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"August 19, 2023",
+    "time": "8:00pm",
+    "venue":"The Root",
+    "city":"Sprakers",
+    "state":"NY",
+    "solo_or_band":"band"
   }
 ]
