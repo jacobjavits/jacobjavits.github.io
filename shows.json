@@ -873,6 +873,15 @@
     "otherbands":"Young Man Winter, Berm, Yes Chef!"
   },
   {
+    "date":"August 6, 2023",
+    "time": "8:00pm",
+    "venue":"Hawks &amp; Reed",
+    "city":"Greenfield",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands":"Berm, Padded Waltz"
+  },
+  {
     "date":"August 16, 2023",
     "time": "5:00pm",
     "venue":"Town Common",
@@ -887,5 +896,78 @@
     "city":"Sprakers",
     "state":"NY",
     "solo_or_band":"band"
+  },
+  {
+    "date":"August 30, 2023",
+    "time": "8:00pm",
+    "venue":"Starlite",
+    "city":"Southbridge",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands": "Tyler Berd, Berm, Adam Reid and the In-Betweens"
+  },
+  {
+    "date":"September 2, 2023",
+    "time": "12:00pm",
+    "venue":"Votrubapalooza",
+    "city":"Rutland",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Bass Sabbath, The Blizzard of Vobes, Leon Trout, Magic Island, Immortal Jellyfish, Dwarf Cannon, Zigmont, Big Brute, Happy Just to See You, Whalom Park, Hopeville General Store, Dando Fever, Jim Gosling"
+  },
+  {
+    "date":"September 12, 2023",
+    "venue":"House Show",
+    "city":"Swansea",
+    "state":"Wales, UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"September 13, 2023",
+    "venue":"North Quarter",
+    "city":"Huddersfield",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"September 14, 2023",
+    "venue":"JT Soar",
+    "city":"Nottingham",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"September 15, 2023",
+    "venue":"Art Barge",
+    "city":"Yorkshire",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"September 16, 2023",
+    "venue":"House Show",
+    "city":"London",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"October 14, 2023",
+    "venue":"Coffee and Cotton",
+    "city":"Lowell",
+    "state":"MA",
+    "solo_or_band":"solo"
+  },
+  {
+    "date":"November 7, 2023",
+    "venue":"Hotel Vernon",
+    "city":"Worcester",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands": "Jeffrey Lewis, The Burning Hell"
   }
 ]
