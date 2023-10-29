@@ -970,11 +970,57 @@
     "solo_or_band":"solo"
   },
   {
+    "date":"October 29, 2023",
+    "venue":"Cantab Lounge",
+    "city":"Cambridge",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands": "Lucky Star, The Knife Kickers, Max Morton"
+  },
+  {
+    "date":"October 30, 2023",
+    "venue":"Distant Castle",
+    "city":"Worcester",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands": "Loveseat, Fake Sebadoh, Dee Dee King (Pete, Eric, Keith, Steve)"
+  },
+  {
+    "date":"November 4, 2023",
+    "venue":"Teatotaller Cafe",
+    "city":"Concord",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "otherbands": "Trash Sun, Happy Just to See You"
+  },
+  {
     "date":"November 7, 2023",
     "venue":"Hotel Vernon",
     "city":"Worcester",
     "state":"MA",
-    "solo_or_band":"solo",
+    "solo_or_band":"band",
     "otherbands": "Jeffrey Lewis, The Burning Hell"
+  },
+  {
+    "date":"November 22, 2023",
+    "venue":"Stone Cow Brewery",
+    "city":"Barre",
+    "state":"MA",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"December 2, 2023",
+    "venue":"Mole Hill Theater",
+    "city":"Alstead",
+    "state":"NH",
+    "solo_or_band":"band",
+    "otherbands": "Modern Fools"
+  },
+  {
+    "date":"December 8, 2023",
+    "venue":"News Cafe",
+    "city":"Pawtucket",
+    "state":"RI",
+    "solo_or_band":"solo"
   }
 ]
