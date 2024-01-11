@@ -989,7 +989,7 @@
     "date":"November 4, 2023",
     "venue":"Teatotaller Cafe",
     "city":"Concord",
-    "state":"MA",
+    "state":"NH",
     "solo_or_band":"solo",
     "otherbands": "Trash Sun, Happy Just to See You"
   },
@@ -1022,5 +1022,29 @@
     "city":"Pawtucket",
     "state":"RI",
     "solo_or_band":"solo"
+  },
+  {
+    "date":"January 25, 2024",
+    "venue":"Notch Brewing",
+    "city":"Brighton",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Qvickdraw, Dalton Moon"
+  },
+  {
+    "date":"February 24, 2024",
+    "venue":"Starlite",
+    "city":"Southbridge",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Berm"
+  },
+  {
+    "date":"March 15, 2024",
+    "venue":"O'Briens",
+    "city":"Allston",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Cloudbelly, Hush Club"
   }
 ]
