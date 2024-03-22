@@ -1056,11 +1056,63 @@
     "otherbands": "Cloudbelly, Tiffy"
   },
   {
+    "date":"March 17, 2024",
+    "venue":"Myrtle",
+    "city":"East Providence",
+    "state":"RI",
+    "solo_or_band":"solo",
+    "otherbands": "Jobie"
+  },
+  {
     "date":"March 30, 2024",
     "venue":"Union Coffee",
     "city":"Milford",
     "state":"NH",
     "solo_or_band":"band",
     "otherbands": "Trash Sun"
+  },
+  {
+    "date":"April 12, 2024",
+    "venue":"Prism Analog",
+    "city":"Portland",
+    "state":"ME",
+    "solo_or_band":"band",
+    "otherbands": "Big Brute, Hey I'm Outside",
+    "link": "https://prismanalog.org/events/041224"
+  },
+  {
+    "date":"April 13, 2024",
+    "venue":"Button Factory",
+    "city":"Portsmouth",
+    "state":"NH",
+    "solo_or_band":"band",
+    "otherbands": "Jim Gosling, Sweet Petunia, Regals",
+    "link": "https://wscafm.org/event/jake-mckelvie-april-13th/"
+  },
+  {
+    "date":"April 14, 2024",
+    "venue":"TBA (Venue Change)",
+    "city":"Northampton",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Cowperson, Chris Wardlaw"
+  },
+  {
+    "date":"April 15, 2024",
+    "venue":"Graveside Variety",
+    "city":"Woodstock",
+    "state":"NY",
+    "solo_or_band":"band",
+    "otherbands": "",
+    "link": "https://www.gravesidevariety.com"
+  },
+  {
+    "date":"April 16, 2024",
+    "venue":"The Broadway",
+    "city":"Brooklyn",
+    "state":"NY",
+    "solo_or_band":"band",
+    "otherbands": "Tuxis Giant (solo), Eliza Edens, Annie Blackman",
+    "link": "https://www.thebroadway.nyc/shows"
   }
 ]
