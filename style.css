@@ -312,8 +312,6 @@ main {
 
 .grid-cell[data-contents="photo"] img {
   display: block;
-  height: 100%;
-  object-fit: cover;
 }
 
 .grid-cell[data-contents="merch"] {
@@ -366,6 +364,12 @@ main {
   .grid-cell:hover {
     transform: scale(1.025);
     box-shadow: 1.25rem 1.25rem 0 var(--accent);
+  }
+
+  .grid-cell[data-contents="photo"] img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
   }
 }
 
