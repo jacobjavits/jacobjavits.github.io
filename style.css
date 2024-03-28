@@ -379,3 +379,10 @@ main {
   grid-template-columns: repeat(3, 1fr);
   gap: var(--spacing);
 }
+
+.photo-gallery-item figure {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
