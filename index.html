@@ -126,7 +126,7 @@
       if (date.setHours(0, 0, 0, 0) >= today.setHours(0, 0, 0, 0)) {
         if (data[i].link != undefined) {
           showContent += `
-              <a href="${data[i].link}">`;
+              <a href="${data[i].link}" target="_blank">`;
         }
         showContent += `
             <time class="show__date">${data[i].date} ${data[i].time != undefined ? '@ ' + data[i].time : ''}</time>

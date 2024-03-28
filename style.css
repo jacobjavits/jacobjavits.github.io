@@ -257,7 +257,6 @@ form input[type="submit"] {
 
 @media (min-width: 1200px) {
   .shows-inner {
-    height: calc(100vh - calc(var(--spacing) * 5));
     overflow: auto;
     scrollbar-width: 1px;
   }
