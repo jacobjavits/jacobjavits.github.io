@@ -1072,6 +1072,14 @@
     "otherbands": "Trash Sun"
   },
   {
+    "date":"April 6, 2024",
+    "venue":"Ralph's Rock Diner",
+    "city":"Worcester",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Townes Van Zandt Tribute Night"
+  },
+  {
     "date":"April 12, 2024",
     "venue":"Prism Analog",
     "city":"Portland",
@@ -1091,7 +1099,7 @@
   },
   {
     "date":"April 14, 2024",
-    "venue":"TBA (Venue Change)",
+    "venue":"Bishop's Lounge",
     "city":"Northampton",
     "state":"MA",
     "solo_or_band":"band",
@@ -1103,7 +1111,7 @@
     "city":"Woodstock",
     "state":"NY",
     "solo_or_band":"band",
-    "otherbands": "",
+    "otherbands": "Calder the Destroyer",
     "link": "https://www.gravesidevariety.com"
   },
   {
