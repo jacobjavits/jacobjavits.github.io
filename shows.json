@@ -1132,6 +1132,29 @@
     "otherbands": "Sweetboy, Chris Eichlin, Bristoltooth"
   },
   {
+    "date":"April 25, 2024",
+    "venue":"Ralph's Rock Diner",
+    "city":"Worcester",
+    "state":"MA",
+    "solo_or_band":"band",
+    "otherbands": "Rattlorde"
+  },
+  {
+    "date":"May 4, 2024",
+    "venue":"Main Street Museum",
+    "city":"White River Junction",
+    "state":"VT",
+    "solo_or_band":"band",
+    "otherbands": "Shy Husky, The Benji's"
+  },
+  {
+    "date":"May 11, 2024",
+    "venue":"Next Chapter Records",
+    "city":"Putney",
+    "state":"VT",
+    "solo_or_band":"solo"
+  },
+  {
     "date":"May 16, 2024",
     "venue":"The Thing in the Spring",
     "city":"Keene",
@@ -1139,5 +1162,13 @@
     "solo_or_band":"band",
     "otherbands": "Modern Fools, Paper Castles, Rick Rude, Bonnie, Stoner Will & the Narks, Strawberry Runners, Sierra D'Amours",
     "link": "https://www.novaarts.org/thething"
+  },
+  {
+    "date":"July 26, 2024",
+    "venue":"NICE, a Fest",
+    "city":"Somerville",
+    "state":"MA",
+    "solo_or_band":"band",
+    "link": "https://www.niceafest.com/"
   }
 ]
