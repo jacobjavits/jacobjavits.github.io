@@ -11,7 +11,8 @@
   --font-size-300: 0.889rem;
   --font-size-200: 0.79rem;
   --font-size-100: 0.702rem;
-  --accent: #3c1646;
+  --primary: #000;
+  --accent: #000;
   --gray: #eee;
   --button-color: var(--accent);
   --font-family: Futura, Trebuchet MS, Arial, sans-serif;
@@ -25,7 +26,7 @@ html {
 body {
   padding: var(--spacing);
   margin: 0;
-  background-color: #ffdfb6;
+  background-color: #efebbb;
 }
 
 @media (min-width: 1200px) {
@@ -264,7 +265,7 @@ form input[type="submit"] {
 
 /** Main */
 main {
-  color: #3c1646;
+  color: var(--primary);
   margin-top: calc(var(--spacing) * 2);
   margin-bottom: calc(var(--spacing) * 2);
 }
@@ -285,7 +286,6 @@ main {
 
 @media (min-width: 1200px) {
   main {
-    padding: 0 0 0 calc(var(--spacing) * 3);
     grid-column: 2/3;
     grid-row: 2/-1;
     margin: 0 auto;
@@ -296,7 +296,7 @@ main {
 .grid-cell {
   padding: clamp(var(--spacing), 2vw, calc(var(--spacing) * 2));
   box-shadow: 0.75rem 0.75rem 0 var(--accent);
-  border: 3px solid #3c1646;
+  border: 3px solid var(--primary);
   border-top-left-radius: 1rem;
   transition: 0.1s;
 }
@@ -376,7 +376,7 @@ main {
 .photo-gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: var(--spacing);
+  gap: calc(var(--spacing) * 3);
 }
 
 .photo-gallery-item figure {
