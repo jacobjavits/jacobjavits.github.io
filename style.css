@@ -126,6 +126,15 @@ nav ul svg {
   fill: var(--accent);
 }
 
+blockquote {
+  display: inline-block;
+  margin: 0 0 var(--spacing);
+  padding: 5px;
+  background-color: var(--accent);
+  color: #fff;
+  font-style: italic;
+}
+
 #mc_embed_signup {
   flex: 100%;
   text-align: center;
@@ -308,6 +317,10 @@ main {
   border-radius: 1rem;
   box-shadow: none !important;
   transform: none !important;
+}
+
+.grid-cell--full {
+  grid-column: 1/-1;
 }
 
 .grid-cell[data-contents="photo"] img {
