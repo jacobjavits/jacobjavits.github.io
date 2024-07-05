@@ -1187,5 +1187,46 @@
     "state":"MA",
     "solo_or_band":"band",
     "link": "https://www.niceafest.com/"
+  },
+  {
+    "date":"August 6, 2024",
+    "venue":"Harrison",
+    "city":"London",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka",
+    "link": "https://harrisonvenuelondon.com/events/heligoats-singer-songwriter/"
+  },
+  {
+    "date":"August 7, 2024",
+    "venue":"JT Soar",
+    "city":"Nottingham",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"August 9, 2024",
+    "venue":"Northern Quarter",
+    "city":"Huddersfield",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"August 11, 2024",
+    "venue":"Arts Barge",
+    "city":"York",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Chris Otepka"
+  },
+  {
+    "date":"August 12, 2024",
+    "venue":"Leith Depot",
+    "city":"Edinburgh",
+    "state":"UK",
+    "solo_or_band":"solo",
+    "otherbands": "Eve Simpson"
   }
 ]
