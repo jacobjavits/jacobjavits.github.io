@@ -130,8 +130,6 @@ blockquote {
   display: inline-block;
   margin: 0 0 var(--spacing);
   padding: 5px;
-  background-color: var(--accent);
-  color: #fff;
   font-style: italic;
 }
 
@@ -356,10 +354,6 @@ main {
 
 .grid-cell[data-contents="quotes"] blockquote cite {
   display: block;
-}
-
-.grid-cell[data-contents="video"] {
-  grid-column: 1/-1;
 }
 
 .grid-cell[data-contents="video"] iframe {
