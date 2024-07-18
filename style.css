@@ -195,6 +195,7 @@ form input[type="submit"] {
   box-shadow: 0.75rem 0.75rem 0 var(--accent);
   border: 3px solid #3c1646;
   color: var(--accent);
+  max-height: 100vh;
 }
 
 .shows h2 {
