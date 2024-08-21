@@ -26,7 +26,7 @@ html {
 body {
   padding: var(--spacing);
   margin: 0;
-  background-color: #efebbb;
+  background-color: #fcf7bf;
 }
 
 @media (min-width: 1200px) {
@@ -68,11 +68,11 @@ a {
 button {
   display: inline-block;
   text-decoration: none;
-  background-color: var(--button-color);
-  color: #fff;
-  padding: 0.25rem 0.5rem;
-  border: none;
-  font-family: var(--font-family);
+  background-color: transparent;
+  color: #000;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border: 3px solid #000;
   cursor: pointer;
 }
 
@@ -82,7 +82,7 @@ button {
 button:focus,
 button:active,
 button:hover {
-  transform: scale(1.1);
+  background-color: #fff;
 }
 
 /** Header */
@@ -282,14 +282,13 @@ main {
 .two-col-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: calc(var(--spacing) * 4);
+  gap: var(--spacing);
 }
 
 @media (min-width: 768px) {
   .two-col-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: calc(var(--spacing) * 3);
   }
 }
 
@@ -304,10 +303,16 @@ main {
 
 .grid-cell {
   padding: clamp(var(--spacing), 2vw, calc(var(--spacing) * 2));
-  box-shadow: 0.75rem 0.75rem 0 var(--accent);
-  border: 3px solid var(--primary);
-  border-top-left-radius: 1rem;
-  transition: 0.1s;
+  border-top: 3px solid var(--primary);
+}
+
+.grid-cell[data-contents="album"] { 
+  text-align: center;
+  border-top: 0;
+}
+
+.grid-cell[data-contents="album"] img {
+  border: 3px solid #000;
 }
 
 .grid-cell[data-contents="photo"] {
@@ -363,17 +368,7 @@ main {
   width: 100%;
 }
 
-.grid-cell h2 {
-  margin-top: 0;
-  text-align: left;
-}
-
 @media (min-width: 768px) {
-  .grid-cell:hover {
-    transform: scale(1.025);
-    box-shadow: 1.25rem 1.25rem 0 var(--accent);
-  }
-
   .grid-cell[data-contents="photo"] img {
     display: block;
     height: 100%;
