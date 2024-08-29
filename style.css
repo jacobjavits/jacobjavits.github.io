@@ -16,6 +16,8 @@
   --gray: #eee;
   --button-color: var(--accent);
   --font-family: Futura, Trebuchet MS, Arial, sans-serif;
+  --container: 1060px;
+  --container-small: 600px;
 }
 
 html {
@@ -29,15 +31,6 @@ body {
   background-color: #fcf7bf;
 }
 
-@media (min-width: 1200px) {
-  body:not(.press-materials) {
-    display: grid;
-    grid-template-columns: minmax(300px, 10vw) 1fr;
-    grid-template-rows: auto 1fr;
-    align-items: start;
-    column-gap: calc(var(--spacing) * 2);
-  }
-}
 
 img,
 iframe {
@@ -94,13 +87,25 @@ header {
   display: flex;
   flex-direction: column;
   gap: var(--spacing);
+  max-width: var(--container);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
   letter-spacing: -1px;
   text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
-  margin: 0;
+  margin: 0 0 var(--spacing);
   color: var(--accent);
+}
+
+.logo {
+  margin: 0;
+}
+
+.logo a,
+.logo img {
+  display: block;
 }
 
 h1 a {
@@ -124,6 +129,11 @@ nav ul svg {
   width: 2ch;
   max-height: 2ch;
   fill: var(--accent);
+}
+
+nav ul a {
+  text-decoration: none;
+  font-weight: bold;
 }
 
 blockquote {
@@ -158,7 +168,7 @@ form input[type="submit"] {
   header {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: auto auto;
     gap: var(--spacing);
     text-align: left;
   }
@@ -185,17 +195,11 @@ form input[type="submit"] {
 
 /** Shows */
 .shows {
-  grid-column: 1/2;
-  grid-row: 2/-1;
-  overflow: auto;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
   padding: var(--spacing);
   box-shadow: 0.75rem 0.75rem 0 var(--accent);
   border: 3px solid #3c1646;
   color: var(--accent);
-  max-height: 100vh;
+  max-width: 600px;
 }
 
 .shows h2 {
@@ -222,7 +226,7 @@ form input[type="submit"] {
   position: relative;
 }
 
-.show>a:hover::after {
+.show>a::after {
   content: "More Info >";
   font-weight: bold;
   position: absolute;
@@ -251,8 +255,8 @@ form input[type="submit"] {
 }
 
 .show__city {
-  margin: 0;
-  font-size: var(--font-size-300);
+  margin: 5px 0;
+  font-size: var(--font-size-400);
 }
 
 .show__otherbands {
@@ -297,7 +301,11 @@ main {
     grid-column: 2/3;
     grid-row: 2/-1;
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: var(--container);
+  }
+  
+  .shows-page main {
+    max-width: var(--container-small);
   }
 }
 

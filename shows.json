@@ -1249,11 +1249,130 @@
     "otherbands": "Eve Simpson"
   },
   {
+    "date":"August 31, 2024",
+    "venue":"Tiny Fest @ The River City Rhythm &amp; Rock Fest",
+    "city":"Fitchburg",
+    "state":"MA",
+    "solo_or_band":"solo",
+    "link": "https://www.coff33corp.org/rcrrf"
+  },
+  {
     "date":"September 8, 2024",
     "venue":"Candia Road Brewing",
     "city":"Manchester",
     "state":"NH",
     "solo_or_band":"solo",
     "otherbands": "Trent Larrabee, Ken Higaonna, Ryan Tidwell"
+  },
+  {
+    "date":"October 9, 2024",
+    "venue":"Radio Bean",
+    "city":"Burlington",
+    "state":"VT",
+    "solo_or_band":"band",
+    "otherbands": "Neato"
+  },
+  {
+    "date":"October 10, 2024",
+    "venue":"Nova Arts",
+    "city":"Keene",
+    "state":"NH",
+    "solo_or_band":"band",
+    "otherbands": "Kath Bloom"
+  },
+  {
+    "date":"October 11, 2024",
+    "venue":"Union Coffee",
+    "city":"Milford",
+    "state":"NH",
+    "solo_or_band":"band",
+    "otherbands": "Footings"
+  },
+  {
+    "date":"October 12, 2024",
+    "venue":"Psychic Garden",
+    "city":"Rochester",
+    "state":"NY",
+    "solo_or_band":"band",
+    "otherbands": "Brook Pridemore, Milo, Kryst"
+  },
+  {
+    "date":"October 15, 2024",
+    "venue":"The Side Bar",
+    "city":"Athens",
+    "state":"OH",
+    "solo_or_band":"band",
+    "otherbands": "Joseph &amp; His Ghost, Friends With Elephants"
+  },
+  {
+    "date":"October 16, 2024",
+    "venue":"The Hideout",
+    "city":"Chicago",
+    "state":"IL",
+    "solo_or_band":"band",
+    "otherbands": "Mint Mile, Advance Base"
+  },
+  {
+    "date":"October 17, 2024",
+    "venue":"The Upright",
+    "city":"O'Fallon",
+    "state":"IL",
+    "solo_or_band":"band",
+    "otherbands": "Jakob Baxter, Allie Gold"
+  },
+  {
+    "date":"October 18, 2024",
+    "venue":"Raccoon Motel",
+    "city":"Davenport",
+    "state":"IA",
+    "solo_or_band":"band",
+    "otherbands": "Chicago Farmer"
+  },
+  {
+    "date":"October 19, 2024",
+    "venue":"Reinhart Room",
+    "city":"Des Moines",
+    "state":"IA",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 20, 2024",
+    "venue":"Orbit Room",
+    "city":"Bloomington",
+    "state":"IN",
+    "solo_or_band":"band",
+    "otherbands": "Mike Adams"
+  },
+  {
+    "date":"October 22, 2024",
+    "venue":"5 Spot",
+    "city":"Nashville",
+    "state":"TN",
+    "solo_or_band":"band"
+  },
+  {
+    "date":"October 24, 2024",
+    "venue":"The Windjammer",
+    "city":"Queens",
+    "state":"NY",
+    "solo_or_band":"band",
+    "otherbands": "Nathan Xander, Calder the Destoyer"
+  },
+  {
+    "date":"October 25, 2024",
+    "venue":"Upstairs at Abyssinia",
+    "city":"Philadelphia",
+    "state":"PA",
+    "solo_or_band":"band",
+    "otherbands": "Shane Palko, Bad History Month, Dust From 1000 Years"
+  },
+  {
+    "date":"October 26, 2024",
+    "venue":"Blue",
+    "city":"Portland",
+    "state":"ME",
+    "solo_or_band":"band",
+    "otherbands": "Honey and Soul, The Upsides",
+    "link": "https://www.blueportlandmaine.com/events/jake-mckelvie-and-the-countertops-honey-and-soul-the-upsides"
   }
 ]

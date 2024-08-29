@@ -16,7 +16,7 @@
 <body>
 
   <header>
-    <h1><img src="images/name-logo.png" alt="Jake McKelvie" width="300"></h1>
+    <h1 class="logo"><img src="images/name-logo.png" alt="Jake McKelvie" width="300"></h1>
     <nav class="links links--social" aria-label="Social media">
       <ul>
         <li><a target="_blank" rel="noopener noreferrer" href="https://jacobcmckelvie.bandcamp.com"><span class="visually-hidden">Bandcamp</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -34,7 +34,9 @@
     </nav>
     <nav class="links" aria-label="Navigation">
       <ul>
-        <li><a class="button" href="/press-materials">Press Stuff</a></li>
+        <li><a href="/shows">Shows</a></li>
+        <li><a href="https://jacobcmckelvie.bandcamp.com" target="_blank">Music</a></li>
+        <li><a href="/press-materials">Press Stuff</a></li>
       </ul>
     </nav>
     <div id="mc_embed_signup">
@@ -91,75 +93,7 @@
     </div>
 
   </main>
-
-   <!-- Shows -->
-   <aside id="shows" class="shows">
-    <div class="shows-inner">
-      <h2>Shows</h2>
-      <div class="show-list"></div>
-    </div>
-  </aside>
   
 </body>
-
-<script>
-  /** 
-   * This is what generates the list of shows
-   */
-  fetch('shows.json')
-    .then(function (response) {
-      return response.json();
-    })
-    .then(function (data) {
-      appendData(data);
-    })
-    .catch(function (err) {
-      console.log('Error: ' + err)
-    });
-
-  function appendData(data) {
-    var showContainer = document.querySelector('.show-list');
-    for (var i = 0; i < data.length; i++) {
-      /** Create individual show div and add class */
-      var show = document.createElement('div');
-      show.setAttribute('class', 'show');
-      var today = new Date();
-      console.log(today.setHours(0, 0, 0, 0));
-      var date = new Date(data[i].date);
-      console.log(date.setHours(0, 0, 0, 0));
-      showContent = '';
-      if (date.setHours(0, 0, 0, 0) >= today.setHours(0, 0, 0, 0)) {
-        if (data[i].link != undefined) {
-          showContent += `
-              <a href="${data[i].link}" target="_blank">`;
-        }
-        showContent += `
-            <time class="show__date">${data[i].date} ${data[i].time != undefined ? '@ ' + data[i].time : ''}</time>
-            `;
-        if (data[i].solo_or_band != 'band') {
-          showContent += `<p class="show__badge"><span class="">${data[i].solo_or_band}</span></p>`;
-        }
-        showContent += `
-            <p class="show__city">
-                <strong>${data[i].city}, ${data[i].state}</strong><br/>
-                ${data[i].venue}
-            </p>
-            `;
-        if (data[i].otherbands != undefined) {
-          showContent += `
-            <p class="show__otherbands">w/ ${data[i].otherbands}</p>
-            `;
-        }
-        if (data[i].link != undefined) {
-          showContent += `
-            </a>
-            `;
-        }
-        show.innerHTML = showContent;
-        showContainer.appendChild(show);
-      }
-    }
-  }
-</script>
 
 </html>
