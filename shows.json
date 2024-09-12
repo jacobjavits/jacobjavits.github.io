@@ -1,1385 +1,6498 @@
 [
   {
-    "date":"October 12, 2019",
-    "venue":"McSpanky's",
-    "city":"Lowell",
-    "state":"MA",
-    "time":"8pm",
-    "link":"",
-    "otherbands":"Peaer, The Water Cycle, Downy Woodpecker, Emmett McCleary",
-    "solo_or_band":"band"
+    "date": "11/6/2009",
+    "city": "Princeton",
+    "state": "MA",
+    "venue": "Town Green Coffeehouse",
+    "otherbands": "Bill Staines",
+    "solo_or_band": "solo"
   },
   {
-    "date":"October 19, 2019",
-    "venue":"Cozy Coffin",
-    "city":"Manchester",
-    "state":"NH",
-    "time":"8pm",
-    "link":"https://www.facebook.com/events/917967538537651/",
-    "otherbands":"Trashboy, Trent, Black Hatch",
-    "solo_or_band":"band"
+    "date": "2/4/2010",
+    "city": "Hubbardston",
+    "state": "MA",
+    "venue": "Hubbardston Public Library",
+    "otherbands": "Bennenjake",
+    "solo_or_band": "solo"
   },
   {
-    "date":"October 25, 2019",
-    "venue":"Pete's Candy Store",
-    "city":"Brooklyn",
-    "state":"NY",
-    "time":"9pm",
-    "link":"https://www.facebook.com/events/2446960835388692/",
-    "otherbands":"John Shakespeare",
-    "solo_or_band":"solo"
+    "date": "7/28/2010",
+    "city": "Petersham",
+    "state": "MA",
+    "venue": "Petersham Memorial Library",
+    "otherbands": "Bennenjake",
+    "solo_or_band": "solo"
   },
   {
-    "date":"October 26, 2019",
-    "venue":"The Jungle",
-    "city":"Somerville",
-    "state":"MA",
-    "time":"8pm",
-    "link":"https://www.facebook.com/events/396335171077002/",
-    "otherbands":"Dutch Tulips, Today Junior, Dear Forbidden",
-    "solo_or_band":"band"
+    "date": "1/6/2011",
+    "city": "Hubbardston",
+    "state": "MA",
+    "venue": "Hubbardston Public Library",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 2, 2019",
-    "venue":"Stone Cow Brewery",
-    "city":"Barre",
-    "state":"MA",
-    "time":"2pm",
-    "link":"https://www.carterandstevensfarm.com/events",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "1/7/2011",
+    "city": "Hubbardston",
+    "state": "MA",
+    "venue": "Basement Showcasement",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 4, 2019",
-    "venue":"Chateau Shows",
-    "city":"Albany",
-    "state":"NY",
-    "time":"8pm",
-    "link":"",
-    "otherbands":"Jenali Sei, Pink Nois, The Obsessives",
-    "solo_or_band":"solo"
+    "date": "6/17/2011",
+    "city": "Shirley",
+    "state": "MA",
+    "venue": "Bull Run",
+    "otherbands": "Steve Forbert",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 6, 2019",
-    "venue":"Duende",
-    "city":"Buffalo",
-    "state":"NY",
-    "time":"8pm",
-    "link":"",
-    "otherbands":"Jungle Steve",
-    "solo_or_band":"solo"
+    "date": "6/23/2011",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 7, 2019",
-    "venue":"The Union",
-    "city":"Athens",
-    "state":"OH",
-    "time":"8pm",
-    "link":"https://www.theunionbaroh.com/events",
-    "otherbands":"Natural Rat, Cutler Station, No Stars",
-    "solo_or_band":"solo"
+    "date": "7/9/2011",
+    "city": "Petersham",
+    "state": "MA",
+    "venue": "Peterstock",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 10, 2019",
-    "venue":"Gman Tavern",
-    "city":"Chicago",
-    "state":"IL",
-    "time":"7:00pm",
-    "link":"https://gmantavern.com/event/hemhora-the-glass-band-mint-mile-jake-mckelvie/",
-    "otherbands":"Mint Mile, Hemhora & the Glass Band",
-    "solo_or_band":"solo"
+    "date": "8/13/2011",
+    "city": "Templeton",
+    "state": "MA",
+    "venue": "Terrapinfest",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 12, 2019",
-    "venue":"Kitty Cat Klub",
-    "city":"Minneapolis",
-    "state":"MN",
-    "time":"8:30pm",
-    "link":"https://www.facebook.com/events/2736761576389786/",
-    "otherbands":"Bella Yaga, P. Larkin",
-    "solo_or_band":"solo"
+    "date": "8/26/2011",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "All Asia",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 14, 2019",
-    "venue":"House Show",
-    "city":"Des Moines",
-    "state":"IA",
-    "time":"6:30pm",
-    "link":"https://www.eventbrite.com/e/jake-mckelvie-unplugged-house-concert-tickets-73603815995",
-    "otherbands":"",
-    "solo_or_band":"solo"
+    "date": "9/10/2011",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "McGann's Irish Pub",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 15, 2019",
-    "venue":"The Livery",
-    "city":"St. Louis",
-    "state":"MO",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"Stephen Wolf",
-    "solo_or_band":"solo"
+    "date": "10/21/2011",
+    "city": "Wolfville",
+    "state": "NS",
+    "venue": "Mud Creek",
+    "otherbands": "Bennenjake",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 17, 2019",
-    "venue":"House Show",
-    "city":"Nashville",
-    "state":"TN",
-    "time":"8:00pm",
-    "link":"https://www.facebook.com/events/520155398546531/",
-    "otherbands":"John Shakespear, Carla Diaz",
-    "solo_or_band":"solo"
+    "date": "10/29/2011",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "McGann's Irish Pub",
+    "otherbands": "Anonymouse, Fire of Creation, Steel Locomotive",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 18, 2019",
-    "venue":"House Show",
-    "city":"Durham",
-    "state":"NC",
-    "time":"7:00pm",
-    "link":"",
-    "otherbands":"",
-    "solo_or_band":"solo"
+    "date": "11/10/2011",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Mabel Brown Room @ KSC",
+    "solo_or_band": "band"
   },
   {
-    "date":"November 20, 2019",
-    "venue":"Asbury Hotel",
-    "city":"Asbury Park",
-    "state":"NJ",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"Avery Mandeville, Fake Pockets",
-    "solo_or_band":"solo"
+    "date": "11/18/2011",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Raven",
+    "solo_or_band": "band"
   },
   {
-    "date":"November 22, 2019",
-    "venue":"The Footlight",
-    "city":"Queens",
-    "state":"NY",
-    "time":"9:00pm",
-    "link":"https://www.facebook.com/events/722760014893063/",
-    "otherbands":"Miracle Sweepstakes, Railings, Gorgeous",
-    "solo_or_band":"band"
+    "date": "12/2/2011",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show @ Sheridan Ave",
+    "otherbands": "The 123's, The Mild Revolution, Matt & the McCues, The Wendigos",
+    "solo_or_band": "band"
   },
   {
-    "date":"November 23, 2019",
-    "venue":"Never Get to Be Cool",
-    "city":"New Haven",
-    "state":"CT",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"Winnebago Vacation, Knife Kickers, Skating",
-    "solo_or_band":"band"
+    "date": "12/9/2011",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show @ Gilsum Street",
+    "solo_or_band": "band"
   },
   {
-    "date":"November 27, 2019",
-    "venue":"Stone Cow Brewery",
-    "city":"Barre",
-    "state":"MA",
-    "time":"4:00pm",
-    "link":"",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "12/28/2011",
+    "city": "Petersham",
+    "state": "MA",
+    "venue": "Petersham Memorial Library",
+    "otherbands": "Aaron Annan, Hillary Chase, Bennenjake",
+    "solo_or_band": "band"
   },
   {
-    "date":"December 14, 2019",
-    "venue":"Hotel Vernon",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"9:00pm",
-    "link":"",
-    "otherbands":"Eye Witness, Tysk Tysk Task",
-    "solo_or_band":"band"
+    "date": "1/5/2012",
+    "city": "Hubbardston",
+    "state": "MA",
+    "venue": "Hubbardston Public Library",
+    "otherbands": "Aaron Annan, Hillary Chase, Bennenjake",
+    "solo_or_band": "band"
   },
   {
-    "date":"December 15, 2019",
-    "venue":"Light Club Lamp Shop",
-    "city":"Burlington",
-    "state":"VT",
-    "time":"9:00pm",
-    "link":"https://www.facebook.com/events/1358988534280143/",
-    "otherbands":"A Box of Stars",
-    "solo_or_band":"solo"
+    "date": "1/6/2012",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Raven",
+    "solo_or_band": "band"
   },
   {
-    "date":"December 19, 2019",
-    "venue":"Gardner Ale House",
-    "city":"Gardner",
-    "state":"MA",
-    "time":"9:00pm",
-    "link":"",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "1/7/2012",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "O'Brien's",
+    "otherbands": "Young Adult Friction, Loud Clappers, Dirty Kicks",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 2, 2020",
-    "venue":"Book & Bar",
-    "city":"Portstmouth",
-    "state":"NH",
-    "time":"TBA",
-    "link":"",
-    "otherbands":"Tyler Berd",
-    "solo_or_band":"solo"
+    "date": "1/19/2012",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 3, 2020",
-    "venue":"Good Orneing",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"7:00pm",
-    "link":"https://www.facebook.com/events/2480412808910523/",
-    "otherbands":"Tyler Berd, Bettny Roze, Lauri McNamara",
-    "solo_or_band":"solo"
+    "date": "1/26/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Ramunto's",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 4, 2020",
-    "venue":"Pete's Candy Store",
-    "city":"Brooklyn",
-    "state":"NY",
-    "time":"8:00pm",
-    "link":"https://www.petescandystore.com/calendar",
-    "otherbands":"Tyler Berd",
-    "solo_or_band":"solo"
+    "date": "2/4/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Starving Artist",
+    "otherbands": "Seek Zeros, The Mild Revolution, The 123's",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 5, 2020",
-    "venue":"O'Briens' Pub",
-    "city":"Allston",
-    "state":"MA",
-    "time":"8:00pm",
-    "link":"https://www.obrienspubboston.com/",
-    "otherbands":"Tyler Berd & His Deputies, Time & Place",
-    "solo_or_band":"band"
+    "date": "2/17/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Starving Artist",
+    "otherbands": "Carrie Ferguson",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 9, 2020",
-    "venue":"Asbestos Farm",
-    "city":"Hadley",
-    "state":"MA",
-    "time":"9:00pm",
-    "link":"",
-    "otherbands":"Deer Scout, The Duchess, Jesus Vio, Gilt Head",
-    "solo_or_band":"band"
+    "date": "2/18/2012",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "O'Brien's",
+    "otherbands": "Rocking Horse Rodeo, Motel Black, Torn Shorts",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 16, 2020",
-    "venue":"Crumb Bar",
-    "city":"Littleton",
-    "state":"NH",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"A Box of Stars",
-    "solo_or_band":"solo"
+    "date": "2/18/2012",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "McGann's Pub",
+    "otherbands": "Fire of Creation, Foxglove, Reverend and the Jew, Joe Fox & the Fourth Floor Band, The Rupert Selection, Code Rad, Crashing Cars",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 18, 2020",
-    "venue":"Wishbone Collective",
-    "city":"Winooski",
-    "state":"VT",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"A Box of Stars, Old Sky",
-    "solo_or_band":"solo"
+    "date": "3/7/2012",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "P.A.'s Lounge",
+    "otherbands": "Cowgill, Found Audio",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 22, 2020",
-    "venue":"The Zoo",
-    "city":"Athens",
-    "state":"OH",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"Sneakthief, Captain Chucke",
-    "solo_or_band":"solo"
+    "date": "3/9/2012",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 24, 2020",
-    "venue":"The Livery",
-    "city":"St. Louis",
-    "state":"MO",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"",
-    "solo_or_band":"solo"
+    "date": "4/8/2012",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Raven",
+    "otherbands": "Black Mountain Symphony, Dublin Free Press, Bright, the Morning",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 26, 2020",
-    "venue":"Plus On Block",
-    "city":"St. Paul",
-    "state":"MN",
-    "time":"8:00pm",
-    "link":"https://www.facebook.com/events/210587273302646/",
-    "otherbands":"Daniel Bonespur",
-    "solo_or_band":"solo"
+    "date": "4/13/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Starving Artist",
+    "otherbands": "Dan Blakeslee, Jonah Tolchin",
+    "solo_or_band": "band"
   },
   {
-    "date":"January 28, 2020",
-    "venue":"Mute City",
-    "city":"Kalamazoo",
-    "state":"MI",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"Jimmie Bennett, King Bug",
-    "solo_or_band":"solo"
+    "date": "4/19/2012",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "Limelight Lounge",
+    "otherbands": "Bewildebeast",
+    "solo_or_band": "band"
   },
   {
-    "date":"February 8, 2020",
-    "venue":"Firehouse",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"8:00pm",
-    "link":"https://www.facebook.com/events/2531394930454272/",
-    "otherbands":"The Committee To Elect Pat Malone, Sasha Musik, Jazz Faculty",
-    "solo_or_band":"band"
+    "date": "5/4/2012",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Raven",
+    "otherbands": "Lynesy Smith, Polutonian Shore, Romantic Divergence, Mercy Bell, Thistle & Twine, To the Floor, Character Vs Author",
+    "solo_or_band": "band"
   },
   {
-    "date":"February 16, 2020",
-    "venue":"Kitty Citty",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"7:00pm",
-    "link":"https://www.facebook.com/events/768257780331177/",
-    "otherbands":"Looks Like Mountains, Comet Pond, Moshi",
-    "solo_or_band":"band"
+    "date": "5/17/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Penuche's Ale House",
+    "otherbands": "Hunter-Gatherer",
+    "solo_or_band": "band"
   },
   {
-    "date":"February 28, 2020",
-    "venue":"Cafe Nine",
-    "city":"New Haven",
-    "state":"CT",
-    "time":"9:00pm",
-    "link":"https://www.facebook.com/events/594231998024135/",
-    "otherbands":"Shy, Jason Rule Three",
-    "solo_or_band":"band"
+    "date": "5/24/2012",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
   },
   {
-    "date":"February 29, 2020",
-    "venue":"Pet Rescue",
-    "city":"Brooklyn",
-    "state":"NY",
-    "time":"8:00pm",
-    "link":"https://www.facebook.com/events/2434072220178877/",
-    "otherbands":"The Rizzos, The Unders, Sammi Lanzetta",
-    "solo_or_band":"band"
+    "date": "5/26/2012",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Raven",
+    "otherbands": "I Versus Me, Marching On, Stowik Seizur, With Hour Hands",
+    "solo_or_band": "band"
   },
   {
-    "date":"March 5, 2020",
-    "venue":"Shaskeen",
-    "city":"Manchester",
-    "state":"NH",
-    "time":"9:00pm",
-    "link":"https://www.facebook.com/events/125421742130215/",
-    "otherbands":"New Neighbors, Ham the Band, Odd Fellows Way",
-    "solo_or_band":"band"
+    "date": "6/3/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Starving Artist",
+    "otherbands": "The Heligoats, Eef Barzelay",
+    "solo_or_band": "band"
   },
   {
-    "date":"March 8, 2020",
-    "venue":"Nick's",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"8:30pm",
-    "link":"",
-    "otherbands":"Bettny Roze",
-    "solo_or_band":"solo"
+    "date": "6/21/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Penuche's Ale House",
+    "solo_or_band": "band"
   },
   {
-    "date":"July 3, 2021",
-    "venue":"Union Coffee",
-    "city":"Milford",
-    "state":"NH",
-    "time":"5:00pm",
-    "link":"",
-    "otherbands":"Dwarf Cannon",
-    "solo_or_band":"band"
+    "date": "6/23/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Gino's Bar & Grill",
+    "otherbands": "Flabberghaster",
+    "solo_or_band": "band"
   },
   {
-    "date":"July 10, 2021",
-    "venue":"Mike's Secret Garden",
-    "city":"Medford",
-    "state":"MA",
-    "time":"8:00pm",
-    "link":"",
-    "otherbands":"Mike & the Gang, Sunshine (at nite)",
-    "solo_or_band":"band"
+    "date": "7/5/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Fritz Fries",
+    "solo_or_band": "band"
   },
   {
-    "date":"July 31, 2021",
-    "venue":"Ralph's Rock Diner",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"8:30pm",
-    "link":"https://www.facebook.com/events/175552784548618",
-    "otherbands":"Eye Witness, The True Jacqueline",
-    "solo_or_band":"band"
+    "date": "7/12/2012",
+    "city": "Clinton",
+    "state": "MA",
+    "venue": "Coffeelands",
+    "solo_or_band": "solo"
   },
   {
-    "date":"August 6, 2021",
-    "venue":"Rutland Town Common",
-    "city":"Rutland",
-    "state":"MA",
-    "time":"6:00pm",
-    "link":"https://www.townofrutland.org/300th-anniversary-committee/events/30341",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "7/19/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Penuche's Ale House",
+    "solo_or_band": "band"
   },
   {
-    "date":"August 11, 2021",
-    "venue":"Princeton Town Common",
-    "city":"Princeton",
-    "state":"MA",
-    "time":"6:00pm",
-    "link":"",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "7/20/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Railroad Square",
+    "solo_or_band": "band"
   },
   {
-    "date":"August 21, 2021",
-    "venue":"The Root",
-    "city":"Sprakers",
-    "state":"NY",
-    "time":"8:00pm",
-    "link":"https://www.therootcommunity.org/limbsnapping",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "7/27/2012",
+    "city": "Turners Falls",
+    "state": "MA",
+    "venue": "The Rendezvous",
+    "otherbands": "Bright Lines",
+    "solo_or_band": "band"
   },
   {
-    "date":"September 4, 2021",
-    "venue":"Keene Music Festival",
-    "city":"Keene",
-    "state":"NH",
-    "time":"8:00pm",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "7/28/2012",
+    "city": "Fitzwilliam",
+    "state": "NH",
+    "venue": "Fitzwilliam Inn",
+    "solo_or_band": "band"
   },
   {
-    "date":"September 11, 2021",
-    "venue":"Votrubapalooza",
-    "city":"Rutland",
-    "state":"MA",
-    "time":"7:00pm",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "7/28/2012",
+    "city": "Troy",
+    "state": "NH",
+    "venue": "Monadnock Berries",
+    "solo_or_band": "band"
   },
   {
-    "date":"October 2, 2021",
-    "venue":"Barre Town Common",
-    "city":"Barre",
-    "state":"MA",
-    "time":"11:30am",
-    "otherbands":"Say Uncle",
-    "solo_or_band":"band"
+    "date": "8/2/2012",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "McGann's Pub",
+    "otherbands": "Andrea Belanger & The Blind Woods, Licious",
+    "solo_or_band": "band"
   },
   {
-    "date":"October 13, 2021",
-    "venue":"Gardner Area League of Artists",
-    "city":"Gardner",
-    "state":"MA",
-    "time":"7:00pm",
+    "date": "8/3/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Fritz Fries",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/11/2012",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "House Show",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/12/2012",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Terrapinfest",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/23/2012",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/1/2012",
+    "city": "Fitzwilliam",
+    "state": "NH",
+    "venue": "Fitzwilliam Inn",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/1/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Keene Music Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/13/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Penuche's Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/14/2012",
+    "city": "Dover",
+    "state": "NH",
+    "venue": "Dover Teen Center",
+    "otherbands": "Hagab the Grasshopper, The Green Bullets, ONSLO, Big Mess",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/27/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Penuche's Ale House",
+    "otherbands": "TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/28/2012",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Fitchburg Artistree",
+    "otherbands": "Sun Sister, Brian Dickens, Elephants",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/4/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Ramunto's",
+    "otherbands": "TheColorOrange, The Calerpittars",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/28/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Harvest Fest",
+    "otherbands": "TheColorOrange, Midnight Snack, Primate Fiasco, Jatoba",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/1/2012",
+    "city": "Ithaca",
+    "state": "NY",
+    "venue": "The Nines",
+    "otherbands": "The Heligoats, Gypsy Gets Shotgun",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/2/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Sumner Knight Chapel",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/3/2012",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "House Show",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/4/2012",
+    "city": "Hamden",
+    "state": "CT",
+    "venue": "The Space",
+    "otherbands": "The Heligoats, TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/5/2012",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Muchmore's",
+    "otherbands": "The Heligoats, Skinny Bones, Due Diligence",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/6/2012",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Hong Kong Garden",
+    "otherbands": "The Heligoats, Skinny Bones, Jackie Paper",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/7/2012",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Columbia Station",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/17/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Mabel Brown Room @ KSC",
+    "otherbands": "TheColorOrange, Narrow Escape, The Wendigos, The Captain's Log, The 123's",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/8/2012",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show @ Forest Street",
+    "otherbands": "TheColorOrange, The Honeybears",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/15/2012",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "venue": "Midway Cafe",
+    "otherbands": "The Woodrow Wilsons, Four Point Restraints, Elephants",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/27/2012",
+    "city": "East Longmeadow",
+    "state": "MA",
+    "venue": "American Legion",
+    "otherbands": "Humble Patients, Pieface, Who'da Funk It?, No Response",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/17/2013",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/2/2013",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "venue": "Midway Cafe",
+    "otherbands": "Mojo Kick, TheColorOrange, LaSandinista",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/23/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show @ Forest Street",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/28/2013",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Hank's Saloon",
+    "otherbands": "Ram's Head Lady Slipper",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/9/2013",
+    "city": "Kent",
+    "state": "OH",
+    "venue": "The Rusty Nail",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/10/2013",
+    "city": "Cincinatti",
+    "state": "OH",
+    "venue": "The Tin Roof",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/11/2013",
+    "city": "Charleston",
+    "state": "WV",
+    "venue": "The Empty Glass",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/12/2013",
+    "city": "Johnson City",
+    "state": "TN",
+    "venue": "The Acoustic Coffeehouse",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/13/2013",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "Belcourt Taps",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/13/2013",
+    "city": "Whites Creek",
+    "state": "TN",
+    "venue": "Richard's Cafe",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/14/2013",
+    "city": "St. Louis",
+    "state": "MO",
+    "venue": "Foam",
+    "otherbands": "Zak Marmalefsky",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/15/2013",
+    "city": "Batavia",
+    "state": "IL",
+    "venue": "RendezVu",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/16/2013",
+    "city": "Iowa City",
+    "state": "IA",
+    "venue": "Gabe's",
+    "otherbands": "The Heligoats, Huge Lewis, Mirror Coat, William Danger Ford",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/17/2013",
+    "city": "St. Paul",
+    "state": "MN",
+    "venue": "Amsterdam Bar and Hall",
+    "otherbands": "The Heligoats, Rupert Angeleyes",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/18/2013",
+    "city": "Des Moines",
+    "state": "IA",
+    "venue": "Vaudeville Mews",
+    "otherbands": "The Heligoats, Derek Lambert, Arynn",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/19/2013",
+    "city": "Columbia",
+    "state": "MO",
+    "venue": "Blue Fugue",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/23/2013",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "Treefort Music Festival",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/27/2013",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "Shaker and Vine",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/1/2013",
+    "city": "Sacramento",
+    "state": "CA",
+    "venue": "The Coffee Garden",
+    "otherbands": "Daniel Bonespur",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/2/2013",
+    "city": "Pasadena",
+    "state": "CA",
+    "venue": "Battery Books",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/2/2013",
+    "city": "Santa Monica",
+    "state": "CA",
+    "venue": "TRiP",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/3/2013",
+    "city": "Tucson",
+    "state": "AZ",
+    "venue": "Plush",
+    "otherbands": "The Heligoats",
+    "solo_or_band": ""
+  },
+  {
+    "date": "5/23/2013",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/31/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Little Zoe's",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/8/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "TheColorOrange, ToeJam",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/14/2013",
+    "city": "Hamden",
+    "state": "CT",
+    "venue": "The Space",
+    "otherbands": "Keeley Filgo, David Martinez",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/18/2013",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/1/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Wheelock Campground",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/3/2013",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Terrapinfest @ Polish American Citizens Club",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/6/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "Elephants, Hannah Peckham",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/10/2013",
+    "city": "Shirley",
+    "state": "MA",
+    "venue": "Bull Run",
+    "otherbands": "Natalie Turgeon",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/16/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Friend Zone",
+    "otherbands": "Poison Ivy League, Archie Alone, The Pants, The Honeybears",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/17/2013",
+    "city": "Sprakers",
+    "state": "NY",
+    "venue": "The Root",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/18/2013",
+    "city": "North Adams",
+    "state": "MA",
+    "venue": "House Show",
+    "otherbands": "Ram's Head Lady Slipper",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/24/2013",
+    "city": "Nashua",
+    "state": "NH",
+    "venue": "Riverwalk Cafe",
+    "otherbands": "Speaker for the Dead, Household Tales, Mark Gilday, Jr.",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/31/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Keene Music Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/1/2013",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "The Elevens",
+    "solo_or_band": ""
+  },
+  {
+    "date": "9/11/2013",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "O'Brien's",
+    "otherbands": "Bellwire, Sparhawks, Old Monk",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/13/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show @ Langdon Street",
+    "otherbands": "The Pants, Freeze Up",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/14/2013",
+    "city": "Antrim",
+    "state": "NH",
+    "venue": "Roller Derby",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/21/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show @ Church Street",
+    "otherbands": "The Oarsman, Skinny Bones",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/22/2013",
+    "city": "Burlington",
+    "state": "VT",
+    "venue": "Radio Bean",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/26/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Sumner Knight Chapel",
+    "otherbands": "Rusty Belle",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/5/2013",
+    "city": "Leominster",
+    "state": "MA",
+    "venue": "Rye & Thyme",
+    "otherbands": "Brian Chaffee & the Players",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/12/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show @ Church Street",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/18/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Twerkfest",
+    "otherbands": "Freeze Up, The Pants, Social at a Distance, Fox Child, The Black Deeny Consumption Agency",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/24/2013",
+    "city": "Bridgeport",
+    "state": "CT",
+    "venue": "Two Boots",
+    "otherbands": "Evan Wahlquist, Turk Tresize, The Graysmiths",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/25/2013",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Goodbye Blue Monday",
+    "otherbands": "Household Tales, Little Ruckus, Dead Bundy and the Neat Neat Neats, Adam Rivera",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/26/2013",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Asbury Park Yacht Club",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/1/2013",
+    "city": "Beverly",
+    "state": "MA",
+    "venue": "House Show",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/2/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Flag Room @ KSC",
+    "otherbands": "Elephants, Midnight Snack",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/6/2013",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Guyhaus",
+    "otherbands": "Erik Kreig, The Prude Show",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/9/2013",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "The Jam Factory",
+    "otherbands": "The Floods, Sound Travels",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/14/2013",
+    "city": "Hamden",
+    "state": "CT",
+    "venue": "The Space",
+    "otherbands": "Matzah Cigar, Cold Pizza, L.E.G.S.",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/15/2013",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Firehouse",
+    "otherbands": "Uh Huh, Forget, Forget, Hermit Thrushes, Speaker for the Dead",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/16/2013",
+    "city": "Poultney",
+    "state": "VT",
+    "venue": "Tiny Theater",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/18/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Psi Upsilon Coffeehouse",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/23/2013",
+    "city": "Pittsfield",
+    "state": "MA",
+    "venue": "The Marketplace Cafe",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/27/2013",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/7/2013",
+    "city": "Putney",
+    "state": "VT",
+    "venue": "Next Stage Arts Project",
+    "otherbands": "The Snaz",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/14/2013",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/27/2013",
+    "city": "Dover",
+    "state": "NH",
+    "venue": "Dover Teen Center",
+    "otherbands": "As The World Sleeps, The Pants, Bellwire, jonee earthquake band, The Partials",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/30/2013",
+    "city": "East Longmeadow",
+    "state": "MA",
+    "venue": "American Legion",
+    "otherbands": "Ping Pong, Christina Colon",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/31/2013",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Firehouse",
+    "otherbands": "Kiss Concert, Secret Lover, Uh Huh",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/2/2014",
+    "city": "Hubbardston",
+    "state": "MA",
+    "venue": "Hubbardston Public Library",
+    "solo_or_band": ""
+  },
+  {
+    "date": "1/3/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "otherbands": "Butcher Boy, Gnards, Wet Dress, Greg McKillop, Waiting For Winona, Uh Huh, One Man Romance, Pat the Bunny",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/17/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Studio 550",
+    "otherbands": "Badfellows, Shakusky, The Pants, Roosevelt",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/30/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Mabel Brown Room @ KSC",
+    "otherbands": "Big D and the Kids Table",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/1/2014",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Iron Horse Music Hall",
+    "otherbands": "The Snaz",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/6/2014",
+    "city": "Portland",
+    "state": "ME",
+    "venue": "Local Sprouts",
+    "otherbands": "Holy Shadow",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/8/2014",
+    "city": "Lunenburg",
+    "state": "MA",
+    "venue": "The Lakeview Club",
+    "otherbands": "Brian Dickens",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/10/2014",
+    "city": "Portsmouth",
+    "state": "NH",
+    "venue": "The Red Door",
+    "otherbands": "Jenee Halstead, Audrey Ryan",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/12/2014",
+    "city": "Petersham",
+    "state": "MA",
+    "venue": "Petersham Library",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/15/2014",
+    "city": "Nashua",
+    "state": "NH",
+    "venue": "Riverwalk Cafe",
+    "otherbands": "Evan Wahlquist, Jonee Earthquake Band, Mark Gilday Jr.",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/20/2014",
+    "city": "Hubbardston",
+    "state": "MA",
+    "venue": "Hubbardston Public Library",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/21/2014",
+    "city": "Franklin",
+    "state": "MA",
+    "venue": "Dean College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/22/2014",
+    "city": "Bridgeport",
+    "state": "CT",
+    "venue": "Two Boots",
+    "otherbands": "The Bittersweet Vine, Jon Slow & Al Cooke",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/27/2014",
+    "city": "Pittsfield",
+    "state": "MA",
+    "venue": "The Marketplace Cafe",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/28/2014",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Gallery 263",
+    "otherbands": "Sono Loreto",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/1/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Espress Yourself Coffee",
+    "otherbands": "Hagab the Grasshopper",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/7/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "McCue's",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/8/2014",
+    "city": "Leominster",
+    "state": "MA",
+    "venue": "Rye & Thyme",
+    "otherbands": "Brian Chaffee & the Players",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/13/2014",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/14/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Ralph's Rock Diner",
+    "otherbands": "Damnation, The Pilgrims, Vagora",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/15/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Imago Dei Cafe",
+    "otherbands": "Veil",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/16/2014",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "The Haberdashery",
+    "otherbands": "Lea Chiara & the Paper City Picture Show, June & the Bee",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/20/2014",
+    "city": "Clinton",
+    "state": "MA",
+    "venue": "Coffeelands",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/21/2014",
+    "city": "East Longmeadow",
+    "state": "MA",
+    "venue": "American Legion",
+    "otherbands": "Humble Patients, Ping Pong, Working for a Name, Creature Comforts",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/22/2014",
+    "city": "Amityville",
+    "state": "NY",
+    "venue": "Amityville Music Hall",
+    "otherbands": "The Walking Tree, In Transitions, Guides, An Old Friend",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/28/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Ralph's Rock Diner",
+    "otherbands": "Spanish for Hitchhiking, East Coast Runaways, Prying Eyes",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/29/2014",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Chaibo",
+    "otherbands": "Brian Dickens",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/30/2014",
+    "city": "Burlington",
+    "state": "VT",
+    "venue": "Radio Bean",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/4/2014",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Mike's Billiards",
+    "otherbands": "Shakusky., Archie Alone, Creature Comforts, The Prude Show",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/5/2014",
+    "city": "Albany",
+    "state": "NY",
+    "venue": "Jack's Place",
+    "otherbands": "Pretty & Nice, Russel the Leaf, Immaculate Heart, Nicole DeMarco",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/7/2014",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "Lizard Lounge",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/11/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Scores",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/13/2014",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "The Burren",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/15/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "otherbands": "Francie Moon, Matt Pless, John Kohen, Slycer",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/16/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Electric Haze",
+    "otherbands": "Brian Dickens",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/17/2014",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "House Show",
+    "otherbands": "Uh Huh, Super Drum Boy, Derive, Spam",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/19/2014",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "AS220",
+    "otherbands": "Super Drum Boy, Player 2, Dry Bones",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/25/2014",
+    "city": "Beverly",
+    "state": "MA",
+    "venue": "American Legion",
+    "otherbands": "Front Porch, Heel and Arrow",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/26/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Life Art Center",
+    "otherbands": "Brian Dickens, Veil, Mata Mata",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/28/2014",
+    "city": "Brattleboro",
+    "state": "VT",
+    "venue": "17 Elliot St",
+    "otherbands": "Ava Marie, Butcher Boy, Peter Linwood",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "5/2/2014",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "The Rock Shop",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/9/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Local Burger",
+    "otherbands": "TheColorOrange, Forget, Forget",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/10/2014",
+    "city": "Turners Falls",
+    "state": "MA",
+    "venue": "Rendezvous",
+    "otherbands": "The Snaz",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "5/14/2014",
+    "city": "Haverhill",
+    "state": "MA",
+    "venue": "Anchors Up",
+    "otherbands": "Amber Moment, Shiver, Order 66, Paid Vacation, JJ Shankour",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/30/2014",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Sidewalk Cafe",
+    "otherbands": "Household Tales, Workman Song, The Reverend Screaming Fingers, Odka, J. O'Brien, The Grand",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/31/2014",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "House Show",
+    "otherbands": "Twin Pines, Somniac, Vivre Se Vie, Cousin Brian",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/1/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Firehouse",
+    "otherbands": "Uh Huh, The Takeaways, Hoser, Martha, Delay",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/2/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "Vivre Sa Vie, Twin Pines, TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/6/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Raven",
+    "otherbands": "Speaker for the Dead, Uh Huh",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/16/2014",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "Great Scott",
+    "otherbands": "Uh Huh, Bellwire",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/20/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Modern Gypsy",
+    "otherbands": "Badfellows, The Pants, David Walker",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/21/2014",
+    "city": "Plymouth",
+    "state": "NH",
+    "venue": "Make Music Plymouth",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/22/2014",
+    "city": "Baldwinville",
+    "state": "MA",
+    "venue": "Camp AHIMSA",
+    "otherbands": "Shane Palko",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/28/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Electric Haze",
+    "otherbands": "Matthew Flynn, Carmen Lagala, Sean Patrick Mulroy, Eye Witness",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/29/2014",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Uptown Roots Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/30/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Firehouse",
+    "otherbands": "Ramshackle Glory, Uh Huh, Vyvyan",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/4/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/9/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Sublevel 58",
+    "otherbands": "Calliope of the Future, Prom Kids, Stolen Pizza, Abe Lincoln's Sour Milk",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/11/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Studio 550",
+    "otherbands": "Stolen Pizza, Ghost Guest, Veil, Badfellows",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/12/2014",
+    "city": "East Longmeadow",
+    "state": "MA",
+    "venue": "American Legion",
+    "otherbands": "Ping Pong",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/17/2014",
+    "city": "Concord",
+    "state": "NH",
+    "venue": "Market Days",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/19/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Sleepoverfest - Negi Negi",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/22/2014",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "The Phoenix Landing",
+    "otherbands": "Midnight Snack",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/23/2014",
+    "city": "Brattleboro",
+    "state": "VT",
+    "venue": "The Future Collective",
+    "otherbands": "Greg McKillop, Hannah Hoffman, Allison Apple",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/25/2014",
+    "city": "Easthampton",
+    "state": "MA",
+    "venue": "Flywheel",
+    "otherbands": "Elephants, Goddard, Bunny's a Swine",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/26/2014",
+    "city": "Danbury",
+    "state": "CT",
+    "venue": "Heirloom Arts Theater",
+    "otherbands": "Elephants, Hiss The Villain, Loom, Throwing Things",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/27/2014",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Spike Hill",
+    "otherbands": "Elephants, Manatree, DJ Brother Mister",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/28/2014",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "venue": "Paradise: Lost",
+    "otherbands": "Elephants, Eagle Daddy",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/29/2014",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Secret Show",
+    "otherbands": "Elephants, Pitter Patter",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/30/2014",
+    "city": "Baltimore",
+    "state": "MD",
+    "venue": "Charm City Art Space",
+    "otherbands": "Elephants",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/31/2014",
+    "city": "Arlington",
+    "state": "VA",
+    "venue": "CD Cellar",
+    "otherbands": "Elephants, Lilac Daze",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/1/2014",
+    "city": "Annapolis",
+    "state": "MD",
+    "venue": "The Room",
+    "otherbands": "Elephants, holy shadow, Koala Tea Time, Oklahoma Car Crash, Hunson Abadeer, Piss Cub",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/2/2014",
+    "city": "Beacon",
+    "state": "NY",
+    "venue": "Quinn's",
+    "otherbands": "Elephants, Tundrastomper",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/7/2014",
+    "city": "Portsmouth",
+    "state": "NH",
+    "venue": "The Red Door",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/9/2014",
+    "city": "Florence",
+    "state": "MA",
+    "venue": "Dog Day Festival - 13th Floor Music Lounge",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/22/2014",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "AS220",
+    "otherbands": "Speaker for the Dead, Uh Huh, Lost Wolves",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/23/2014",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "Church Boston",
+    "otherbands": "Rootz Underground, iiii, The Lady Comes First",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/23/2014",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Terrapinfest - Polish American Citizens Club",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/29/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show - Martell Court",
+    "otherbands": "TheColorOrange, The Honeybears, Hydrofunk",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/30/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Keene Music Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/5/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Local Burger",
+    "otherbands": "Roz and the Rice Cakes",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/16/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "McCue's",
+    "otherbands": "Midnight Snack",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/19/2014",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "The Funky Jungle",
+    "otherbands": "Bethlehem Steel, Throw Baby, Watermelon",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/20/2014",
+    "city": "Quincy",
+    "state": "MA",
+    "venue": "Bane Voice",
+    "otherbands": "Wydyde, Tallgirl, Clarissa Gartner, Make It Up, Kelly Dogtooth, Spot Collins, The Michael Character",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/25/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Modern Gypsty",
+    "otherbands": "Tokyo Quickdraw, Great White Tourist, Bible Camp",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/3/2014",
+    "city": "Franklin",
+    "state": "MA",
+    "venue": "Dean College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/4/2014",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "venue": "Ferry House",
+    "otherbands": "Tundrastomper, No Worries",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/9/2014",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "O'Brien's",
+    "otherbands": "Speed Trials, Grenades in the Archives, Nashoba",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/11/2014",
+    "city": "Peterborough",
+    "state": "NH",
+    "venue": "Sharon Arts Center",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/15/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "House Show",
+    "otherbands": "Everyone Except Me, William James",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/16/2014",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/20/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Studio 550",
+    "otherbands": "Jeffrey Lewis & the Jrams, Badfellows, Lauren Hurley",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/23/2014",
+    "city": "Brattleboro",
+    "state": "VT",
+    "venue": "Whetstone Station",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/25/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Harvest Fest",
+    "otherbands": "Roz and the Rice Cakes, The HoneyBears, Forget, Forget, TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/31/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show - Church Street",
+    "otherbands": "Skinny Bones",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/1/2014",
+    "city": "Poultney",
+    "state": "VT",
+    "venue": "Green Mountain College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/14/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "otherbands": "California Cousins, Hold Ups, Carnival Lights, Shiloh",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/15/2014",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "House Show - Coolidge Street",
+    "otherbands": "Freeze Up, Not Half Bad, TheColorOrange, Hold Ups, Midriffs",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/21/2014",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "UMass Agricultural Engineering Building",
+    "otherbands": "Crash The Owl Party, Vitamin Sun, Tuna and the Wongs",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/22/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Beatnik's",
+    "otherbands": "Damnation, The Devil's Twins",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/26/2014",
+    "city": "Nashua",
+    "state": "NH",
+    "venue": "Riverwalk Cafe",
+    "otherbands": "Anubis Pop, Lauren Hurley, Brian Dickens",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/29/2014",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Modern Gypsy",
+    "otherbands": "Pleasure Gap, Tokyo Quickdraw, Fucko, Lucas Troy",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/5/2014",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "Spill City",
+    "otherbands": "Francie Moon, Shane Palko, Joe Downes-Berry",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "12/6/2014",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "Capsule Corp",
+    "otherbands": "Uh-Huh, Troll 2, Spot Collins, Lost Wolves, CalvinBall",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "12/11/2014",
+    "city": "Plymouth",
+    "state": "NH",
+    "venue": "Plymouth State",
+    "otherbands": "Badfellows",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/13/2014",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Steps of Congress",
+    "otherbands": "The Color Orange, Punky Brewster, Terrible Greg",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/28/2014",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Firehouse",
+    "otherbands": "The Hotelier, Emperor X, Told Slant, Adult Mom",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/31/2014",
+    "city": "Brighton",
+    "state": "MA",
+    "venue": "The Murdock Mansion",
+    "otherbands": "Persona, Cheap Show, Reuther",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "1/9/2015",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "Spill City",
+    "otherbands": "Street Sity Surf, Landing Feet First, Carnival Lights, Judy Chong",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/10/2015",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Modern Gypsy",
+    "otherbands": "SUPERTEEN, Quarrels, Frostheave",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/11/2015",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "TT the Bear's",
+    "otherbands": "Sean Eldon, Rice Cultivation Society, The Michael Character",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/16/2015",
+    "city": "Portland",
+    "state": "ME",
+    "venue": "Empire",
+    "otherbands": "Forget, Forget, Able Thought, Velvet Noise",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/17/2015",
+    "city": "Peterborough",
+    "state": "NH",
+    "venue": "The Wreck Room",
+    "otherbands": "TheColorOrange, The HoneyBears",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/22/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Ralph's Rock Diner",
+    "otherbands": "Kiss Concert, Public Policy, Ghost Guest",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/25/2015",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Unitarian Meeting House",
+    "otherbands": "Derive, Space Camp, Salt People, Jamboree",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/30/2015",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "The Red Barn at Hampshire College",
+    "otherbands": "Tyler Berd, Downtown Boys, Mal Devisa, Piers",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "1/31/2015",
+    "city": "Narragansett",
+    "state": "RI",
+    "venue": "Space Afrika",
+    "otherbands": "Tyler Berd,  John DeTora, SoxSux, Hann Cassady, Sam M-h",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/1/2015",
+    "city": "Watertown",
+    "state": "CT",
+    "venue": "Peachwave",
+    "otherbands": "Budris, Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/13/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Fritz Fries",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/20/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Good Fortune",
+    "otherbands": "Uh Huh, TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/21/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "otherbands": "Uh Huh, Bellwire, The Amphibious Man",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/23/2015",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Charlie's Kitchen",
+    "otherbands": "When All We Love is Lost, Saul Conrad, Jon Kohen",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/27/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Sublevel 58",
+    "otherbands": "No Stranger, Jon, the Archivist, Miniature Philosopher",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/28/2015",
+    "city": "Narragansett",
+    "state": "RI",
+    "venue": "Space Afrika",
+    "otherbands": "TheColorOrange, Lame Genie, Pixels",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/5/2015",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/7/2015",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Iron Horse Music Hall",
+    "otherbands": "The Snaz",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/13/2015",
+    "city": "White River Junction",
+    "state": "VT",
+    "venue": "Main Street Museum",
+    "otherbands": "Bellwire, Law Abiders, Carton",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/14/2015",
+    "city": "Quincy",
+    "state": "MA",
+    "venue": "Fort Foskett",
+    "otherbands": "Ophir, Anna Snow, fantasysport",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/19/2015",
+    "city": "Portsmouth",
+    "state": "NH",
+    "venue": "The Red Door",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/20/2015",
+    "city": "Newport",
+    "state": "RI",
+    "venue": "Jimmy's Saloon",
+    "otherbands": "Dylan Sevey and the Gentlemen, Straw Man Standing",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/26/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Ralph's Rock Diner",
+    "otherbands": "Sarah Blodgett, Emily O'Neill, Nonye Brown-West, Wes Hazard",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/27/2015",
+    "city": "Hadley",
+    "state": "MA",
+    "venue": "36 Chambers",
+    "otherbands": "Black Beach, Sexy Girls, Midriffs, DJ Hybrid Vigor",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/29/2015",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "O'Brien's",
+    "otherbands": "Swearing At Motorists, DTCV, Horsehands",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/2/2015",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "The Falcon Hub @ Fitchburg State",
+    "otherbands": "Magic Island",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/9/2015",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Club Bohemia",
+    "otherbands": "The Sun Lions, Bellwire, The Knock Ups",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/10/2015",
+    "city": "Kingston",
+    "state": "RI",
+    "venue": "193 Coffeehouse",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/11/2015",
+    "city": "Bennington",
+    "state": "VT",
+    "venue": "Woolley Apartment",
+    "otherbands": "Tyler Berd, The Rotten Burrows, Northeast Kingdom",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/11/2015",
+    "city": "Westfield",
+    "state": "MA",
+    "venue": "Westfield State University",
+    "otherbands": "The Big Sway, Polysonic Joy, shakusky., Crash The Owl Party, The Prude Show, Snowhaus, Pedal Gentry, Tyler Berd, The Rangoons, Mammal Dap, Sarah Elizabeth Rayner, Eric Wisel",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/12/2015",
+    "city": "Rutland",
+    "state": "MA",
+    "venue": "The Loft",
+    "otherbands": "Tyler Berd, Jon, The Archivist, Connecticut Girlfriends",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/15/2015",
+    "city": "Easthampton",
+    "state": "MA",
+    "venue": "Flywheel",
+    "otherbands": "Taxidermists, Yeesh, Miniature Philosopher",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/18/2015",
+    "city": "Montpelier",
+    "state": "VT",
+    "venue": "Charlie O's",
+    "otherbands": "The Pilgrims, The Sun Lions",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/21/2015",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "venue": "Midway Cafe",
+    "otherbands": "Mark Gilday Jr., Jon Bach with Evan Henderson, Paul Coppola",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/24/2015",
+    "city": "Cranston",
+    "state": "RI",
+    "venue": "Powers Pub",
+    "otherbands": "The Adjuncts, Eric & the Nothing",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/25/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Beatnik's",
+    "otherbands": "Damnation, Slitstich",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/26/2015",
+    "city": "New Paltz",
+    "state": "NY",
+    "venue": "SUNY New Paltz",
+    "otherbands": "Pinegrove, Ava Luna, Johnny \"Stickerboy\" Owens",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/3/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/7/2015",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Steps of Congress",
+    "otherbands": "The Littlest Giant, TheColorOrange, Clown Baby, Feral Ghouls, People Eating Plastic, Jones Landing",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/8/2015",
+    "city": "Leominster",
+    "state": "MA",
+    "venue": "Rye & Thyme",
+    "otherbands": "Brian Chaffee & the Players",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/14/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "The HoneyBears, TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/15/2015",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "Three Sheets",
+    "otherbands": "Ports Of Spain, The Proud Flesh, Johnny Mainstream, Clones Of Clarence",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/16/2015",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Don Pedro",
+    "otherbands": "Libel, The Judith Light, Friends at Work",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/23/2015",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "Casa de Cultura",
+    "otherbands": "Tyler Berd, Portraits",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "5/25/2015",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "ZuZu",
+    "otherbands": "Lesser Knowns, Monkeys of a Bygone Era",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/6/2015",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "Hope Street Block Party",
+    "otherbands": "Math the Band, Ravi Shavi",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/7/2015",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "WEMF - DiWHY - Radio Session",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/21/2015",
+    "city": "Winchendon",
+    "state": "MA",
+    "venue": "AHIMSA Fest",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/22/2015",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Modern Gypsy",
+    "otherbands": "Logan & Lucille, Something/Something, Good Fortune",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/24/2015",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "HI Boston Hostel",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/2/2015",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/3/2015",
+    "city": "Newport",
+    "state": "RI",
+    "venue": "Jimmy's Saloon",
+    "otherbands": "Able Thought, Topper Harley",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/4/2015",
+    "city": "Contoocook",
+    "state": "NH",
+    "venue": "HouseHouse",
+    "otherbands": "TheColorOrange, Tokyo Quickdraw, Dwarf Cannon, Black Hatch",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/9/2015",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Modern Gypsy",
+    "otherbands": "Badfellows, Pleasure Gap, TheColorOrange, The Grebes",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/10/2015",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Pet Rescue",
+    "otherbands": "Miniboone, Lame Drivers, Best Behavior, Lost Gloves",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/10/2015",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Cakeshop",
+    "otherbands": "Basketball Jones, Vagabon",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/11/2015",
+    "city": "Neward",
+    "state": "DE",
+    "venue": "Homegrown Cafe",
+    "otherbands": "Maiden Names, Shane Palko",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/13/2015",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "venue": "The Cave",
+    "otherbands": "Cottontail, Empty Disco",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/14/2015",
+    "city": "Johnson City",
+    "state": "TN",
+    "venue": "The Acoustic Coffeehouse",
+    "otherbands": "The Alex Krug Trio",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/15/2015",
+    "city": "Anniston",
+    "state": "AL",
+    "venue": "Caldwell Tavern",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/16/2015",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "Betty's Grill",
+    "otherbands": "Beer Head, Ted C. Fox",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/17/2015",
+    "city": "DeKalb",
+    "state": "IL",
+    "venue": "The House Cafe",
+    "otherbands": "Hungry Mountain, Ladies of Leisure, Blunt, Dead Drugs",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/18/2015",
+    "city": "Batavia",
+    "state": "IL",
+    "venue": "Bulldog Cellar",
+    "otherbands": "Hungry Mountain",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/19/2015",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "Uncommon Ground",
+    "otherbands": "The Heligoats, Hungry Mountain",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/20/2015",
+    "city": "Yellow Springs",
+    "state": "OH",
+    "venue": "Spirited Goat Coffee House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/21/2015",
+    "city": "Louisville",
+    "state": "KY",
+    "venue": "Spinelli's Downtown",
+    "otherbands": "Adult Mom, Lady Queen Paradise, Nathaniel Liles, To Die Alone, Marigold",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/22/2015",
+    "city": "Athens",
+    "state": "OH",
+    "venue": "The RBG House",
+    "otherbands": "Adult Mom, Lady Queen Paradise, CARE, The Sunshine Bandits, Madeleine Toerne",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/23/2015",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Hong Kong Garden",
+    "otherbands": "Clique, Mumblr, Campdogzz",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/24/2015",
+    "city": "Allentown",
+    "state": "PA",
+    "venue": "Alternative Gallery",
+    "otherbands": "Summer Scouts, Wet Hands, Legion of Womb",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/25/2015",
+    "city": "Rochester",
+    "state": "NY",
+    "venue": "The Sanc",
+    "otherbands": "Brain Wader, Full Body, Bong Pong",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/29/2015",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Silent Barn",
+    "otherbands": "Adult Mom, Secret Mountain, Spit-Take, Lady Queen Paradise",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/1/2015",
+    "city": "Barre",
+    "state": "MA",
+    "venue": "Barrefest",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/3/2015",
+    "city": "Pawtucket",
+    "state": "RI",
+    "venue": "News Cafe",
+    "otherbands": "The Adjuncts, Eric & the Nothing, All Talk",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/6/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Beatnik's",
+    "otherbands": "Damnation",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/8/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "otherbands": "HOME BODY, Street Sity Surf, Evan Greer, OJ, Paper Bee, Wydyde, Abe Lincoln's Sour Milk, Yippee with an exclamation point, Ghost Guest, Loone, Lady Queen Paradise",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/15/2015",
+    "city": "Sprakers",
+    "state": "NY",
+    "venue": "The Root",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/22/2015",
+    "city": "Quincy",
+    "state": "MA",
+    "venue": "House Show",
+    "otherbands": "C. Benefield, Versatyle, Half Bad, Stephen Salvatore, Justin Denbow, Matthew LaPierre and the Beale Street Band",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/25/2015",
+    "city": "Easthampton",
+    "state": "MA",
+    "venue": "Flywheel",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/27/2015",
+    "city": "Portsmouth",
+    "state": "NH",
+    "venue": "The Red Door",
+    "otherbands": "Notches, Badfellows, New Legs",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/28/2015",
+    "city": "Cape Elizabeth",
+    "state": "ME",
+    "venue": "Eswhy Eskay A Farm",
+    "otherbands": "Badfellows, Buddusky, Holy Shadow, Elephant And Castle",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/29/2015",
+    "city": "Rutland",
+    "state": "MA",
+    "venue": "The Loft",
+    "otherbands": "Pleasure Gap, Badfellows, Connecticut Girlfriends",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/5/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Keene Music Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/12/2015",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Union Coffee",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/16/2015",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Metacomet Cafe",
+    "otherbands": "Gaetana Brown, Gregory McKillop",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/18/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Beatnik's",
+    "otherbands": "Brian Chaffee Players, Gone in The Rearview",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/19/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "TheColorOrange, Thee Arcadians",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/20/2015",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "The Grand Ole Opry",
+    "otherbands": "Lucas Troy, Ashlee",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/26/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Electric Haze",
+    "otherbands": "Magic Island, Soft Cactus, Lo-Fuki",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/29/2015",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Middle East Upstairs",
+    "otherbands": "Eternals, Foam Castles, Bellwire",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/2/2015",
+    "city": "Boston",
+    "state": "MA",
+    "venue": "Whirly Bird",
+    "otherbands": "Andy Lowrey, Troll 2, Billy Baldwin, Sonny Jim Clifford and The Shitkickers",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/8/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "WFMU - Radio Session",
+    "otherbands": "Busy Doing Nothing With Charlie",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/15/2015",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Modern Gypsy",
+    "otherbands": "Mark Gilday Jr., Deer Leap, Tundrastomper",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/17/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Sumner Knight Chapel",
+    "otherbands": "Dr. Gasp",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/21/2015",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Middle East Corner",
+    "otherbands": "Monkeys of a Bygone Era, Bellwire",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/23/2015",
+    "city": "Burlington",
+    "state": "VT",
+    "venue": "Skinny Pankcake",
+    "otherbands": "Heavy Plains",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/25/2015",
+    "city": "Haverhill",
+    "state": "MA",
+    "venue": "The Incubator",
+    "otherbands": "Bunny Boy, Pinegrove, Able Thought, Breakfast Lunch & Dinner",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/29/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Thorne-Sagendorph Art Gallery",
+    "otherbands": "TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/1/2015",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Union Coffee",
+    "otherbands": "Eli & The Mammoth",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/4/2015",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Bull Moose Records",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/5/2015",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Shaskeen",
+    "otherbands": "Badfellows, Me in Capris, Great White Tourist",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/6/2015",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "Whitney House",
+    "otherbands": "The Amphibious Man, Ports of Spain, Ava Marie, Bilge Rat, Vanna Inget",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/7/2015",
+    "city": "Nashua",
+    "state": "NH",
+    "venue": "Nelson's Sports Bar",
+    "otherbands": "Ava Marie, Blige Rat, The Peach Pits, Mark Gilday Jr.",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/8/2015",
+    "city": "Poultney",
+    "state": "VT",
+    "venue": "Green Mountain College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/9/2015",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "WXPL - Radio Session",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/14/2015",
+    "city": "Southbridge",
+    "state": "MA",
+    "venue": "Starlite",
+    "otherbands": "Eye Witness, Greg McKillop, Adam Reid and the In-Betweens",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/19/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Electric Haze",
+    "otherbands": "Magic Island, Pinedrop",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/20/2015",
+    "city": "Narragansett",
+    "state": "RI",
+    "venue": "The Wheel House",
+    "otherbands": "C. Holmes, Gumption & Glory",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/21/2015",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Firehouse",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/28/2015",
+    "city": "Concord",
+    "state": "NH",
+    "venue": "True Brew",
+    "otherbands": "The 123's",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/3/2015",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/4/2015",
+    "city": "Princeton",
+    "state": "MA",
+    "venue": "Wachusett Recording Company",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/13/2016",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Fuzz Hut",
+    "otherbands": "Lady Queen Paradise, Most Selfless Cheerleader, Bunny Boy",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/13/2016",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Mystery Train Records",
+    "otherbands": "Vagabon",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/19/2016",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Local Burger",
+    "otherbands": "John Remmetter, Greg Fisher",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/26/2016",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Bling Mansion",
+    "otherbands": "Mamma's Marmalade, Oroboro, and Crash The Owl Party",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/27/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Bag End",
+    "otherbands": "Mark Gilday Jr., Orders, Jacket Thor, NOFUNALLOWED, Nick Pagan",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "2/28/2016",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "O'Brien's",
+    "otherbands": "The Kickback, Weird Medicine",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/3/2016",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/31/2016",
+    "city": "Portsmouth",
+    "state": "NH",
+    "venue": "The Red Door",
+    "otherbands": "TheColorOrange, Great White Tourist, Hours North",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/1/2016",
+    "city": "Kingston",
+    "state": "RI",
+    "venue": "University of Rhode Island",
+    "otherbands": "Another One Down, Blind Revision, Yohafu",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/2/2016",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "The Disco",
+    "otherbands": "Roz and the Rice Cakes, TheColorOrange",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/7/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Beatnik's",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/8/2016",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Unitarian Universalist Society of Amherst",
+    "otherbands": "Derive, Space Camp, Perennial",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/9/2016",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "UnchARTed",
+    "otherbands": "Jeffrey Lewis & Los Bolts, Teenage Halloween, Inspector 34, The Peach Pits",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/10/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Electric Haze",
+    "otherbands": "Magic Island, The Dawn Drapes, The Rupert Selection",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/11/2016",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Shaskeen",
+    "otherbands": "Divorce., Gottem, Great White Tourist",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/16/2016",
+    "city": "Poultney",
+    "state": "VT",
+    "venue": "Green Mountain College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/18/2016",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "Thunder Road",
+    "otherbands": "The BoxBerrys, Big Big Buildings, Cliffside Caves",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/22/2016",
+    "city": "Amherst",
+    "state": "NH",
+    "venue": "Souhegan High School",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/24/2016",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Songbyrd",
+    "otherbands": "The Heligoats, Handsome Hound",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/25/2016",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Kung Fu Necktie",
+    "otherbands": "The Heligoats, Mud Guppies, Connor Byrne",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/26/2016",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Silent Barn",
+    "otherbands": "The Heligoats, Long Neck, Oceanator",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/27/2016",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "Black Forge Coffee",
+    "otherbands": "The Heligoats, Blød Maud, How to Rob a Bank",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/28/2016",
+    "city": "Lakewood",
+    "state": "OH",
+    "venue": "Mahall's Living Room",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/29/2016",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "venue": "Mad Anthony's Brewing",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "5/1/2016",
+    "city": "DeKalb",
+    "state": "IL",
+    "venue": "The House Cafe",
+    "otherbands": "The Heligoats, The Gunshy, Hungry Mountain",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "5/7/2016",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Bungalow Bar & Grill",
+    "otherbands": "Jonee Earthquake Band",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/14/2016",
+    "city": "Oakham",
+    "state": "MA",
+    "venue": "Votrubapalooza",
+    "otherbands": "Roz and the Rice Cakes, Magic Island",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/20/2016",
+    "city": "Oxford",
+    "state": "CT",
+    "venue": "Oxford Grange No. 194",
+    "otherbands": "Pupppy, Let's Get Invisible, Meatball Submachine Gun",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/24/2016",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Union Coffee",
+    "otherbands": "Eric Funn, Mark Gilday Jr., Prateek Poddar",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "5/25/2016",
+    "city": "Portland",
+    "state": "ME",
+    "venue": "Eswhy Eskay a Farm",
+    "otherbands": "Eric Funn",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/4/2016",
+    "city": "Templeton",
+    "state": "MA",
+    "venue": "Brody's Grad Party",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/10/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "otherbands": "Eye Witness, Found Audio, Vudu Sister",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/17/2016",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Gallery 263",
+    "otherbands": "Mike Lemme",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/24/2016",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Fuzz Hut",
+    "otherbands": "Ports of Spain, Flyeater, Jed Crook, Mark Gilday Jr.",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/30/2016",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "Great Scott",
+    "otherbands": "Mill Pond Falls, Matt Charette & The Truer Sound, Abbie Barrett",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/1/2016",
+    "city": "Winchendon",
+    "state": "MA",
+    "venue": "Town Hall",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/8/2016",
+    "city": "Somersworth",
+    "state": "NH",
+    "venue": "Teatotaller Tea House",
+    "otherbands": "Bellwire, Greed Island",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/12/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Distant Castle",
+    "otherbands": "BRNDA, Settler, Ironclad",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/26/2016",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Alphaville",
+    "otherbands": "Tyler Berd, David Redbranch, Golden Driller",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/27/2016",
+    "city": "",
+    "state": "PA",
+    "venue": "Coffee House Without Limits",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/28/2016",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "New Planet",
+    "otherbands": "Tyler Berd, Great Swamps, Deer Scout, Lady Queen Paradise, Most Selfless Cheerleader",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/29/2016",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Lamont Street Collective",
+    "otherbands": "Tyler Berd, Dogwoods, Foster Carrots, Fleeting Femme",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/30/2016",
+    "city": "Morgantown",
+    "state": "WV",
+    "venue": "Wit's End Lounge",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/31/2016",
+    "city": "Huntington",
+    "state": "WV",
+    "venue": "Cricket Cave",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/1/2016",
+    "city": "Columbus",
+    "state": "OH",
+    "venue": "The House With No Name",
+    "otherbands": "Tyler Berd, Joshua Stephens",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/2/2016",
+    "city": "Indianapolis",
+    "state": "IN",
+    "venue": "Coal Yard Coffee",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/3/2016",
+    "city": "Rock Island",
+    "state": "IL",
+    "venue": "Rozz-Tox",
+    "otherbands": "Tyler Berd, Quiet Hollers",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/4/2016",
+    "city": "Iowa City",
+    "state": "IA",
+    "venue": "Gabe's",
+    "otherbands": "Tyler Berd, Lauren Anderson",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/5/2016",
+    "city": "La Crosse",
+    "state": "WI",
+    "venue": "The Root Note",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/6/2016",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "Elbo Room",
+    "otherbands": "Tyler Berd, Daniel Bonespur, Stufy",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/7/2016",
+    "city": "DeKalb",
+    "state": "IL",
+    "venue": "The House Cafe",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/8/2016",
+    "city": "Ypsilanti",
+    "state": "MI",
+    "venue": "House Show",
+    "otherbands": "Tyler Berd, Soft Milk, Harison, Rentstrike, Modus Operandi",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/9/2016",
+    "city": "Wooster",
+    "state": "OH",
+    "venue": "Gathering Grounds",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/10/2016",
+    "city": "Lakewood",
+    "state": "OH",
+    "venue": "Root Cafe",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/11/2016",
+    "city": "Rochester",
+    "state": "NY",
+    "venue": "The Little Box",
+    "otherbands": "Tyler Berd, Girl Alert",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/12/2016",
+    "city": "Syracuse",
+    "state": "NY",
+    "venue": "The Vault",
+    "otherbands": "Tyler Berd, Oxenfree, Say Brother",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/13/2016",
+    "city": "Sprakers",
+    "state": "NY",
+    "venue": "The Root",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/21/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Firehouse",
+    "otherbands": "The Ricecrackers, Alyssa Kai, Uh Huh, Julie Dworman, Blood Club, Daephne, The Michael Character, Space Camp, Negatives, Redmill, Fetal Position",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/26/2016",
+    "city": "Pawtucket",
+    "state": "RI",
+    "venue": "News Cafe",
+    "otherbands": "Bill Bartholomew Band, icky woods, The Adjuncts",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/27/2016",
+    "city": "Newport",
+    "state": "RI",
+    "venue": "Cafe at Parlor",
+    "otherbands": "Bill Bartholomew Band, icky woods, The Adjuncts",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/2/2016",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Fuzz Hut",
+    "otherbands": "Badfellows, Heavy Pockets, Lilith",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/9/2016",
+    "city": "Poultney",
+    "state": "VT",
+    "venue": "Green Mountain College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/10/2016",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "Great Scott",
+    "otherbands": "The Sheila Divine, A Band Called E, magic magic., Minibeast, Eldridge Rodriguez, Mini Dresses, Crooked Horse",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/16/2016",
+    "city": "White River Junction",
+    "state": "VT",
+    "venue": "Main Street Museum",
+    "otherbands": "Divorce Lawyer, Ransom Smith, Jed Crook, Kate West, The Grebes, Chodus",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/18/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "George's Coney Island",
+    "otherbands": "LAArrest, Ronnie Vega",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/29/2016",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/30/2016",
+    "city": "Hartford",
+    "state": "CT",
+    "venue": "House Show",
+    "otherbands": "Space Camp, Bilge Rat, You Always Knew Me Last Week",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/1/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Firehouse",
+    "otherbands": "Elephants, Orafist, Uh Huh",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/1/2016",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Monadnock Fall Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/9/2016",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "38th Annual Oktoberfest",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/15/2016",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Unitarian Universalist Society of Amherst",
+    "otherbands": "shakusky, Archie Alone, Adam Reid & the In-Betweens",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/21/2016",
+    "city": "Dover",
+    "state": "NH",
+    "venue": "Wrong Brain",
+    "otherbands": "Greed Island, Wedding Camp, Limno",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/26/2016",
+    "city": "Nashua",
+    "state": "NH",
+    "venue": "Riverwalk Cafe",
+    "otherbands": "KateWest, BunnyBoy, Tyler Berd, Shiloh",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/10/2016",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "venue": "Flavortown",
+    "otherbands": "Yernest Boystein, Ben Phuckman, Luke Halloween",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/11/2016",
+    "city": "Richmond",
+    "state": "VA",
+    "venue": "Good Day",
+    "otherbands": "Wester Green, Honeyfitz, Hannah Goad",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/12/2016",
+    "city": "Raleigh",
+    "state": "NC",
+    "venue": "Kosher Hut",
+    "otherbands": "Arc Iris, SE Ward, New Boss",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/13/2016",
+    "city": "Conway",
+    "state": "SC",
+    "venue": "Beet Farm",
+    "otherbands": "Small Talks, Jackson May, Lull, This Documented Summer",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/14/2016",
+    "city": "Savannah",
+    "state": "GA",
+    "venue": "El Rocko Lounge",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/15/2016",
+    "city": "St. Augustine",
+    "state": "FL",
+    "venue": "The Gator Pit",
+    "otherbands": "Teresa Rose, No Pda, 86 Hope",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/16/2016",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "Rain Dogs",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/17/2016",
+    "city": "Orlando",
+    "state": "FL",
+    "venue": "St. Matthew's Tavern",
+    "otherbands": "Tragwag, David Yanik, Sticky Steve, Stephanie Grace, Wes Morrison",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/18/2016",
+    "city": "Tallahassee",
+    "state": "FL",
+    "venue": "Black Dog on the Square",
+    "otherbands": "Tragwag",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/19/2016",
+    "city": "Asheville",
+    "state": "NC",
+    "venue": "Slam Dunk House",
+    "otherbands": "Pictures of Vernon, Ghostdog",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/20/2016",
+    "city": "Baltimore",
+    "state": "MD",
+    "venue": "Goucher College",
+    "otherbands": "Ice-Baaat, Foster Carrots, Matt Ellin",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/21/2016",
+    "city": "Nazareth",
+    "state": "PA",
+    "venue": "Stehly's Bakery",
+    "otherbands": "Major Pursuit, Less Fuchsia, James Barrett",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "12/2/2016",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "The Litterbox",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/3/2016",
+    "city": "Poultney",
+    "state": "VT",
+    "venue": "Green Mountain College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/8/2016",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Shea Stadium",
+    "otherbands": "Jeffrey Lewis & Los Bolts, Winstons, The Pizza Boys, Saw Black",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/9/2016",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Lava Space",
+    "otherbands": "The Afterglows, King Azaz, Tail Light Rebellion, Breaking Glass",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/10/2016",
+    "city": "Lancaster",
+    "state": "PA",
+    "venue": "Arcade Lancaster",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/15/2016",
+    "city": "Newport",
+    "state": "RI",
+    "venue": "Pour Judgment",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/17/2016",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Shop",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/23/2016",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/31/2016",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Union Coffee",
+    "otherbands": "Wink & A Smile, Crowne Victoria",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/6/2017",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "Sofar Sounds",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "1/19/2017",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Bardo",
+    "otherbands": "Tree Party",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "1/28/2017",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Iron Horse Music Hall",
+    "otherbands": "Active Bird Community",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/3/2017",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Hotel Vernon",
+    "otherbands": "Brook Pridemore, dJeck, Snow Day, Earthward",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/4/2017",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "Cafe Nine",
+    "otherbands": "Ports of Spain, TheColorOrange, Pleasure Beach",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/10/2017",
+    "city": "Windsor",
+    "state": "VT",
+    "venue": "Windsor Station",
+    "otherbands": "The Pilgrims",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/11/2017",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Ukrainian American Citizen Club",
+    "otherbands": "Badfellows, Great White Tourist, New English",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/17/2017",
+    "city": "Durham",
+    "state": "NH",
+    "venue": "University of New Hampshire",
+    "otherbands": "Alcoa, Tancred, Heavy Pockets",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/2/2017",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "otherbands": "Brian Chaffee",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/3/2017",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Union Coffee",
+    "otherbands": "Little One",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/6/2017",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "The Luna Theater",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/9/2017",
+    "city": "Burlington",
+    "state": "VT",
+    "venue": "Radio Bean",
+    "otherbands": "Adam Wolf, Ivamae",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/10/2017",
+    "city": "Albany",
+    "state": "NY",
+    "venue": "The Low Beat",
+    "otherbands": "Bare Mattress, Yellow House, Top Nachos, Metum",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/11/2017",
+    "city": "Rochester",
+    "state": "NY",
+    "venue": "Vineyard Community Space",
+    "otherbands": "A Day Without Love, Drive me Home Please, Girl Cock",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/12/2017",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "Black Forge Coffee",
+    "otherbands": "Lawn Care, Isaiah Ross",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/13/2017",
+    "city": "Akron",
+    "state": "OH",
+    "venue": "The Overlook",
+    "otherbands": "Del Paxton, Ghost Slime, Backtalk, Nic Adkins",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/14/2017",
+    "city": "Indianapolis",
+    "state": "IN",
+    "venue": "Union 50",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/15/2017",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "Heartland Cafe",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/16/2017",
+    "city": "Rock Island",
+    "state": "IL",
+    "venue": "Rozz-Tox",
+    "otherbands": "Advance Base, Karima Walker",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/17/2017",
+    "city": "Grinnell",
+    "state": "IA",
+    "venue": "Bob's Underground Cafe",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/18/2017",
+    "city": "Minneapolis",
+    "state": "MN",
+    "venue": "The Auk's Roost",
+    "otherbands": "Mumblin' Drew, Eric Funn, Less than Organic",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/19/2017",
+    "city": "Madison",
+    "state": "WI",
+    "venue": "Indie Coffee",
+    "otherbands": "The Heligoats",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/21/2017",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "venue": "Tibb's Brewing Company",
+    "otherbands": "Axel Quinlan, Silphium Blooms",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/24/2017",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "The Greenhouse",
+    "otherbands": "Eva Cassel",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/25/2017",
+    "city": "Asheville",
+    "state": "NC",
+    "venue": "Echo Fest",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/26/2017",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Sofar Sounds",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/30/2017",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Umass Amherst Agricultural Engineering 119",
+    "otherbands": "Teenage Halloween, Snowhaus, Who Loves You",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/5/2017",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Gold Sounds",
+    "otherbands": "Daniel Bonespur, Eric Holm & Friends",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/14/2017",
+    "city": "Hadley",
+    "state": "MA",
+    "venue": "Tubecats",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/16/2017",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "30 Clif",
+    "otherbands": "Friendship, Most Selfless Cheerleader, Tough Boy",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/21/2017",
+    "city": "Kingston",
+    "state": "RI",
+    "venue": "URI Musicians Guild",
+    "otherbands": "Horse Jumper of Love, The Way Back When",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/22/2017",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Solar Fest",
+    "otherbands": "Animal Flag, Giraffes? Giraffes!, Bourgeois Mystics, The Most, Sons Who Dissapoint Their Fathers",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/3/2017",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "UnchARTed",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/5/2017",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Shaskeen",
+    "otherbands": "Teenage Halloween, Notches, Babylawns",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/14/2017",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Distant Castle",
+    "otherbands": "Mad Doctors, Forget the Times, Daphne Blue Underworld",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/19/2017",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Collective-a-go-go",
+    "otherbands": "Ghost Guest, Wydyde, Sleepovers",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/5/2017",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "Daisy Borders",
+    "otherbands": "Visibilities, Adjusted Speech, Teddy Farkas",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/16/2017",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "The Internet",
+    "otherbands": "Teenage Halloween, Space Camp, Paper Bee, Dump Him",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/20/2017",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "The Beau Chateau",
+    "otherbands": "Tyler Berd, Pat Dalton, Mike Kusek, Dani Probably, S.G. Carlson",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/21/2017",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Parkside Lounge",
+    "otherbands": "Tyler Berd, Scout Harris, HalfMoon, Rich Seibert",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/22/2017",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "The Overlook Hotel",
+    "otherbands": "Tyler Berd, Branden Bauer, Georgey V",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/23/2017",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "SuperMonkey",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/24/2017",
+    "city": "Athens",
+    "state": "OH",
+    "venue": "The New Happiness",
+    "otherbands": "Tyler Berd, Emma Schultz, Half Bath",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/25/2017",
+    "city": "Terre Haute",
+    "state": "IN",
+    "venue": "The Foxhole",
+    "otherbands": "Tyler Berd, Medvedi",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/26/2017",
+    "city": "St. Louis",
+    "state": "MO",
+    "venue": "Foam",
+    "otherbands": "Tyler Berd, The Goes, I Could Sleep in the Clouds",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/27/2017",
+    "city": "Lawrence",
+    "state": "KS",
+    "venue": "Jackpot Music Hall",
+    "otherbands": "Tyler Berd, The Good Hearts",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/28/2017",
+    "city": "Boulder",
+    "state": "CO",
+    "venue": "Rad-ish Collective",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/29/2017",
+    "city": "Albuquerque",
+    "state": "NM",
+    "venue": "The Wagon Wheel",
+    "otherbands": "Tyler Berd, Sleepy Hero",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/30/2017",
+    "city": "Tucson",
+    "state": "AZ",
+    "venue": "Pomoro",
+    "otherbands": "Tyler Berd, WestOasis, Pleasures, MicTV",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/1/2017",
+    "city": "Pasadena",
+    "state": "CA",
+    "venue": "House Show",
+    "otherbands": "Tyler Berd, The Freakniks",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/3/2017",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "House Show",
+    "otherbands": "Tyler Berd, Wes Leslie, Tre Burt",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/4/2017",
+    "city": "Reno",
+    "state": "NV",
+    "venue": "Park Place",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/5/2017",
+    "city": "Eugene",
+    "state": "OR",
+    "venue": "Old Nick's Pub",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/7/2017",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "Jade Lounge",
+    "otherbands": "Tyler Berd, John Miller",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/8/2017",
+    "city": "Seattle",
+    "state": "WA",
+    "venue": "Tacoma Dome Wallingford",
+    "otherbands": "Tyler Berd, Nessa, Samuel J Parkin, Craig Salt Peters, Antonioni",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/9/2017",
+    "city": "Olympia",
+    "state": "WA",
+    "venue": "Josh's Restaurant",
+    "otherbands": "Tyler Berd, First Boyfriend, Squilll",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/10/2017",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "High Note Cafe",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/12/2017",
+    "city": "Ames",
+    "state": "IA",
+    "venue": "Deano's 119",
+    "otherbands": "Tyler Berd, Jon Marko and the Good Cooks",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/13/2017",
+    "city": "La Crosse",
+    "state": "WI",
+    "venue": "The Root Note",
+    "otherbands": "Tyler Berd, Ferdinand the Bull",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/14/2017",
+    "city": "Minneapolis",
+    "state": "MN",
+    "venue": "Solid State Records",
+    "otherbands": "Tyler Berd, Bella Yaga",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/15/2017",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "Gman Tavern",
+    "otherbands": "Tyler Berd, i.e. kokoro",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/16/2017",
+    "city": "DeKalb",
+    "state": "IL",
+    "venue": "7th Street Space",
+    "otherbands": "Tyler Berd, The Heligoats, Joy Boy",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/17/2017",
+    "city": "South Bend",
+    "state": "IN",
+    "venue": "The General Deli & Cafe",
+    "otherbands": "Tyler Berd, Tiemen Godwaldt",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/18/2017",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "venue": "Selner Bros. Music",
+    "otherbands": "Tyler Berd, Hopie Jo, Savannah Gonsoulin",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/19/2017",
+    "city": "Berea",
+    "state": "OH",
+    "venue": "Sunnyvale Trailer Park",
+    "otherbands": "Tyler Berd, Wes Meadows, Kellen Bearden",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/20/2017",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "Curlys",
+    "otherbands": "Tyler Berd, Little Cake, Derick Evans, Andrew Biggie",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/19/2017",
+    "city": "Sprakers",
+    "state": "NY",
+    "venue": "The Root",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/20/2017",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Collective-a-go-go",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/24/2017",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Milford Community House",
+    "otherbands": "Will Hatch and Friends",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/30/2017",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Remedy Music",
+    "otherbands": "Perennial, Gnards, Milk",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/2/2017",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Keene Music Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/15/2017",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Brooklyn Art Library",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/16/2017",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Sammy's Sugar Shack",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/21/2017",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "O'Brien's",
+    "otherbands": "Mill Pond Falls, The Furniture, American Echoes",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/22/2017",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "The Grind @ Clark University",
+    "otherbands": "Sports",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/23/2017",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "The Tip",
+    "otherbands": "Giant in the Lighthouse, Secret Spirit, Board Games",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/23/2017",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Ukrainian American Citizen Club",
+    "otherbands": "Uglyswan, New English, Brad Schneider",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/29/2017",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "Psychic Readings",
+    "otherbands": "Lady Queen Paradise, Sweetpea Pumpkin",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/30/2017",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "DiWHY Taping",
+    "otherbands": "Roz and the Rice Cakes, Zanders, Rogozo, Leonia Teaneck",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/5/2017",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Shaskeen",
+    "otherbands": "Dwarf Cannon, New English, Giant in the Lighthouse",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/20/2017",
+    "city": "Durham",
+    "state": "NH",
+    "venue": "University of New Hampshire",
+    "otherbands": "Jeff Rosenstock, Mint Green",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/26/2017",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/28/2017",
+    "city": "Rutland",
+    "state": "MA",
+    "venue": "Votrubapalooza",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/1/2017",
+    "city": "Troy",
+    "state": "NY",
+    "venue": "151 Sub",
+    "otherbands": "A Box of Stars, Hunter, Raven Hazard",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/2/2017",
+    "city": "Rochester",
+    "state": "NY",
+    "venue": "Small World Books",
+    "otherbands": "A Box of Stars, Jake Bellissimo, Girl Cock",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/3/2017",
+    "city": "Akron",
+    "state": "OH",
+    "venue": "Artisan Coffee",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/4/2017",
+    "city": "Bloomington",
+    "state": "IN",
+    "venue": "The Void",
+    "otherbands": "A Box of Stars, Time With Jameson",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/6/2017",
+    "city": "Ames",
+    "state": "IA",
+    "venue": "House Show",
+    "otherbands": "A Box of Stars, Jon Marko",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/7/2017",
+    "city": "Omaha",
+    "state": "NE",
+    "venue": "Brothers Lounge",
+    "otherbands": "A Box of Stars, Night Shapes, FiFi NoNo",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/8/2017",
+    "city": "Boulder",
+    "state": "CO",
+    "venue": "Tetris Art Collective",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/9/2017",
+    "city": "Denver",
+    "state": "CO",
+    "venue": "Skylark Lounge",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/10/2017",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "venue": "House Show",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/11/2017",
+    "city": "Boise",
+    "state": "ID",
+    "venue": "The Byrdhouse",
+    "otherbands": "A Box of Stars, Night Shapes, Lloyd and the Machete",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/13/2017",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "House Show",
+    "otherbands": "A Box of Stars, Hay Fever, Tyler Burdwood, Stella Walker, Ray North",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/14/2017",
+    "city": "Seattle",
+    "state": "WA",
+    "venue": "Bedlam Coffee",
+    "otherbands": "A Box of Stars, Maxwell Williams, William Bird, Hay Fever",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/22/2017",
+    "city": "Leominster",
+    "state": "MA",
+    "venue": "Rye & Thyme",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/24/2017",
+    "city": "Cambridge",
+    "state": "MA",
+    "venue": "Bardo",
+    "otherbands": "Ryan Major, Mike McCullagh",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/25/2017",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "Cafe Nine",
+    "otherbands": "Ports of Spain, Lew Alcindor, Dangerous Animals",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/26/2017",
+    "city": "Long Branch",
+    "state": "NJ",
+    "venue": "Celtic Cottage",
+    "otherbands": "Brother Andrew, Dave Mooney",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/27/2017",
+    "city": "Richmond",
+    "state": "VA",
+    "venue": "The Camel",
+    "otherbands": "Sid Kingsley, Blush Face, Addy",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/28/2017",
+    "city": "Asheville",
+    "state": "NC",
+    "venue": "Burger Bar",
+    "otherbands": "Eggshell Emily, M.T. Sullivan, Lo Wolf",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/29/2017",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Bathtub Republic",
+    "otherbands": "Staffers, Keeper",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/30/2017",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "All Night Diner",
+    "otherbands": "Most Selfless Cheerleader, Hour, Ylayali",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/1/2017",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "The Gutter",
+    "otherbands": "The Rizzos, Scout Harris",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/2/2017",
+    "city": "New Paltz",
+    "state": "NY",
+    "venue": "Nacho House",
+    "otherbands": "FONBA, Shred Flinstone, Sunflower",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/10/2018",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Collective-a-go-go",
+    "otherbands": "Miniature Philosopher, Visibilities",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/17/2018",
+    "city": "Lincoln",
+    "state": "NH",
+    "venue": "One Love Brewery",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/24/2018",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Blackheart Sound",
+    "otherbands": "TheColorOrange, New English, Brad Schneider",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/29/2018",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Union Coffee",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/18/2018",
+    "city": "Southbridge",
+    "state": "MA",
+    "venue": "Starlite Gallery",
+    "otherbands": "Weakened Friends, oldsoul, Backwards Dancer",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/25/2018",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Dark City Brewing Company",
+    "otherbands": "Derek Fimbel, Paul Driscoll, George Barber",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/8/2018",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Remedy Music",
+    "otherbands": "Kobika, Think Machine, Bunny Love",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/9/2018",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "The Cozy Coffin",
+    "otherbands": "The Grubs, Badfellows, Secret Spirit",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/27/2018",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "House Show",
+    "otherbands": "The Michael Character, Sidney Gish, Joey Dussault",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/29/2018",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Distant Castle",
+    "otherbands": "Uh Huh",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/30/2018",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "Cafe Nine",
+    "otherbands": "Witch Hair, Ports of Spain, Every Branch",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/6/2018",
+    "city": "Hadley",
+    "state": "MA",
+    "venue": "The Flip",
+    "otherbands": "Old Flame, Gabe Gill",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/25/2018",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Mangia Sano",
+    "otherbands": "Derek Russell Fimbel",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/26/2018",
+    "city": "Southbridge",
+    "state": "MA",
+    "venue": "Starlite Gallery",
+    "otherbands": "Teenage Halloween, Michael Jordan Touchdown Pass, DUMP HIM",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/27/2018",
+    "city": "Ogunquit",
+    "state": "ME",
+    "venue": "Leavitt Theater",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/8/2018",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "UnchARTed",
+    "otherbands": "Jeffrey Lewis & Los Bolts, Jeff Ticonderoga, Ben Farley",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/18/2018",
+    "city": "Sprakers",
+    "state": "NY",
+    "venue": "The Root",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/31/2018",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Hotel Vernon",
+    "otherbands": "Elephants, Sharp Shadows, Kangaroo",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/1/2018",
+    "city": "Keene",
+    "state": "NH",
+    "venue": "Keene Music Festival",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/2/2018",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Caffeine Underground",
+    "otherbands": "Behind the Facade, Another Astronaut, Childrens Books",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/7/2018",
+    "city": "Jamaica Plain",
+    "state": "MA",
+    "venue": "Midway Cafe",
+    "otherbands": "Bundles, Blame Shifters, Time & Place",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/22/2018",
+    "city": "Rutland",
+    "state": "MA",
+    "venue": "Votrubapalooza",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/26/2018",
+    "city": "Allentown",
+    "state": "PA",
+    "venue": "Coffee House Without Limits",
+    "otherbands": "Brook Pridemore, Jacob Norman Chainsaw Arm",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/27/2018",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "venue": "Roboto Project",
+    "otherbands": "Brook Pridemore, Appalachian Doom Gospel, Scratchy Blanket",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/28/2018",
+    "city": "Louisville",
+    "state": "KY",
+    "venue": "House Show",
+    "otherbands": "Brook Pridemore, Lori Jo Ray, Byrne Bridges",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/29/2018",
+    "city": "Bowling Green",
+    "state": "KY",
+    "venue": "Rocky's Bar",
+    "otherbands": "Brook Pridemore, True Crime, FFS",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/1/2018",
+    "city": "Fort Smith",
+    "state": "AR",
+    "venue": "House Show",
+    "otherbands": "Brook Pridemore, Holy Smokes, Takes the Cake",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/2/2018",
+    "city": "Denton",
+    "state": "TX",
+    "venue": "Denton County Brewing Company",
+    "otherbands": "Brook Pridemore, Two Knights, Tornup, Upsetting",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/3/2018",
+    "city": "Fort Worth",
+    "state": "TX",
+    "venue": "Lola's",
+    "otherbands": "Brook Pridemore, Zach Pack, Denver Williams",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/5/2018",
+    "city": "Houston",
+    "state": "TX",
+    "venue": "House of J",
+    "otherbands": "Brook Pridemore, Jeffer Thomason, Kim Jong Uno",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/6/2018",
+    "city": "New Orleans",
+    "state": "LA",
+    "venue": "Banks Street Bar & Grill",
+    "otherbands": "Brook Pridemore, Morgan Orion, Joanna Tomassoni",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/7/2018",
+    "city": "Tallahassee",
+    "state": "FL",
+    "venue": "Bark",
+    "otherbands": "Brook Pridemore, TRAGWAG, This Old Machine",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/8/2018",
+    "city": "Athens",
+    "state": "GA",
+    "venue": "Hendershot's",
+    "otherbands": "Brook Pridemore, Bed Deth, Gift Economy",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/9/2018",
+    "city": "Asheville",
+    "state": "NC",
+    "venue": "House Show",
+    "otherbands": "Brook Pridemore, Lo Wolf, Eggshell Emily",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/10/2018",
+    "city": "Huntington",
+    "state": "WV",
+    "venue": "Fort Nothing",
+    "otherbands": "Brook Pridemore, Tin Pan Parade",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/11/2018",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Asbury Park Brewery",
+    "otherbands": "Brook Pridemore, Avery Mandeville & the Man Devils, Program",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/12/2018",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "Three Sheets",
+    "otherbands": "Brook Pridemore, Laundry Day",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/13/2018",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "George's Coney Island Hot Dogs",
+    "otherbands": "Brook Pridemore, Mike Piss",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/15/2018",
+    "city": "Montpelier",
+    "state": "VT",
+    "venue": "Sweet Melissa's",
+    "otherbands": "Brook Pridemore",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/16/2018",
+    "city": "Portland",
+    "state": "ME",
+    "venue": "Sun Tiki Studios",
+    "otherbands": "Brook Pridemore, Peach Hat",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/17/2018",
+    "city": "Rockland",
+    "state": "MA",
+    "venue": "Puzzle Factory",
+    "otherbands": "Brook Pridemore, Noelle Micarelli, Driftwood Soldier, Comfortable Hole",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/18/2018",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Shaskeen",
+    "otherbands": "Brook Pridemore, Dwarf Cannon",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/19/2018",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "AS220",
+    "otherbands": "Brook Pridemore, FINE, Brian 4Ever",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/20/2018",
+    "city": "Easthampton",
+    "state": "MA",
+    "venue": "Flywheel",
+    "otherbands": "Brook Pridemore, Adam Reid and the In-Betweens",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/2/2018",
+    "city": "Becket",
+    "state": "MA",
+    "venue": "Dreamaway Lodge",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/9/2018",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Strong Style Coffee",
+    "otherbands": "King Pine",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/10/2018",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "The Gutter",
+    "otherbands": "The Rizzos, Kangaroo",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/11/2018",
+    "city": "Rochester",
+    "state": "NY",
+    "venue": "The Loony Bin",
+    "otherbands": "33% Girl",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/12/2018",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "venue": "Shakespeare's",
+    "otherbands": "BFF, Vishaps AKA Mummy Food",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/13/2018",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "Subterranean",
+    "otherbands": "Andrew Cohen & Light Coma, Snow Roller, Rented Rooms",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/14/2018",
+    "city": "Indianapolis",
+    "state": "IN",
+    "venue": "State Street Pub",
+    "otherbands": "Dr. Boldylocks, Sonora",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/15/2018",
+    "city": "Athens",
+    "state": "OH",
+    "venue": "The Union",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/16/2018",
+    "city": "Scranton",
+    "state": "PA",
+    "venue": "Irish Wolf",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/21/2018",
+    "city": "Leominster",
+    "state": "MA",
+    "venue": "Rye & Thyme",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/13/2018",
+    "city": "Amherst",
+    "state": "MA",
+    "venue": "Amherst VFW Post 754",
+    "otherbands": "Committee to Elect Pat Malone, Comet Pond",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/14/2018",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "AS220",
+    "otherbands": "Space Camp, Death by Chocolate",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/15/2018",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Kitty City",
+    "otherbands": "Committee to Elect Pat Malone, Solarvitch, Soul",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/17/2019",
+    "city": "Highlands",
+    "state": "NJ",
+    "venue": "Chubby Pickle",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "1/11/2019",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Parlor Room",
+    "otherbands": "Weakened Friends, Dump Him",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/8/2019",
+    "city": "Claremont",
+    "state": "NH",
+    "venue": "Sweet Fire BBQ",
+    "otherbands": "Cora James & the Tree Detectivs, Oroboro, Snowhaus, Flyeater",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/9/2019",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Starship",
+    "otherbands": "Troll 2, Visibilities",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/23/2019",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Gutter",
+    "otherbands": "Powersnap, The Mad Doctors, The Rizzos",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "2/28/2019",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Shaskeen",
+    "otherbands": "Eli & The Mammoth (last show), Something/Something, Happy Just to See You",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/8/2019",
+    "city": "Baltimore",
+    "state": "MD",
+    "venue": "Goucher College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/9/2019",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "venue": "House Show",
+    "otherbands": "Professor Caveman, Skylar Pocket, Teenage Halloween",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/12/2019",
+    "city": "Northampton",
+    "state": "MA",
+    "venue": "Bishop's Lounge",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "3/27/2019",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Cobra Club",
+    "otherbands": "A Box of Stars, Monster Furniture, Weird Mirror",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/28/2019",
+    "city": "Philadelphia",
+    "state": "PA",
+    "venue": "Germantown Espresso",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/29/2019",
+    "city": "Richmond",
+    "state": "VA",
+    "venue": "Woodbine House",
+    "otherbands": "A Box of Stars, The Wimps, Allie Smith, Hannah Goad",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "3/31/2019",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "Greenhouse",
+    "otherbands": "A Box of Stars, Orchid Runner",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/1/2019",
+    "city": "Atlanta",
+    "state": "GA",
+    "venue": "Hi-Lo Press",
+    "otherbands": "A Box of Stars, Freddily, Yankee Roses",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/2/2019",
+    "city": "Jacksonville",
+    "state": "FL",
+    "venue": "House Show",
+    "otherbands": "A Box of Stars, No PDA",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/3/2019",
+    "city": "Savannah",
+    "state": "GA",
+    "venue": "Fox Den",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/4/2019",
+    "city": "Raleigh",
+    "state": "NC",
+    "venue": "Slim's",
+    "otherbands": "A Box of Stars, Hardworker",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/5/2019",
+    "city": "Washington",
+    "state": "DC",
+    "venue": "Electric Maid",
+    "otherbands": "A Box of Stars, Seth Hershey Martin, Automatic Slim",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/6/2019",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "Coffee & Cotton",
+    "otherbands": "A Box of Stars, Fruity",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/7/2019",
+    "city": "Milford",
+    "state": "NH",
+    "venue": "Union Coffee",
+    "otherbands": "A Box of Stars, Kate West",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/8/2019",
+    "city": "Burlington",
+    "state": "VT",
+    "venue": "Radio Bean",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "4/14/2019",
+    "city": "Hartford",
+    "state": "CT",
+    "venue": "Trinity College",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/18/2019",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "4/19/2019",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Hotel Vernon",
+    "otherbands": "Bad Larrys, Scare City",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/16/2019",
+    "city": "Easthampton",
+    "state": "MA",
+    "venue": "Flywheel",
+    "otherbands": "Teenage Halloween, Crash the Owl Party, Product KF, St. Joan",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "5/17/2019",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Downtown Fest",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/13/2019",
+    "city": "Allston",
+    "state": "MA",
+    "venue": "Great Scott",
+    "otherbands": "Sweet Spirit",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/22/2019",
+    "city": "Westport",
+    "state": "CT",
+    "venue": "Wedding",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/27/2019",
+    "city": "Providence",
+    "state": "RI",
+    "venue": "House Show",
+    "otherbands": "Tyler Berd, Lady Queen Paradise",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "6/28/2019",
+    "city": "Hadley",
+    "state": "MA",
+    "venue": "The Kitty",
+    "otherbands": "Tyler Berd, Snowhaus, Death Spiral",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "6/29/2019",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Alphaville",
+    "otherbands": "Brook Pridemore, Irrevery, Kung Fu Crimewave",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "7/6/2019",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "Arts at the Armory Cafe",
+    "otherbands": "Tyler Berd, Puppy Problems",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/7/2019",
+    "city": "Ogunquit",
+    "state": "ME",
+    "venue": "Leavitt Theater",
+    "otherbands": "Tyler Berd, Jonee Earthquake",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/9/2019",
+    "city": "Rollinsford",
+    "state": "NH",
+    "venue": "House Show (Hannah's House)",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/11/2019",
+    "city": "Burlington",
+    "state": "VT",
+    "venue": "Radio Bean",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/12/2019",
+    "city": "Haverhill",
+    "state": "MA",
+    "venue": "The Bills",
+    "otherbands": "Tyler Berd, Tiny. the. Bear.",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/13/2019",
+    "city": "New York",
+    "state": "NY",
+    "venue": "Sofar Sounds",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "7/14/2019",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Pete's Candy Store",
+    "otherbands": "Tyler Berd, John Shakespeare",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/6/2019",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Ralph's Rock Diner",
+    "otherbands": "Spit-Take, Dando Fever",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/10/2019",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/11/2019",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Two Boots",
+    "otherbands": "Romi Hanoch, Monster Furniture, Scott Kodi",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/17/2019",
+    "city": "Sprakers",
+    "state": "NY",
+    "venue": "The Root",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "8/21/2019",
+    "city": "Los Angeles",
+    "state": "CA",
+    "venue": "The Other Door",
+    "otherbands": "Tyler Berd, Threewire, Bryan Guardado, Tito Woods",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/23/2019",
+    "city": "Roseville",
+    "state": "CA",
+    "venue": "Four Score Coffee",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/24/2019",
+    "city": "San Francisco",
+    "state": "CA",
+    "venue": "Sofar Sounds",
+    "otherbands": "Mama Haze, Sweet Lou & the and Lows",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/25/2019",
+    "city": "Reno",
+    "state": "NV",
+    "venue": "Urgent Care",
+    "otherbands": "Tyler Berd, Mabel",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/27/2019",
+    "city": "Port Orford",
+    "state": "OR",
+    "venue": "Mr. Ed's Espresso & Underground Pub",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/29/2019",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "No Fun",
+    "otherbands": "Tyler Berd, Scout Harris",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/30/2019",
+    "city": "Portland",
+    "state": "OR",
+    "venue": "Ty and Nat's House",
+    "otherbands": "Tyler Berd, ie kokoro, Chamber Fern",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "8/31/2019",
+    "city": "Tukwila",
+    "state": "WA",
+    "venue": "Lucky Liquor",
+    "otherbands": "Tyler Berd, Elena Loper",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "9/7/2019",
+    "city": "Rutland",
+    "state": "MA",
+    "venue": "Votrubapalooza",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/14/2019",
+    "city": "Princeton",
+    "state": "MA",
+    "venue": "Wedding",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/20/2019",
+    "city": "Fitchburg",
+    "state": "MA",
+    "venue": "Strong Style Coffee",
+    "otherbands": "Jesse Lljungren, Aaron Gonzalez",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/26/2019",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Shaskeen",
+    "otherbands": "Something/Something, Eagle Jesus, Depressors",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "9/27/2019",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Beatnik's",
+    "otherbands": "Waiver Wire, Strangewood, Twelveyes",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/12/2019",
+    "city": "Lowell",
+    "state": "MA",
+    "venue": "McSpanky's",
+    "otherbands": "Peaer, The Water Cycle, Downy Woodpecker, Emmett McCleary",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/19/2019",
+    "city": "Manchester",
+    "state": "NH",
+    "venue": "Cozy Coffin",
+    "otherbands": "Black Hatch, Trent, Trashboy",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "10/25/2019",
+    "city": "Brooklyn",
+    "state": "NY",
+    "venue": "Pete's Candy Store",
+    "otherbands": "John Shakespear",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "10/26/2019",
+    "city": "Somerville",
+    "state": "MA",
+    "venue": "The Jungle",
+    "otherbands": "Dutch Tulips, Today Junior, Dear Forbidden",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/2/2019",
+    "city": "Barre",
+    "state": "MA",
+    "venue": "Stone Cow Brewery",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/4/2019",
+    "city": "Albany",
+    "state": "NY",
+    "venue": "Chateau Shows",
+    "otherbands": "Pink Noise, Jelani Sei, The Obsessives",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/6/2019",
+    "city": "Buffalo",
+    "state": "NY",
+    "venue": "Duende",
+    "otherbands": "Jungle Steve",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/7/2019",
+    "city": "Athens",
+    "state": "OH",
+    "venue": "The Union",
+    "otherbands": "No Stars, Cutler Station, Natural Rat",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/8/2019",
+    "city": "Yellow Springs",
+    "state": "OH",
+    "venue": "Spirited Goat Coffee House",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/10/2019",
+    "city": "Chicago",
+    "state": "IL",
+    "venue": "Gman Tavern",
+    "otherbands": "Mint Mile, Hemhora & The Glass Band",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/12/2019",
+    "city": "Minneapolis",
+    "state": "MN",
+    "venue": "Kitty Kat Club",
+    "otherbands": "Bella Yaga, P. Larkin",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/14/2019",
+    "city": "Des Moines",
+    "state": "IA",
+    "venue": "House Show",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/15/2019",
+    "city": "St. Louis",
+    "state": "MO",
+    "venue": "The Livery",
+    "otherbands": "Stephen Wolf",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/17/2019",
+    "city": "Nashville",
+    "state": "TN",
+    "venue": "House Show",
+    "otherbands": "Carla Diaz, John Shakespear",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/18/2019",
+    "city": "Durham",
+    "state": "NC",
+    "venue": "House Show",
+    "otherbands": "Alex Treyz, Remona Dowell",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/20/2019",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "venue": "Asbury Hotel",
+    "otherbands": "Avery Mandeville, Devon Alana",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "11/22/2019",
+    "city": "Queens",
+    "state": "NY",
+    "venue": "The Footlight",
+    "otherbands": "Miracle Sweepstakes, Gorgeous, Railings",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/23/2019",
+    "city": "New Haven",
+    "state": "CT",
+    "venue": "Never Get to Be Cool",
+    "otherbands": "Winnebago Vacation, Skating, Knife Kickers",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "11/27/2019",
+    "city": "Barre",
+    "state": "MA",
+    "venue": "Stone Cow Brewery",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "12/14/2019",
+    "city": "Worcester",
+    "state": "MA",
+    "venue": "Hotel Vernon",
+    "otherbands": "Eye Witness, Tysk Tysk Task",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "12/15/2019",
+    "city": "Burlington",
+    "state": "VT",
+    "venue": "Light Club Lamp Shop",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "12/19/2019",
+    "city": "Gardner",
+    "state": "MA",
+    "venue": "Gardner Ale House",
+    "otherbands": "Brian Chaffee",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "January 2, 2020",
+    "venue": "Book & Bar",
+    "city": "Portstmouth",
+    "state": "NH",
+    "time": "TBA",
+    "link": "",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 3, 2020",
+    "venue": "Good Orneing",
+    "city": "Worcester",
+    "state": "MA",
+    "time": "7:00pm",
+    "link": "https://www.facebook.com/events/2480412808910523/",
+    "otherbands": "Tyler Berd, Bettny Roze, Lauri McNamara",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 4, 2020",
+    "venue": "Pete's Candy Store",
+    "city": "Brooklyn",
+    "state": "NY",
+    "time": "8:00pm",
+    "link": "https://www.petescandystore.com/calendar",
+    "otherbands": "Tyler Berd",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 5, 2020",
+    "venue": "O'Briens' Pub",
+    "city": "Allston",
+    "state": "MA",
+    "time": "8:00pm",
+    "link": "https://www.obrienspubboston.com/",
+    "otherbands": "Tyler Berd & His Deputies, Time & Place",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "January 9, 2020",
+    "venue": "Asbestos Farm",
+    "city": "Hadley",
+    "state": "MA",
+    "time": "9:00pm",
+    "link": "",
+    "otherbands": "Deer Scout, The Duchess, Jesus Vio, Gilt Head",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "January 16, 2020",
+    "venue": "Crumb Bar",
+    "city": "Littleton",
+    "state": "NH",
+    "time": "8:00pm",
+    "link": "",
+    "otherbands": "A Box of Stars",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 18, 2020",
+    "venue": "Wishbone Collective",
+    "city": "Winooski",
+    "state": "VT",
+    "time": "8:00pm",
+    "link": "",
+    "otherbands": "A Box of Stars, Old Sky",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 22, 2020",
+    "venue": "The Zoo",
+    "city": "Athens",
+    "state": "OH",
+    "time": "8:00pm",
+    "link": "",
+    "otherbands": "Sneakthief, Captain Chucke",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 24, 2020",
+    "venue": "The Livery",
+    "city": "St. Louis",
+    "state": "MO",
+    "time": "8:00pm",
+    "link": "",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 26, 2020",
+    "venue": "Plus On Block",
+    "city": "St. Paul",
+    "state": "MN",
+    "time": "8:00pm",
+    "link": "https://www.facebook.com/events/210587273302646/",
+    "otherbands": "Daniel Bonespur",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "January 28, 2020",
+    "venue": "Mute City",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "time": "8:00pm",
+    "link": "",
+    "otherbands": "Jimmie Bennett, King Bug",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "February 8, 2020",
+    "venue": "Firehouse",
+    "city": "Worcester",
+    "state": "MA",
+    "time": "8:00pm",
+    "link": "https://www.facebook.com/events/2531394930454272/",
+    "otherbands": "The Committee To Elect Pat Malone, Sasha Musik, Jazz Faculty",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "February 16, 2020",
+    "venue": "Kitty Citty",
+    "city": "Worcester",
+    "state": "MA",
+    "time": "7:00pm",
+    "link": "https://www.facebook.com/events/768257780331177/",
+    "otherbands": "Looks Like Mountains, Comet Pond, Moshi",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "February 28, 2020",
+    "venue": "Cafe Nine",
+    "city": "New Haven",
+    "state": "CT",
+    "time": "9:00pm",
+    "link": "https://www.facebook.com/events/594231998024135/",
+    "otherbands": "Shy, Jason Rule Three",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "February 29, 2020",
+    "venue": "Pet Rescue",
+    "city": "Brooklyn",
+    "state": "NY",
+    "time": "8:00pm",
+    "link": "https://www.facebook.com/events/2434072220178877/",
+    "otherbands": "The Rizzos, The Unders, Sammi Lanzetta",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "March 5, 2020",
+    "venue": "Shaskeen",
+    "city": "Manchester",
+    "state": "NH",
+    "time": "9:00pm",
+    "link": "https://www.facebook.com/events/125421742130215/",
+    "otherbands": "New Neighbors, Ham the Band, Odd Fellows Way",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "March 8, 2020",
+    "venue": "Nick's",
+    "city": "Worcester",
+    "state": "MA",
+    "time": "8:30pm",
+    "link": "",
+    "otherbands": "Bettny Roze",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "July 3, 2021",
+    "venue": "Union Coffee",
+    "city": "Milford",
+    "state": "NH",
+    "time": "5:00pm",
+    "link": "",
+    "otherbands": "Dwarf Cannon",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "July 10, 2021",
+    "venue": "Mike's Secret Garden",
+    "city": "Medford",
+    "state": "MA",
+    "time": "8:00pm",
+    "link": "",
+    "otherbands": "Mike & the Gang, Sunshine (at nite)",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "July 31, 2021",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "time": "8:30pm",
+    "link": "https://www.facebook.com/events/175552784548618",
+    "otherbands": "Eye Witness, The True Jacqueline",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "August 6, 2021",
+    "venue": "Rutland Town Common",
+    "city": "Rutland",
+    "state": "MA",
+    "time": "6:00pm",
+    "link": "https://www.townofrutland.org/300th-anniversary-committee/events/30341",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "August 11, 2021",
+    "venue": "Princeton Town Common",
+    "city": "Princeton",
+    "state": "MA",
+    "time": "6:00pm",
+    "link": "",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "August 21, 2021",
+    "venue": "The Root",
+    "city": "Sprakers",
+    "state": "NY",
+    "time": "8:00pm",
+    "link": "https://www.therootcommunity.org/limbsnapping",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "September 4, 2021",
+    "venue": "Keene Music Festival",
+    "city": "Keene",
+    "state": "NH",
+    "time": "8:00pm",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "September 11, 2021",
+    "venue": "Votrubapalooza",
+    "city": "Rutland",
+    "state": "MA",
+    "time": "7:00pm",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "October 2, 2021",
+    "venue": "Barre Town Common",
+    "city": "Barre",
+    "state": "MA",
+    "time": "11:30am",
+    "otherbands": "Say Uncle",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "October 13, 2021",
+    "venue": "Gardner Area League of Artists",
+    "city": "Gardner",
+    "state": "MA",
+    "time": "7:00pm",
     "link": "https://galagardner.org/",
-    "otherbands":"Jared Moore",
-    "solo_or_band":"solo"
+    "otherbands": "Jared Moore",
+    "solo_or_band": "solo"
   },
   {
-    "date":"October 30, 2021",
-    "venue":"Nick's Bar",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"8:00pm",
-    "otherbands":"Shaun Connelly, Troye Lonely",
-    "solo_or_band":"solo"
+    "date": "October 30, 2021",
+    "venue": "Nick's Bar",
+    "city": "Worcester",
+    "state": "MA",
+    "time": "8:00pm",
+    "otherbands": "Shaun Connelly, Troye Lonely",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 14, 2021",
-    "venue":"Bodacious Backyard",
-    "city":"Worcester",
-    "state":"MA",
-    "time":"2:00pm",
-    "otherbands":"Brook Pridemore, Troye Lonely",
-    "solo_or_band":"solo"
+    "date": "November 14, 2021",
+    "venue": "Bodacious Backyard",
+    "city": "Worcester",
+    "state": "MA",
+    "time": "2:00pm",
+    "otherbands": "Brook Pridemore, Troye Lonely",
+    "solo_or_band": "solo"
   },
   {
-    "date":"November 24, 2021",
-    "venue":"Stone Cow Brewery",
-    "city":"Barre",
-    "state":"MA",
-    "time":"6:00pm",
-    "otherbands":"",
-    "solo_or_band":"band"
+    "date": "November 24, 2021",
+    "venue": "Stone Cow Brewery",
+    "city": "Barre",
+    "state": "MA",
+    "time": "6:00pm",
+    "solo_or_band": "band"
   },
   {
-    "date":"May 1, 2022",
-    "venue":"State Park",
-    "city":"Cambridge",
-    "state":"MA",
-    "time":"8:30pm",
-    "otherbands":"Happy Just to See You",
-    "solo_or_band":"band",
+    "date": "May 1, 2022",
+    "venue": "State Park",
+    "city": "Cambridge",
+    "state": "MA",
+    "time": "8:30pm",
+    "otherbands": "Happy Just to See You",
+    "solo_or_band": "band",
     "link": "http://www.statepark.is/"
   },
   {
-    "date":"May 7, 2022",
-    "venue":"Candia Road Brewing",
-    "city":"Manchester",
-    "state":"NH",
-    "time":"6pm",
-    "otherbands":"Black Hatch",
-    "solo_or_band":"band",
+    "date": "May 7, 2022",
+    "venue": "Candia Road Brewing",
+    "city": "Manchester",
+    "state": "NH",
+    "time": "6pm",
+    "otherbands": "Black Hatch",
+    "solo_or_band": "band",
     "link": "https://www.candiaroadbrewingco.com/"
   },
   {
-    "date":"June 2, 2022",
-    "venue":"Notch Brewing",
-    "city":"Brighton",
-    "state":"MA",
-    "otherbands":"Mill Pond Falls",
-    "solo_or_band":"band",
+    "date": "June 2, 2022",
+    "venue": "Notch Brewing",
+    "city": "Brighton",
+    "state": "MA",
+    "otherbands": "Mill Pond Falls",
+    "solo_or_band": "band",
     "link": "https://www.notchbrewing.com/notchbrighton#brightonevents"
   },
   {
-    "date":"June 10, 2022",
-    "venue":"Terra Nova",
-    "city":"Keene",
-    "state":"NH",
-    "otherbands":"Blue Motel",
-    "solo_or_band":"band",
+    "date": "June 10, 2022",
+    "venue": "Terra Nova",
+    "city": "Keene",
+    "state": "NH",
+    "otherbands": "Blue Motel",
+    "solo_or_band": "band",
     "link": "https://www.novaarts.org/events/jakemckelvie"
   },
   {
-    "date":"June 24, 2022",
-    "venue":"Rutland Town Center",
-    "city":"Rutland",
-    "state":"MA",
-    "solo_or_band":"band"
+    "date": "June 24, 2022",
+    "venue": "Rutland Town Center",
+    "city": "Rutland",
+    "state": "MA",
+    "solo_or_band": "band"
   },
   {
-    "date":"July 2, 2022",
-    "venue":"Stone Cow Brewery",
-    "city":"Barre",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "July 2, 2022",
+    "venue": "Stone Cow Brewery",
+    "city": "Barre",
+    "state": "MA",
+    "solo_or_band": "band",
     "link": "https://www.carterandstevensfarm.com/events"
   },
   {
-    "date":"July 15, 2022",
-    "venue":"Hotel Vernon",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "July 15, 2022",
+    "venue": "Hotel Vernon",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Eye Witness, Tysk Tysk Task, Happy Little Clouds",
     "link": "https://www.facebook.com/HotelVernon16KelleySquare/"
   },
   {
-    "date":"July 16, 2022",
+    "date": "July 16, 2022",
     "time": "2-4pm",
-    "venue":"Worcester Bazaar",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "venue": "Worcester Bazaar",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
     "otherbands": "Daniel Gay",
     "link": "https://worcesterbazaar.com/"
   },
   {
-    "date":"July 18, 2022",
-    "venue":"Hippy Hollow",
-    "city":"Greenville",
-    "state":"NH",
-    "solo_or_band":"solo",
+    "date": "July 18, 2022",
+    "venue": "Hippy Hollow",
+    "city": "Greenville",
+    "state": "NH",
+    "solo_or_band": "solo",
     "otherbands": "Jonah Tolchin, Coyote Island",
     "link": "https://www.hippyhollowrecordings.com/copy-of-the-double-crossers-1"
   },
   {
-    "date":"August 18, 2022",
-    "venue":"Notch Brewing",
-    "city":"Brighton",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "August 18, 2022",
+    "venue": "Notch Brewing",
+    "city": "Brighton",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Dwarf Cannon",
     "link": "https://www.notchbrewing.com/notchbrighton#brightonevents"
   },
   {
-    "date":"August 19, 2022",
-    "venue":"Limb Snapping",
-    "city":"Sprakers",
-    "state":"NY",
-    "solo_or_band":"band",
+    "date": "August 19, 2022",
+    "venue": "Limb Snapping",
+    "city": "Sprakers",
+    "state": "NY",
+    "solo_or_band": "band",
     "link": "https://www.therootcommunity.org/limbsnapping"
   },
   {
-    "date":"August 22, 2022",
-    "venue":"Rockwood Music Hall",
-    "city":"New York",
-    "state":"NY",
-    "solo_or_band":"solo",
+    "date": "August 22, 2022",
+    "venue": "Rockwood Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "solo_or_band": "solo",
     "link": "https://rockwoodmusichall.com/",
     "otherbands": "JR Atkins"
   },
   {
-    "date":"August 25, 2022",
-    "venue":"Red Ink",
-    "city":"Providence",
-    "state":"RI",
-    "solo_or_band":"solo",
+    "date": "August 25, 2022",
+    "venue": "Red Ink",
+    "city": "Providence",
+    "state": "RI",
+    "solo_or_band": "solo",
     "otherbands": "Tragwag, Lady Queen Paradise",
     "link": "https://www.redinkri.org/events/tragwag-with-jake-mckelvie-and-lady-queen-paradise"
   },
   {
-    "date":"August 26, 2022",
-    "venue":"Wishbone Collective",
-    "city":"Winooski",
-    "state":"VT",
-    "solo_or_band":"solo",
+    "date": "August 26, 2022",
+    "venue": "Wishbone Collective",
+    "city": "Winooski",
+    "state": "VT",
+    "solo_or_band": "solo",
     "otherbands": "Tragwag, A Box of Stars, Lillian and the Muses",
     "link": "https://www.wishbonecollectivevt.com/"
   },
   {
-    "date":"August 27, 2022",
-    "venue":"Thirsty First",
-    "city":"Lowell",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "date": "August 27, 2022",
+    "venue": "Thirsty First",
+    "city": "Lowell",
+    "state": "MA",
+    "solo_or_band": "solo",
     "otherbands": "Tragwag, Inspector 34, PWRUP",
     "link": "http://thirstyfirstma.com/"
   },
   {
-    "date":"September 2, 2022",
-    "venue":"Rutland Town Center",
-    "city":"Rutland",
-    "state":"MA",
-    "solo_or_band":"band"
+    "date": "September 2, 2022",
+    "venue": "Rutland Town Center",
+    "city": "Rutland",
+    "state": "MA",
+    "solo_or_band": "band"
   },
   {
-    "date":"September 3, 2022",
-    "venue":"Keene Music Festival",
-    "city":"Keene",
-    "state":"NH",
-    "solo_or_band":"band"
+    "date": "September 3, 2022",
+    "venue": "Keene Music Festival",
+    "city": "Keene",
+    "state": "NH",
+    "solo_or_band": "band"
   },
   {
-    "date":"September 4, 2022",
-    "venue":"Votrubapalooza",
-    "city":"Rutland",
-    "state":"MA",
-    "solo_or_band":"band"
+    "date": "September 4, 2022",
+    "venue": "Votrubapalooza",
+    "city": "Rutland",
+    "state": "MA",
+    "solo_or_band": "band"
   },
   {
-    "date":"September 15, 2022",
+    "date": "September 15, 2022",
     "time": "8:00pm",
-    "venue":"Faces",
-    "city":"Malden",
-    "state":"MA",
-    "solo_or_band":"band",
+    "venue": "Faces",
+    "city": "Malden",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Mike Frazier, Today Junior",
     "link": "https://www.facesbrewing.com/store/event/rtt-sum-studios-present-mike-frazier-today-junior-jake-mckelvie-the-countertops/"
   },
   {
-    "date":"September 17, 2022",
+    "date": "September 17, 2022",
     "time": "4:30pm",
-    "venue":"Milk Room Brewing Co.",
-    "city":"Rutland",
-    "state":"MA",
-    "solo_or_band":"band",
+    "venue": "Milk Room Brewing Co.",
+    "city": "Rutland",
+    "state": "MA",
+    "solo_or_band": "band",
     "link": "https://www.milkroombrewing.com/musicandfood"
   },
   {
-    "date":"October 7, 2022",
-    "venue":"Cafe Nine",
-    "city":"New Haven",
-    "state":"CT",
-    "solo_or_band":"band",
+    "date": "October 7, 2022",
+    "venue": "Cafe Nine",
+    "city": "New Haven",
+    "state": "CT",
+    "solo_or_band": "band",
     "otherbands": "Ports of Spain, Dust Hat",
     "link": "https://www.tixr.com/groups/cafenine/events/ports-of-spain-jake-mckelvie-countertops-dust-hat-50282"
   },
   {
-    "date":"October 8, 2022",
-    "venue":"Bar Freda",
-    "city":"Queens",
-    "state":"NY",
-    "solo_or_band":"band",
+    "date": "October 8, 2022",
+    "venue": "Bar Freda",
+    "city": "Queens",
+    "state": "NY",
+    "solo_or_band": "band",
     "link": "https://www.barfreda.com"
   },
   {
-    "date":"October 17, 2022",
-    "venue":"10 Forward",
-    "city":"Greenfield",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "date": "October 17, 2022",
+    "venue": "10 Forward",
+    "city": "Greenfield",
+    "state": "MA",
+    "solo_or_band": "solo",
     "otherbands": "Brook Pridemore, Troll 2",
     "link": "https://www.10forwardartsvenue.org"
   },
   {
-    "date":"October 21, 2022",
-    "venue":"Dusk",
-    "city":"Providence",
-    "state":"RI",
-    "solo_or_band":"band",
+    "date": "October 21, 2022",
+    "venue": "Dusk",
+    "city": "Providence",
+    "state": "RI",
+    "solo_or_band": "band",
     "link": "http://duskprovidence.com/"
   },
   {
-    "date":"November 23, 2022",
+    "date": "November 23, 2022",
     "time": "5-8pm",
-    "venue":"Stone Cow Brewery",
-    "city":"Barre",
-    "state":"MA",
-    "solo_or_band":"band",
+    "venue": "Stone Cow Brewery",
+    "city": "Barre",
+    "state": "MA",
+    "solo_or_band": "band",
     "link": "https://www.stonecowbrewery.com/"
   },
   {
-    "date":"December 4, 2022",
+    "date": "December 4, 2022",
     "time": "7:30pm",
-    "venue":"Hawks &amp; Reed",
-    "city":"Greenfield",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "venue": "Hawks &amp; Reed",
+    "city": "Greenfield",
+    "state": "MA",
+    "solo_or_band": "solo",
     "link": "https://www.hawksandreed.com/event/madhouse-local-concert-series-jake-mckelvie-big-big-buildings-more-tba/"
   },
   {
-    "date":"February 22, 2023",
+    "date": "February 22, 2023",
     "time": "9:30pm",
-    "venue":"Rockwood Music Hall",
-    "city":"New York",
-    "state":"NY",
-    "solo_or_band":"solo",
+    "venue": "Rockwood Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "solo_or_band": "solo",
     "link": "https://rockwoodmusichall.com/event/jake-mckelvie-the-countertops/"
   },
   {
-    "date":"March 9, 2023",
+    "date": "March 9, 2023",
     "time": "9:00pm",
-    "venue":"The Rockwell",
-    "city":"Somerville",
-    "state":"MA",
-    "solo_or_band":"solo",
-    "otherbands":"Zoe Rose De Paz, Grace Givertz",
+    "venue": "The Rockwell",
+    "city": "Somerville",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Zoe Rose De Paz, Grace Givertz",
     "link": "https://www.eventbrite.com/e/after-hours-by-zoe-rose-depaz-tickets-527541459707"
   },
   {
-    "date":"April 1, 2023",
+    "date": "April 1, 2023",
     "time": "8:00pm",
-    "venue":"Sawtooth Kitchen",
-    "city":"Hanover",
-    "state":"NH",
-    "solo_or_band":"solo",
-    "otherbands":"The Pilgrims, Western Terrestrials",
+    "venue": "Sawtooth Kitchen",
+    "city": "Hanover",
+    "state": "NH",
+    "solo_or_band": "solo",
+    "otherbands": "The Pilgrims, Western Terrestrials",
     "link": ""
   },
   {
-    "date":"April 6, 2023",
+    "date": "April 6, 2023",
     "time": "7:00pm",
-    "venue":"Notch Brewing",
-    "city":"Brighton",
-    "state":"MA",
-    "solo_or_band":"band",
-    "otherbands":"Thalia Zedek",
+    "venue": "Notch Brewing",
+    "city": "Brighton",
+    "state": "MA",
+    "solo_or_band": "band",
+    "otherbands": "Thalia Zedek",
     "link": ""
   },
   {
-    "date":"April 13, 2023",
+    "date": "April 13, 2023",
     "time": "7:00pm",
-    "venue":"Notch Brewing",
-    "city":"Brighton",
-    "state":"MA",
-    "solo_or_band":"band",
-    "otherbands":"Dutch Tulips",
+    "venue": "Notch Brewing",
+    "city": "Brighton",
+    "state": "MA",
+    "solo_or_band": "band",
+    "otherbands": "Dutch Tulips",
     "link": ""
   },
   {
-    "date":"April 20, 2023",
+    "date": "April 20, 2023",
     "time": "7:00pm",
-    "venue":"Notch Brewing",
-    "city":"Brighton",
-    "state":"MA",
-    "solo_or_band":"band",
-    "otherbands":"Slim Volume, Puppy Problems",
+    "venue": "Notch Brewing",
+    "city": "Brighton",
+    "state": "MA",
+    "solo_or_band": "band",
+    "otherbands": "Slim Volume, Puppy Problems",
     "link": ""
   },
   {
-    "date":"April 27, 2023",
+    "date": "April 27, 2023",
     "time": "7:00pm",
-    "venue":"Notch Brewing",
-    "city":"Brighton",
-    "state":"MA",
-    "solo_or_band":"band",
-    "otherbands":"Ezra Cohen and the Big City Band, Andy Cohen",
+    "venue": "Notch Brewing",
+    "city": "Brighton",
+    "state": "MA",
+    "solo_or_band": "band",
+    "otherbands": "Ezra Cohen and the Big City Band, Andy Cohen",
     "link": ""
   },
   {
-    "date":"May 12, 2023",
+    "date": "May 12, 2023",
     "time": "7:00pm",
-    "venue":"Nova Arts",
-    "city":"Keene",
-    "state":"NH",
-    "solo_or_band":"band",
-    "otherbands":"Vapors of Morphine",
+    "venue": "Nova Arts",
+    "city": "Keene",
+    "state": "NH",
+    "solo_or_band": "band",
+    "otherbands": "Vapors of Morphine",
     "link": "https://www.novaarts.org/events/vaporsofmorphine512"
   },
   {
-    "date":"May 19, 2023",
+    "date": "May 19, 2023",
     "time": "8:00pm",
-    "venue":"Hawks &amp; Reed",
-    "city":"Greenfield",
-    "state":"MA",
-    "solo_or_band":"solo",
-    "otherbands":"Misery Quilts",
+    "venue": "Hawks &amp; Reed",
+    "city": "Greenfield",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Misery Quilts",
     "link": "https://www.hawksandreed.com/event/jake-mckelvie-misery-quilts-dearest-hearts/"
   },
   {
-    "date":"July 7, 2023",
+    "date": "July 7, 2023",
     "time": "8:00pm",
-    "venue":"Electric Haze",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"solo",
-    "otherbands":""
+    "venue": "Electric Haze",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": ""
   },
   {
-    "date":"July 14, 2023",
+    "date": "July 14, 2023",
     "time": "8:00pm",
-    "venue":"Radio Bean",
-    "city":"Burlington",
-    "state":"VT",
-    "solo_or_band":"solo",
-    "otherbands":"Rockin' Worms, Laces"
+    "venue": "Radio Bean",
+    "city": "Burlington",
+    "state": "VT",
+    "solo_or_band": "solo",
+    "otherbands": "Rockin' Worms, Laces"
   },
   {
-    "date":"July 15, 2023",
+    "date": "July 15, 2023",
     "time": "3:00pm",
-    "venue":"House Show",
-    "city":"Lancaster",
-    "state":"NH",
-    "solo_or_band":"solo",
-    "otherbands":"Jonee Earthquake Band, Marianne Toilet, Tsunamibots, Milk Street, Ragz to Stitchez, The Hungwells"
+    "venue": "House Show",
+    "city": "Lancaster",
+    "state": "NH",
+    "solo_or_band": "solo",
+    "otherbands": "Jonee Earthquake Band, Marianne Toilet, Tsunamibots, Milk Street, Ragz to Stitchez, The Hungwells"
   },
   {
-    "date":"July 22, 2023",
+    "date": "July 22, 2023",
     "time": "4:00pm",
-    "venue":"The Overlook",
-    "city":"Lowell",
-    "state":"MA",
-    "solo_or_band":"solo",
-    "otherbands":"George Barber, Modern Fools, Rachel Berlin"
+    "venue": "The Overlook",
+    "city": "Lowell",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "George Barber, Modern Fools, Rachel Berlin"
   },
   {
-    "date":"July 23, 2023",
+    "date": "July 23, 2023",
     "time": "4:00pm",
-    "venue":"Hippy Hollow",
-    "city":"Greenville",
-    "state":"NH",
-    "solo_or_band":"solo",
-    "otherbands":"Darling Hill, Justin Cohn, Sunset Electric, Nick di Cicco, Tom Rousseau, Charlie Chronopolous, Kenny &amp; the Grateful Deb"
+    "venue": "Hippy Hollow",
+    "city": "Greenville",
+    "state": "NH",
+    "solo_or_band": "solo",
+    "otherbands": "Darling Hill, Justin Cohn, Sunset Electric, Nick di Cicco, Tom Rousseau, Charlie Chronopolous, Kenny &amp; the Grateful Deb"
   },
   {
-    "date":"August 5, 2023",
+    "date": "August 5, 2023",
     "time": "8:00pm",
-    "venue":"Starlite",
-    "city":"Southbridge",
-    "state":"MA",
-    "solo_or_band":"solo",
-    "otherbands":"Young Man Winter, Berm, Yes Chef!"
+    "venue": "Starlite",
+    "city": "Southbridge",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Young Man Winter, Berm, Yes Chef!"
   },
   {
-    "date":"August 6, 2023",
+    "date": "August 6, 2023",
     "time": "8:00pm",
-    "venue":"Hawks &amp; Reed",
-    "city":"Greenfield",
-    "state":"MA",
-    "solo_or_band":"solo",
-    "otherbands":"Berm, Padded Waltz"
+    "venue": "Hawks &amp; Reed",
+    "city": "Greenfield",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Berm, Padded Waltz"
   },
   {
-    "date":"August 16, 2023",
+    "date": "August 16, 2023",
     "time": "5:00pm",
-    "venue":"Town Common",
-    "city":"Rochester",
-    "state":"NH",
-    "solo_or_band":"band"
+    "venue": "Town Common",
+    "city": "Rochester",
+    "state": "NH",
+    "solo_or_band": "band"
   },
   {
-    "date":"August 19, 2023",
+    "date": "August 19, 2023",
     "time": "8:00pm",
-    "venue":"The Root",
-    "city":"Sprakers",
-    "state":"NY",
-    "solo_or_band":"band"
+    "venue": "The Root",
+    "city": "Sprakers",
+    "state": "NY",
+    "solo_or_band": "band"
   },
   {
-    "date":"August 30, 2023",
+    "date": "August 30, 2023",
     "time": "8:00pm",
-    "venue":"Starlite",
-    "city":"Southbridge",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "venue": "Starlite",
+    "city": "Southbridge",
+    "state": "MA",
+    "solo_or_band": "solo",
     "otherbands": "Tyler Berd, Berm, Adam Reid and the In-Betweens"
   },
   {
-    "date":"September 2, 2023",
+    "date": "September 2, 2023",
     "time": "12:00pm",
-    "venue":"Votrubapalooza",
-    "city":"Rutland",
-    "state":"MA",
-    "solo_or_band":"band",
+    "venue": "Votrubapalooza",
+    "city": "Rutland",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Bass Sabbath, The Blizzard of Vobes, Leon Trout, Magic Island, Immortal Jellyfish, Dwarf Cannon, Zigmont, Big Brute, Happy Just to See You, Whalom Park, Hopeville General Store, Dando Fever, Jim Gosling"
   },
   {
-    "date":"September 12, 2023",
-    "venue":"House Show",
-    "city":"Swansea",
-    "state":"Wales, UK",
-    "solo_or_band":"solo",
+    "date": "September 12, 2023",
+    "venue": "House Show",
+    "city": "Swansea",
+    "state": "Wales, UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka"
   },
   {
-    "date":"September 13, 2023",
-    "venue":"North Quarter",
-    "city":"Huddersfield",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "September 13, 2023",
+    "venue": "North Quarter",
+    "city": "Huddersfield",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka"
   },
   {
-    "date":"September 14, 2023",
-    "venue":"JT Soar",
-    "city":"Nottingham",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "September 14, 2023",
+    "venue": "JT Soar",
+    "city": "Nottingham",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka"
   },
   {
-    "date":"September 15, 2023",
-    "venue":"Art Barge",
-    "city":"Yorkshire",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "September 15, 2023",
+    "venue": "Art Barge",
+    "city": "Yorkshire",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka"
   },
   {
-    "date":"September 16, 2023",
-    "venue":"House Show",
-    "city":"London",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "September 16, 2023",
+    "venue": "House Show",
+    "city": "London",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka"
   },
   {
-    "date":"September 22, 2023",
-    "venue":"Hole in the Wall",
-    "city":"Kilkenny",
-    "state":"IE",
-    "solo_or_band":"solo"
+    "date": "September 22, 2023",
+    "venue": "Hole in the Wall",
+    "city": "Kilkenny",
+    "state": "IE",
+    "solo_or_band": "solo"
   },
   {
-    "date":"October 14, 2023",
-    "venue":"Coffee and Cotton",
-    "city":"Lowell",
-    "state":"MA",
-    "solo_or_band":"solo"
+    "date": "October 14, 2023",
+    "venue": "Coffee and Cotton",
+    "city": "Lowell",
+    "state": "MA",
+    "solo_or_band": "solo"
   },
   {
-    "date":"October 29, 2023",
-    "venue":"Cantab Lounge",
-    "city":"Cambridge",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "date": "October 29, 2023",
+    "venue": "Cantab Lounge",
+    "city": "Cambridge",
+    "state": "MA",
+    "solo_or_band": "solo",
     "otherbands": "Lucky Star, The Knife Kickers, Max Morton"
   },
   {
-    "date":"October 30, 2023",
-    "venue":"Distant Castle",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "date": "October 30, 2023",
+    "venue": "Distant Castle",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
     "otherbands": "Loveseat, Fake Sebadoh, Dee Dee King (Pete, Eric, Keith, Steve)"
   },
   {
-    "date":"November 4, 2023",
-    "venue":"Teatotaller Cafe",
-    "city":"Concord",
-    "state":"NH",
-    "solo_or_band":"solo",
+    "date": "November 4, 2023",
+    "venue": "Teatotaller Cafe",
+    "city": "Concord",
+    "state": "NH",
+    "solo_or_band": "solo",
     "otherbands": "Trash Sun, Happy Just to See You"
   },
   {
-    "date":"November 7, 2023",
-    "venue":"Hotel Vernon",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "November 7, 2023",
+    "venue": "Hotel Vernon",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Jeffrey Lewis, The Burning Hell"
   },
   {
-    "date":"November 22, 2023",
-    "venue":"Stone Cow Brewery",
-    "city":"Barre",
-    "state":"MA",
-    "solo_or_band":"band"
+    "date": "November 22, 2023",
+    "venue": "Stone Cow Brewery",
+    "city": "Barre",
+    "state": "MA",
+    "solo_or_band": "band"
   },
   {
-    "date":"December 2, 2023",
-    "venue":"Mole Hill Theater",
-    "city":"Alstead",
-    "state":"NH",
-    "solo_or_band":"band",
+    "date": "December 2, 2023",
+    "venue": "Mole Hill Theater",
+    "city": "Alstead",
+    "state": "NH",
+    "solo_or_band": "band",
     "otherbands": "Modern Fools"
   },
   {
-    "date":"December 8, 2023",
-    "venue":"News Cafe",
-    "city":"Pawtucket",
-    "state":"RI",
-    "solo_or_band":"solo"
+    "date": "December 8, 2023",
+    "venue": "News Cafe",
+    "city": "Pawtucket",
+    "state": "RI",
+    "solo_or_band": "solo"
   },
   {
-    "date":"January 25, 2024",
-    "venue":"Notch Brewing",
-    "city":"Brighton",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "January 25, 2024",
+    "venue": "Notch Brewing",
+    "city": "Brighton",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Qvickdraw, Dalton Moon"
   },
   {
-    "date":"February 24, 2024",
-    "venue":"Starlite",
-    "city":"Southbridge",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "February 24, 2024",
+    "venue": "Starlite",
+    "city": "Southbridge",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Berm"
   },
   {
-    "date":"February 25, 2024",
-    "venue":"Ralph's Rock Diner",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "February 25, 2024",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Happy Just to See You, Hopeville General Store"
   },
   {
-    "date":"March 15, 2024",
-    "venue":"O'Briens",
-    "city":"Allston",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "March 15, 2024",
+    "venue": "O'Briens",
+    "city": "Allston",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Cloudbelly, Tiffy"
   },
   {
-    "date":"March 17, 2024",
-    "venue":"Myrtle",
-    "city":"East Providence",
-    "state":"RI",
-    "solo_or_band":"solo",
+    "date": "March 17, 2024",
+    "venue": "Myrtle",
+    "city": "East Providence",
+    "state": "RI",
+    "solo_or_band": "solo",
     "otherbands": "Jobie"
   },
   {
-    "date":"March 30, 2024",
-    "venue":"Union Coffee",
-    "city":"Milford",
-    "state":"NH",
-    "solo_or_band":"band",
+    "date": "March 30, 2024",
+    "venue": "Union Coffee",
+    "city": "Milford",
+    "state": "NH",
+    "solo_or_band": "band",
     "otherbands": "Trash Sun"
   },
   {
-    "date":"April 6, 2024",
-    "venue":"Ralph's Rock Diner",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "April 6, 2024",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Townes Van Zandt Tribute Night"
   },
   {
-    "date":"April 12, 2024",
-    "venue":"Prism Analog",
-    "city":"Portland",
-    "state":"ME",
-    "solo_or_band":"band",
+    "date": "April 12, 2024",
+    "venue": "Prism Analog",
+    "city": "Portland",
+    "state": "ME",
+    "solo_or_band": "band",
     "otherbands": "Big Brute, Hey I'm Outside",
     "link": "https://prismanalog.org/events/041224"
   },
   {
-    "date":"April 13, 2024",
-    "venue":"Button Factory",
-    "city":"Portsmouth",
-    "state":"NH",
-    "solo_or_band":"band",
+    "date": "April 13, 2024",
+    "venue": "Button Factory",
+    "city": "Portsmouth",
+    "state": "NH",
+    "solo_or_band": "band",
     "otherbands": "Jim Gosling, Sweet Petunia, Regals",
     "link": "https://wscafm.org/event/jake-mckelvie-april-13th/"
   },
   {
-    "date":"April 14, 2024",
-    "venue":"Bishop's Lounge",
-    "city":"Northampton",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "April 14, 2024",
+    "venue": "Bishop's Lounge",
+    "city": "Northampton",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Cowperson, Chris Wardlaw"
   },
   {
-    "date":"April 15, 2024",
-    "venue":"Graveside Variety",
-    "city":"Woodstock",
-    "state":"NY",
-    "solo_or_band":"band",
+    "date": "April 15, 2024",
+    "venue": "Graveside Variety",
+    "city": "Woodstock",
+    "state": "NY",
+    "solo_or_band": "band",
     "otherbands": "Calder the Destroyer",
     "link": "https://www.gravesidevariety.com"
   },
   {
-    "date":"April 16, 2024",
-    "venue":"The Broadway",
-    "city":"Brooklyn",
-    "state":"NY",
-    "solo_or_band":"band",
+    "date": "April 16, 2024",
+    "venue": "The Broadway",
+    "city": "Brooklyn",
+    "state": "NY",
+    "solo_or_band": "band",
     "otherbands": "Tuxis Giant (solo), Eliza Edens, Annie Blackman",
     "link": "https://www.thebroadway.nyc/showcalendar/jake-mckelvie-w-annie-blackman-eliza-edens-tuxis-giant-solo"
   },
   {
-    "date":"April 17, 2024",
-    "venue":"Kung Fu Necktie",
-    "city":"Philadelphia",
-    "state":"PA",
-    "solo_or_band":"band",
+    "date": "April 17, 2024",
+    "venue": "Kung Fu Necktie",
+    "city": "Philadelphia",
+    "state": "PA",
+    "solo_or_band": "band",
     "otherbands": "Sweetboy, Chris Eichlin, Bristoltooth"
   },
   {
-    "date":"April 25, 2024",
-    "venue":"Ralph's Rock Diner",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "April 25, 2024",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Rattlorde"
   },
   {
-    "date":"May 4, 2024",
-    "venue":"Main Street Museum",
-    "city":"White River Junction",
-    "state":"VT",
-    "solo_or_band":"band",
+    "date": "May 4, 2024",
+    "venue": "Main Street Museum",
+    "city": "White River Junction",
+    "state": "VT",
+    "solo_or_band": "band",
     "otherbands": "Shy Husky, The Benji's"
   },
   {
-    "date":"May 11, 2024",
-    "venue":"Next Chapter Records",
-    "city":"Putney",
-    "state":"VT",
-    "solo_or_band":"solo"
+    "date": "May 11, 2024",
+    "venue": "Next Chapter Records",
+    "city": "Putney",
+    "state": "VT",
+    "solo_or_band": "solo"
   },
   {
-    "date":"May 16, 2024",
-    "venue":"The Thing in the Spring",
-    "city":"Keene",
-    "state":"NH",
-    "solo_or_band":"band",
+    "date": "May 16, 2024",
+    "venue": "The Thing in the Spring",
+    "city": "Keene",
+    "state": "NH",
+    "solo_or_band": "band",
     "otherbands": "Modern Fools, Paper Castles, Rick Rude, Bonnie, Stoner Will & the Narks, Strawberry Runners, Sierra D'Amours",
     "link": "https://www.novaarts.org/thething"
   },
   {
-    "date":"May 31, 2024",
-    "venue":"Off the Rails",
-    "city":"Worcester",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "May 31, 2024",
+    "venue": "Off the Rails",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "band",
     "otherbands": "Musical Guest on Shaun Connolly's Sort of Late Show",
     "link": "https://www.novaarts.org/thething"
   },
   {
-    "date":"July 19, 2024",
-    "venue":"The Heart Rose Club",
-    "city":"Brattleboro",
-    "state":"VT",
-    "solo_or_band":"solo",
+    "date": "July 19, 2024",
+    "venue": "The Heart Rose Club",
+    "city": "Brattleboro",
+    "state": "VT",
+    "solo_or_band": "solo",
     "otherbands": "Dylan Patrick Ward &amp; the Loveable Losers (album release show)"
   },
   {
-    "date":"July 26, 2024",
-    "venue":"NICE, a Fest",
-    "city":"Somerville",
-    "state":"MA",
-    "solo_or_band":"band",
+    "date": "July 26, 2024",
+    "venue": "NICE, a Fest",
+    "city": "Somerville",
+    "state": "MA",
+    "solo_or_band": "band",
     "link": "https://www.niceafest.com/"
   },
   {
-    "date":"August 6, 2024",
-    "venue":"Harrison",
-    "city":"London",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "August 6, 2024",
+    "venue": "Harrison",
+    "city": "London",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka",
     "link": "https://folkloreuk.com/event/1669/"
   },
   {
-    "date":"August 7, 2024",
-    "venue":"JT Soar",
-    "city":"Nottingham",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "August 7, 2024",
+    "venue": "JT Soar",
+    "city": "Nottingham",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka"
   },
   {
-    "date":"August 8, 2024",
-    "venue":"Star and Garter",
-    "city":"Manchester",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "August 8, 2024",
+    "venue": "Star and Garter",
+    "city": "Manchester",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka",
     "link": "https://www.eventbrite.com/e/chris-otepka-heligoats-and-jake-mckelvie-at-star-and-garter-manchester-tickets-956698670477"
   },
   {
-    "date":"August 9, 2024",
-    "venue":"Northern Quarter",
-    "city":"Huddersfield",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "August 9, 2024",
+    "venue": "Northern Quarter",
+    "city": "Huddersfield",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka",
     "link": "https://www.tickettailor.com/events/northernquarter/1316323"
   },
   {
-    "date":"August 10, 2024",
-    "venue":"The Tin Music and Arts",
-    "city":"Coventry",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "August 10, 2024",
+    "venue": "The Tin Music and Arts",
+    "city": "Coventry",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka",
     "link": "https://www.ticketweb.uk/event/the-heligoats-jake-mckelvie-the-tin-at-the-coal-tickets/13761113"
   },
   {
-    "date":"August 11, 2024",
-    "venue":"Arts Barge",
-    "city":"York",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "August 11, 2024",
+    "venue": "Arts Barge",
+    "city": "York",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Chris Otepka"
   },
   {
-    "date":"August 12, 2024",
-    "venue":"Leith Depot",
-    "city":"Edinburgh",
-    "state":"UK",
-    "solo_or_band":"solo",
+    "date": "August 12, 2024",
+    "venue": "Leith Depot",
+    "city": "Edinburgh",
+    "state": "UK",
+    "solo_or_band": "solo",
     "otherbands": "Eve Simpson"
   },
   {
-    "date":"August 31, 2024",
-    "venue":"Tiny Fest @ The River City Rhythm &amp; Rock Fest",
-    "city":"Fitchburg",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "date": "August 31, 2024",
+    "venue": "Tiny Fest @ The River City Rhythm &amp; Rock Fest",
+    "city": "Fitchburg",
+    "state": "MA",
+    "solo_or_band": "solo",
     "link": "https://www.coff33corp.org/rcrrf"
   },
   {
-    "date":"September 8, 2024",
-    "venue":"Candia Road Brewing",
-    "city":"Manchester",
-    "state":"NH",
-    "solo_or_band":"solo",
+    "date": "September 8, 2024",
+    "venue": "Candia Road Brewing",
+    "city": "Manchester",
+    "state": "NH",
+    "solo_or_band": "solo",
     "otherbands": "Trent Larrabee, Ken Higaonna, Ryan Tidwell"
   },
   {
-    "date":"September 20, 2024",
-    "venue":"One Broadway",
-    "city":"Lawrence",
-    "state":"MA",
-    "solo_or_band":"solo",
+    "date": "September 20, 2024",
+    "venue": "One Broadway",
+    "city": "Lawrence",
+    "state": "MA",
+    "solo_or_band": "solo",
     "link": "https://www.tickettailor.com/events/onebroadwaycollaborative/1286308"
   },
   {
-    "date":"October 9, 2024",
-    "venue":"Radio Bean",
-    "city":"Burlington",
-    "state":"VT",
-    "solo_or_band":"band",
+    "date": "October 9, 2024",
+    "venue": "Radio Bean",
+    "city": "Burlington",
+    "state": "VT",
+    "solo_or_band": "band",
     "otherbands": "Neato"
   },
   {
-    "date":"October 10, 2024",
-    "venue":"Nova Arts",
-    "city":"Keene",
-    "state":"NH",
-    "solo_or_band":"band",
+    "date": "October 10, 2024",
+    "venue": "Nova Arts",
+    "city": "Keene",
+    "state": "NH",
+    "solo_or_band": "band",
     "otherbands": "Kath Bloom"
   },
   {
-    "date":"October 11, 2024",
-    "venue":"Union Coffee",
-    "city":"Milford",
-    "state":"NH",
-    "solo_or_band":"band",
+    "date": "October 11, 2024",
+    "venue": "Union Coffee",
+    "city": "Milford",
+    "state": "NH",
+    "solo_or_band": "band",
     "otherbands": "Footings"
   },
   {
-    "date":"October 12, 2024",
-    "venue":"Psychic Garden",
-    "city":"Rochester",
-    "state":"NY",
-    "solo_or_band":"band",
+    "date": "October 12, 2024",
+    "venue": "Psychic Garden",
+    "city": "Rochester",
+    "state": "NY",
+    "solo_or_band": "band",
     "otherbands": "Brook Pridemore, Milo, Kryst"
   },
   {
-    "date":"October 15, 2024",
-    "venue":"The Side Bar",
-    "city":"Athens",
-    "state":"OH",
-    "solo_or_band":"band",
+    "date": "October 13, 2024",
+    "time": "3:00pm",
+    "venue": "Nietzsche's (matinee show)",
+    "city": "Buffalo",
+    "state": "NY",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "October 14, 2024",
+    "venue": "Poetry Lounge",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "solo_or_band": "band"
+  },
+  {
+    "date": "October 15, 2024",
+    "venue": "The Side Bar",
+    "city": "Athens",
+    "state": "OH",
+    "solo_or_band": "band",
     "otherbands": "Joseph &amp; His Ghost, Friends With Elephants"
   },
   {
-    "date":"October 16, 2024",
-    "venue":"The Hideout",
-    "city":"Chicago",
-    "state":"IL",
-    "solo_or_band":"band",
+    "date": "October 16, 2024",
+    "venue": "The Hideout",
+    "city": "Chicago",
+    "state": "IL",
+    "solo_or_band": "band",
     "otherbands": "Mint Mile, Advance Base"
   },
   {
-    "date":"October 17, 2024",
-    "venue":"The Upright",
-    "city":"O'Fallon",
-    "state":"IL",
-    "solo_or_band":"band",
+    "date": "October 17, 2024",
+    "venue": "The Upright",
+    "city": "O'Fallon",
+    "state": "IL",
+    "solo_or_band": "band",
     "otherbands": "Jakob Baxter, Allie Gold"
   },
   {
-    "date":"October 18, 2024",
-    "venue":"Raccoon Motel",
-    "city":"Davenport",
-    "state":"IA",
-    "solo_or_band":"band",
+    "date": "October 18, 2024",
+    "venue": "Raccoon Motel",
+    "city": "Davenport",
+    "state": "IA",
+    "solo_or_band": "band",
     "otherbands": "Chicago Farmer"
   },
   {
-    "date":"October 19, 2024",
-    "venue":"Reinhart Room",
-    "city":"Des Moines",
-    "state":"IA",
-    "solo_or_band":"band"
-  },
-  {
-    "date":"October 20, 2024",
-    "venue":"Orbit Room",
-    "city":"Bloomington",
-    "state":"IN",
-    "solo_or_band":"band",
+    "date": "October 20, 2024",
+    "venue": "Orbit Room",
+    "city": "Bloomington",
+    "state": "IN",
+    "solo_or_band": "band",
     "otherbands": "Mike Adams"
   },
   {
-    "date":"October 22, 2024",
-    "venue":"5 Spot",
-    "city":"Nashville",
-    "state":"TN",
-    "solo_or_band":"band"
+    "date": "October 22, 2024",
+    "venue": "5 Spot",
+    "city": "Nashville",
+    "state": "TN",
+    "solo_or_band": "band"
   },
   {
-    "date":"October 24, 2024",
-    "venue":"The Windjammer",
-    "city":"Queens",
-    "state":"NY",
-    "solo_or_band":"band",
+    "date": "October 24, 2024",
+    "venue": "The Windjammer",
+    "city": "Queens",
+    "state": "NY",
+    "solo_or_band": "band",
     "otherbands": "Nathan Xander, Calder the Destoyer"
   },
   {
-    "date":"October 25, 2024",
-    "venue":"Upstairs at Abyssinia",
-    "city":"Philadelphia",
-    "state":"PA",
-    "solo_or_band":"band",
+    "date": "October 25, 2024",
+    "venue": "Upstairs at Abyssinia",
+    "city": "Philadelphia",
+    "state": "PA",
+    "solo_or_band": "band",
     "otherbands": "Shane Palko, Bad History Month, Dust From 1000 Years"
   },
   {
-    "date":"October 26, 2024",
-    "venue":"Blue",
-    "city":"Portland",
-    "state":"ME",
-    "solo_or_band":"band",
+    "date": "October 26, 2024",
+    "venue": "Blue",
+    "city": "Portland",
+    "state": "ME",
+    "solo_or_band": "band",
     "otherbands": "Honey and Soul, The Upsides",
     "link": "https://www.blueportlandmaine.com/events/jake-mckelvie-and-the-countertops-honey-and-soul-the-upsides"
   }

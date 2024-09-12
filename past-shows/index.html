@@ -55,9 +55,9 @@
   </header>
 
   <main>
-    <h1>Upcoming Shows</h1>
-    <p>List of <a href="/past-shows">past shows</a>.</p>
 
+    <h1>Past Shows</h1>
+    <p class="show-count">Total Shows: <span></span></p>
     <!-- Shows -->
     <aside id="shows" class="shows">
       <div class="shows-inner">
@@ -74,25 +74,23 @@
           return response.json();
         })
         .then(function (data) {
-          appendData(data);
+          appendData(data.reverse());
         })
         .catch(function (err) {
           console.log('Error: ' + err)
         });
 
       function appendData(data) {
-        var showContainer = document.querySelector('.show-list');
+        var showContainer = document.querySelector('#shows .show-list');
         for (var i = 0; i < data.length; i++) {
           /** Create individual show div and add class */
           var show = document.createElement('div');
           show.setAttribute('class', 'show');
           var today = new Date();
-          console.log(today.setHours(0, 0, 0, 0));
           var date = new Date(data[i].date);
-          console.log(date.setHours(0, 0, 0, 0));
           showContent = '';
           showContent += '<div class="show__main">';
-          if (date.setHours(0, 0, 0, 0) >= today.setHours(0, 0, 0, 0)) {
+          if (date.setHours(0, 0, 0, 0) < today.setHours(0, 0, 0, 0)) {
             showContent += `
                 <time class="show__date">${data[i].date} ${data[i].time != undefined ? '@ ' + data[i].time : ''}</time>
                 `;
@@ -118,6 +116,7 @@
             showContainer.appendChild(show);
           }
         }
+        document.querySelector(".show-count span").innerHTML = data.length;
       }
     </script>
 

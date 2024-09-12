@@ -1,4 +1,7 @@
 :root {
+  --body-bg: #fcf7bf;
+  --main-text-color: #fff;
+  --menu-color: #000;
   --spacing: 1rem;
   --border-radius: 0.5rem;
   --border-radius-small: 5px;
@@ -12,7 +15,7 @@
   --font-size-200: 0.79rem;
   --font-size-100: 0.702rem;
   --primary: #000;
-  --accent: #000;
+  --accent: #fff;
   --gray: #eee;
   --button-color: var(--accent);
   --font-family: Futura, Trebuchet MS, Arial, sans-serif;
@@ -28,9 +31,13 @@ html {
 body {
   padding: var(--spacing);
   margin: 0;
-  background-color: #fcf7bf;
+  background-color: var(--body-bg);
+  color: var(--main-text-color);
+  background-image: url(images/Jake-with-Mask-BG.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: left;
 }
-
 
 img,
 iframe {
@@ -61,11 +68,11 @@ a {
 button {
   display: inline-block;
   text-decoration: none;
-  background-color: transparent;
-  color: #000;
+  background-color: #000;
+  color: #fff;
   font-weight: bold;
   padding: 0.5rem 1rem;
-  border: 3px solid #000;
+  border: 3px solid #fff;
   cursor: pointer;
 }
 
@@ -75,7 +82,7 @@ button {
 button:focus,
 button:active,
 button:hover {
-  background-color: #fff;
+  outline: 2px dotted #000;
 }
 
 /** Header */
@@ -93,10 +100,8 @@ header {
 }
 
 h1 {
-  letter-spacing: -1px;
-  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
   margin: 0 0 var(--spacing);
-  color: var(--accent);
+  color: var(--primary);
 }
 
 .logo {
@@ -108,8 +113,13 @@ h1 {
   display: block;
 }
 
+@media (max-width: 767px) {
+  .logo img {
+    margin: auto;
+  }
+}
+
 h1 a {
-  color: inherit;
   text-decoration: none;
 }
 
@@ -122,13 +132,13 @@ nav ul {
 }
 
 nav ul * {
-  color: var(--accent);
+  color: var(--menu-color);
 }
 
 nav ul svg {
   width: 2ch;
   max-height: 2ch;
-  fill: var(--accent);
+  fill: var(--menu-color);
 }
 
 nav ul a {
@@ -155,7 +165,7 @@ blockquote {
 }
 
 form input[type="email"] {
-  border: 2px solid #3c1646;
+  border: 2px solid #fff;
   padding: 8px;
 }
 
@@ -195,50 +205,41 @@ form input[type="submit"] {
 
 /** Shows */
 .shows {
-  padding: var(--spacing);
-  box-shadow: 0.75rem 0.75rem 0 var(--accent);
-  border: 3px solid #3c1646;
   color: var(--accent);
-  max-width: 600px;
+  background-color: rgba(0, 0, 0, 0.95);
+  padding: var(--spacing);
 }
 
-.shows h2 {
-  margin-top: 0;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  z-index: 99;
-  border-bottom: 2px solid #3c1646;
-  font-size: var(--font-size-400);
-  padding-bottom: 0.5rem;
+.show {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: end;
+  border-top: 2px dotted #fff;
+  gap: var(--spacing);
+}
+
+.shows-inner {
+  width: 100%;
 }
 
 .show+.show {
-  padding-top: var(--spacing);
-  margin-top: var(--spacing);
-  border-top: 1px solid #3c1646;
+  margin-top: calc(var(--spacing) * 3);
 }
 
-.show>a {
-  display: block;
-  text-decoration: none;
-  color: var(--accent);
-  position: relative;
-}
-
-.show>a::after {
-  content: "More Info >";
-  font-weight: bold;
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-size: var(--font-size-100);
-  text-transform: uppercase;
+.show__main {
+  flex: 1 1;
 }
 
 .show__date {
-  font-size: var(--font-size-200);
+  font-size: var(--font-size-400);
+  font-weight: bold;
+  background-color: rgba(255, 255, 255, 0.75);
+  color: #000;
+  padding: 5px 10px;
   display: inline-block;
+  margin-bottom: 5px;
+  min-width: 300px;
 }
 
 .show__badge {
@@ -256,12 +257,20 @@ form input[type="submit"] {
 
 .show__city {
   margin: 5px 0;
-  font-size: var(--font-size-400);
+  font-size: var(--font-size-500);
+}
+
+.show__city strong {
+  text-transform: uppercase;
 }
 
 .show__otherbands {
   margin: 0;
-  font-size: var(--font-size-100);
+  font-size: var(--font-size-300);
+}
+
+.show__link-p {
+  margin: 0;
 }
 
 .show__link {
@@ -278,9 +287,10 @@ form input[type="submit"] {
 
 /** Main */
 main {
-  color: var(--primary);
+  color: var(--main-text-color);
   margin-top: calc(var(--spacing) * 2);
   margin-bottom: calc(var(--spacing) * 2);
+  font-size: var(--font-size-500);
 }
 
 .two-col-grid {
@@ -293,6 +303,7 @@ main {
   .two-col-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: calc(var(--spacing) * 2);
   }
 }
 
@@ -303,18 +314,9 @@ main {
     margin: 0 auto;
     max-width: var(--container);
   }
-  
-  .shows-page main {
-    max-width: var(--container-small);
-  }
 }
 
-.grid-cell {
-  padding: clamp(var(--spacing), 2vw, calc(var(--spacing) * 2));
-  border-top: 3px solid var(--primary);
-}
-
-.grid-cell[data-contents="album"] { 
+.grid-cell[data-contents="album"] {
   text-align: center;
   border-top: 0;
 }
