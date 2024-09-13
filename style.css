@@ -35,8 +35,13 @@ body {
   color: var(--main-text-color);
   background-image: url(images/Jake-with-Mask-BG.jpg);
   background-size: cover;
-  background-attachment: fixed;
   background-position: left;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    background-attachment: fixed;
+  }
 }
 
 img,
