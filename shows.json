@@ -1,5 +1,12 @@
 [
   {
+    "date": "3/7/2009",
+    "city": "Hubbardston",
+    "state": "MA",
+    "venue": "Basement Showcasement",
+    "solo_or_band": "solo"
+  },
+  {
     "date": "11/6/2009",
     "city": "Princeton",
     "state": "MA",
@@ -6061,6 +6068,21 @@
     "otherbands": "Chris Otepka"
   },
   {
+    "date": "September 20, 2023",
+    "venue": "Black Sheep Hostel",
+    "city": "Kilarney",
+    "state": "IE",
+    "solo_or_band": "solo",
+    "otherbands": "Niamh O'Brien"
+  },
+  {
+    "date": "September 21, 2023",
+    "venue": "Hylands Burren Hotel",
+    "city": "Ballyvaughan",
+    "state": "IE",
+    "solo_or_band": "solo"
+  },
+  {
     "date": "September 22, 2023",
     "venue": "Hole in the Wall",
     "city": "Kilkenny",
@@ -6360,6 +6382,14 @@
     "state": "MA",
     "solo_or_band": "solo",
     "link": "https://www.coff33corp.org/rcrrf"
+  },
+  {
+    "date": "September 7, 2024",
+    "venue": "Votrubapalooza",
+    "city": "Rutland",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Hopeville General Store, Whalom Park, Dwarf Cannon, Superjerk, Slim Volume, Ground Spores, Zigmont, Vile Impulse, Leon Trout, Bass Sabbath"
   },
   {
     "date": "September 8, 2024",
