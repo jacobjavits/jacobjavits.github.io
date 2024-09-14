@@ -1676,7 +1676,7 @@
     "date": "9/25/2014",
     "city": "Manchester",
     "state": "NH",
-    "venue": "Modern Gypsty",
+    "venue": "Modern Gypsy",
     "otherbands": "Tokyo Quickdraw, Great White Tourist, Bible Camp",
     "solo_or_band": "band"
   },
@@ -6391,12 +6391,13 @@
     "otherbands": "Trent Larrabee, Ken Higaonna, Ryan Tidwell"
   },
   {
-    "date": "September 20, 2024",
-    "venue": "One Broadway",
+    "date": "September 21, 2024",
+    "venue": "One Broadway Collective",
     "city": "Lawrence",
     "state": "MA",
     "solo_or_band": "solo",
-    "link": "https://www.tickettailor.com/events/onebroadwaycollaborative/1286308"
+    "otherbands": "Doug Kolmar",
+    "link": "https://www.tickettailor.com/events/onebroadwaycollaborative/1286224"
   },
   {
     "date": "October 9, 2024",
