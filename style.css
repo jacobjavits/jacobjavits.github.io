@@ -109,6 +109,10 @@ h1 {
   color: var(--primary);
 }
 
+h2 {
+  text-shadow: 2px 2px 1px #000;;
+}
+
 .logo {
   margin: 0;
 }
@@ -134,6 +138,7 @@ nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
+  gap: 10px;
 }
 
 nav ul * {
@@ -149,6 +154,12 @@ nav ul svg {
 nav ul a {
   text-decoration: none;
   font-weight: bold;
+}
+
+nav ul a:hover,
+nav ul a:active,
+nav ul a:focus {
+  text-decoration: underline;
 }
 
 blockquote {
@@ -210,8 +221,9 @@ form input[type="submit"] {
 
 /** Shows */
 .shows {
-  color: var(--accent);
-  background-color: rgba(0, 0, 0, 0.95);
+  color: var(--primary);
+  background-color: rgba(198, 195, 190, 0.75);
+  border: 5px solid #000;
   padding: var(--spacing);
 }
 
@@ -229,7 +241,7 @@ form input[type="submit"] {
 }
 
 .show+.show {
-  margin-top: calc(var(--spacing) * 3);
+  margin-top: var(--spacing);
 }
 
 .show__main {
@@ -237,14 +249,15 @@ form input[type="submit"] {
 }
 
 .show__date {
-  font-size: var(--font-size-400);
+  font-size: var(--font-size-200);
   font-weight: bold;
   background-color: rgba(255, 255, 255, 0.75);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
   color: #000;
   padding: 5px 10px;
   display: inline-block;
   margin-bottom: 5px;
-  min-width: 300px;
 }
 
 .show__badge {
@@ -262,7 +275,7 @@ form input[type="submit"] {
 
 .show__city {
   margin: 5px 0;
-  font-size: var(--font-size-500);
+  font-size: var(--font-size-400);
 }
 
 .show__city strong {
@@ -319,6 +332,11 @@ main {
     margin: 0 auto;
     max-width: var(--container);
   }
+}
+
+.grid-cell[data-contents="tour"] {
+  text-align: center;
+  border-top: 0;
 }
 
 .grid-cell[data-contents="album"] {
