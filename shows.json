@@ -6400,12 +6400,21 @@
     "link": "https://www.tickettailor.com/events/onebroadwaycollaborative/1286224"
   },
   {
+    "date": "October 3, 2024",
+    "venue": "The Waterford Inne",
+    "city": "Waterford",
+    "state": "ME",
+    "solo_or_band": "solo",
+    "link": "https://www.thewaterfordinne.com"
+  },
+  {
     "date": "October 9, 2024",
     "venue": "Radio Bean",
     "city": "Burlington",
     "state": "VT",
     "solo_or_band": "band",
-    "otherbands": "Neato"
+    "otherbands": "Neato, english major",
+    "link": "https://www.tickettailor.com/events/radiobean/1410291"
   },
   {
     "date": "October 10, 2024",
@@ -6413,7 +6422,8 @@
     "city": "Keene",
     "state": "NH",
     "solo_or_band": "band",
-    "otherbands": "Kath Bloom"
+    "otherbands": "Lori Goldston, Kath Bloom",
+    "link": "https://www.novaarts.org/events/lorigoldstonkathbloom"
   },
   {
     "date": "October 11, 2024",
@@ -6421,7 +6431,8 @@
     "city": "Milford",
     "state": "NH",
     "solo_or_band": "band",
-    "otherbands": "Footings"
+    "otherbands": "Footings",
+    "link": "https://www.facebook.com/events/2746348082205132/"
   },
   {
     "date": "October 12, 2024",
@@ -6429,7 +6440,8 @@
     "city": "Rochester",
     "state": "NY",
     "solo_or_band": "band",
-    "otherbands": "Brook Pridemore, Milo, Kryst"
+    "otherbands": "Brook Pridemore, Milo, Kryst",
+    "link": "https://psyg.org/event/kryst-brook-pridemore-jake-mckelvie-milo/"
   },
   {
     "date": "October 13, 2024",
@@ -6437,14 +6449,18 @@
     "venue": "Nietzsche's (matinee show)",
     "city": "Buffalo",
     "state": "NY",
-    "solo_or_band": "band"
+    "solo_or_band": "band",
+    "otherbands": "Rattlesnake Jake, Johnny and the Man Kids",
+    "link": "https://www.facebook.com/events/1486944932014387/"
   },
   {
     "date": "October 14, 2024",
     "venue": "Poetry Lounge",
     "city": "Pittsburgh",
     "state": "PA",
-    "solo_or_band": "band"
+    "solo_or_band": "band",
+    "otherbands": "Dave Shepherd, Alan Getto",
+    "link": "https://www.facebook.com/events/3970127163245357/"
   },
   {
     "date": "October 15, 2024",
@@ -6478,7 +6494,8 @@
     "city": "Davenport",
     "state": "IA",
     "solo_or_band": "band",
-    "otherbands": "Chicago Farmer"
+    "otherbands": "Chicago Farmer",
+    "link": "https://dice.fm/event/l88qmp-chicago-farmer-wjake-mckelvie-his-new-old-band-18th-oct-raccoon-motel-davenport-tickets?pid=9fd8409a"
   },
   {
     "date": "October 20, 2024",
@@ -6486,7 +6503,7 @@
     "city": "Bloomington",
     "state": "IN",
     "solo_or_band": "band",
-    "otherbands": "Mike Adams"
+    "otherbands": "Mike Adams, Glitter Brains"
   },
   {
     "date": "October 22, 2024",
@@ -6521,5 +6538,21 @@
     "solo_or_band": "band",
     "otherbands": "Honey and Soul, The Upsides",
     "link": "https://www.blueportlandmaine.com/events/jake-mckelvie-and-the-countertops-honey-and-soul-the-upsides"
+  },
+  {
+    "date": "November 8, 2024",
+    "venue": "Sunapee Coffee House",
+    "city": "Sunapee",
+    "state": "NH",
+    "solo_or_band": "solo",
+    "link": "http://sunapeecoffeehouse.org/"
+  },
+  {
+    "date": "December 1, 2024",
+    "venue": "Distant Castle",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Hedge, Megan From Work"
   }
 ]
