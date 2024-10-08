@@ -6507,12 +6507,20 @@
     "link": "https://dice.fm/event/l88qmp-chicago-farmer-wjake-mckelvie-his-new-old-band-18th-oct-raccoon-motel-davenport-tickets?pid=9fd8409a"
   },
   {
-    "date": "October 20, 2024",
+    "date": "October 19, 2024",
     "venue": "Orbit Room",
     "city": "Bloomington",
     "state": "IN",
     "solo_or_band": "band",
-    "otherbands": "Mike Adams, Glitter Brains"
+    "otherbands": "Mike Adams, Glitter Brains",
+    "link": "https://www.orbitbtown.com/events/orbit-6-year-glitter-brains-jake-mckelvie-mike-adams"
+  },
+  {
+    "date": "October 21, 2024",
+    "venue": "Nachbar",
+    "city": "Louisville",
+    "state": "KY",
+    "solo_or_band": "band"
   },
   {
     "date": "October 22, 2024",
