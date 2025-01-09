@@ -6605,11 +6605,19 @@
     "otherbands": "Tiny the Bear, The Biggest Number You Can Think Of, Thee Pibbs, Pebbles of Rain"
   },
   {
-    "date": "January 18, 2024",
+    "date": "January 18, 2025",
     "venue": "Troy Speakeasy",
     "city": "Troy",
     "state": "NY",
     "solo_or_band": "solo",
     "otherbands": "Cheesy Snacks, Nate Goyette, Dylan Patrick Ward"
+  },
+  {
+    "date": "March 21, 2025",
+    "venue": "The Showdown",
+    "city": "Portland",
+    "state": "OR",
+    "solo_or_band": "solo",
+    "link": "https://www.showdownpdx.com/tm-event/jake-mckelvie"
   }
 ]
