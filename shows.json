@@ -6629,6 +6629,13 @@
     "otherbands": "Slo-anne, Deuce Club, Audrey/Karina &amp; Friends"
   },
   {
+    "date": "March 1, 2025",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo"
+  },
+  {
     "date": "March 7, 2025",
     "venue": "Back Porch Fest (Bishop's Lounge)",
     "city": "Northampton",
@@ -6637,11 +6644,79 @@
     "link": "https://www.backporchfest.com"
   },
   {
+    "date": "March 8, 2025",
+    "venue": "Pete's Candy Store",
+    "city": "Brooklyn",
+    "state": "NY",
+    "solo_or_band": "solo",
+    "otherbands": "Sid Seth, Jess Yaffa",
+    "link": "https://www.petescandystore.com/calendar/"
+  },
+  {
+    "date": "March 9, 2025",
+    "venue": "House Show",
+    "city": "New Haven",
+    "state": "CT",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "March 20, 2025",
+    "venue": "Rhythms Coffee",
+    "city": "Olympia",
+    "state": "WA",
+    "solo_or_band": "solo",
+    "otherbands": "Mike Frazier, The Purple Shadows",
+    "link": "https://rhythms-coffee.com/"
+  },
+  {
     "date": "March 21, 2025",
     "venue": "The Showdown",
     "city": "Portland",
     "state": "OR",
     "solo_or_band": "solo",
+    "otherbands": "Leo Moon, Chonk",
     "link": "https://www.showdownpdx.com/tm-event/jake-mckelvie"
+  },
+  {
+    "date": "March 23, 2025",
+    "venue": "Old World Deli",
+    "city": "Corvallis",
+    "state": "OR",
+    "solo_or_band": "solo",
+    "link": "https://www.oldworldcenter.com/#Events"
+  },
+  {
+    "date": "March 26, 2025",
+    "venue": "Sam Bond's Garage",
+    "city": "Eugene",
+    "state": "OR",
+    "solo_or_band": "solo",
+    "link": "https://www.sambonds.com/calendar"
+  },
+  {
+    "date": "March 27, 2025",
+    "venue": "Jules Maes Saloon",
+    "city": "Seattle",
+    "state": "WA",
+    "solo_or_band": "solo",
+    "otherbands": "Sarah Not Sarah, Townsend Solitaire",
+    "link": "https://julesmaes.wpengine.com/events/#/calendar"
+  },
+  {
+    "date": "March 28, 2025",
+    "venue": "Make.Shift Art Space",
+    "city": "Bellingham",
+    "state": "WA",
+    "solo_or_band": "solo",
+    "otherbands": "Cat Positive, Salt Pine",
+    "link": "https://makeshiftartspace.org/events/scoutingcatpositive-32825"
+  },
+  {
+    "date": "April 27, 2025",
+    "venue": "Myrtle",
+    "city": "Providence",
+    "state": "RI",
+    "otherbands": "Justice Cow, Poppy in the Beet Patch",
+    "solo_or_band": "solo"
   }
 ]
