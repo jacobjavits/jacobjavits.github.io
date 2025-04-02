@@ -6686,6 +6686,14 @@
     "link": "https://www.oldworldcenter.com/#Events"
   },
   {
+    "date": "March 25, 2025",
+    "venue": "House Show",
+    "city": "Portland",
+    "state": "OR",
+    "solo_or_band": "solo",
+    "otherbands": "Tyler Berd"
+  },
+  {
     "date": "March 26, 2025",
     "venue": "Sam Bond's Garage",
     "city": "Eugene",
@@ -6712,11 +6720,84 @@
     "link": "https://makeshiftartspace.org/events/scoutingcatpositive-32825"
   },
   {
+    "date": "April 2, 2025",
+    "venue": "Northampton Community Music Center",
+    "city": "Northampton",
+    "state": "MA",
+    "otherbands": "Ruune, Jedidiah Crook",
+    "solo_or_band": "solo",
+    "time": "6:00pm"
+  },
+  {
+    "date": "April 6, 2025",
+    "venue": "State Park",
+    "city": "Cambridge",
+    "state": "MA",
+    "otherbands": "Gimmick, Makeout Palace",
+    "solo_or_band": "band",
+    "time": "8:00pm"
+  },
+  {
+    "date": "April 10, 2025",
+    "venue": "Warehouse XI",
+    "city": "Somerville",
+    "state": "MA",
+    "otherbands": "Clem Snide, Abe Partridge",
+    "solo_or_band": "solo",
+    "time": "7:00pm",
+    "link": "https://www.seetickets.us/event/clem-snide/637529"
+  },
+  {
+    "date": "April 17, 2025",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "otherbands": "Sooflay, Daphne Blue Underworld, Itoarazi",
+    "solo_or_band": "solo",
+    "time": "7:30pm"
+  },
+  {
+    "date": "April 18, 2025",
+    "venue": "Union Coffee",
+    "city": "Milford",
+    "state": "NH",
+    "otherbands": "Silver Tree, Mark Gilday, Jr.",
+    "solo_or_band": "solo",
+    "time": "6:00pm"
+  },
+  {
     "date": "April 27, 2025",
     "venue": "Myrtle",
     "city": "Providence",
     "state": "RI",
     "otherbands": "Justice Cow, Poppy in the Beet Patch",
     "solo_or_band": "solo"
+  },
+  {
+    "date": "May 8, 2025",
+    "venue": "Nova Arts",
+    "city": "Keene",
+    "state": "NH",
+    "otherbands": "William Tyler, Frozen Corn",
+    "solo_or_band": "solo",
+    "link": "https://www.novaarts.org/events/williamtyler58"
+  },
+  {
+    "date": "May 9, 2025",
+    "venue": "The Loading Dock",
+    "city": "Littleton",
+    "state": "NH",
+    "otherbands": "Dylan Patrick Ward",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "May 10, 2025",
+    "venue": "Radio Bean",
+    "city": "Burlington",
+    "state": "VT",
+    "otherbands": "Dylan Patrick Ward, Silver Tree",
+    "solo_or_band": "solo",
+    "time": "6:00pm",
+    "link": "https://www.tickettailor.com/events/radiobean/1638510"
   }
 ]
