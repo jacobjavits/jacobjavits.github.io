@@ -6748,6 +6748,13 @@
     "link": "https://www.seetickets.us/event/clem-snide/637529"
   },
   {
+    "date": "April 12, 2025",
+    "venue": "Root Awakening Kava Bar",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo"
+  },
+  {
     "date": "April 17, 2025",
     "venue": "Ralph's Rock Diner",
     "city": "Worcester",
@@ -6772,6 +6779,14 @@
     "state": "RI",
     "otherbands": "Justice Cow, Poppy in the Beet Patch",
     "solo_or_band": "solo"
+  },
+  {
+    "date": "May 4, 2025",
+    "venue": "The Stone Church",
+    "city": "Brattleboro",
+    "state": "VT",
+    "otherbands": "AJJ",
+    "link": "https://tickets.venuepilot.com/e/ajj-2025-05-04-stone-church-brattleboro-e330b4"
   },
   {
     "date": "May 8, 2025",
@@ -6799,5 +6814,14 @@
     "solo_or_band": "solo",
     "time": "6:00pm",
     "link": "https://www.tickettailor.com/events/radiobean/1638510"
+  },
+  {
+    "date": "May 31, 2025",
+    "venue": "The Parlor Room",
+    "city": "Northampton",
+    "state": "MA",
+    "otherbands": "Grain Thief",
+    "solo_or_band": "solo",
+    "link": "https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000063HYjMAM"
   }
 ]
