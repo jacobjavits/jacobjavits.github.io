@@ -6823,5 +6823,60 @@
     "otherbands": "Grain Thief",
     "solo_or_band": "solo",
     "link": "https://theparlorroom.my.salesforce-sites.com/ticket/#/events/a0SV50000063HYjMAM"
+  },
+  {
+    "date": "June 13, 2025",
+    "venue": "Gulu-Gulu Cafe",
+    "city": "Salem",
+    "state": "MA",
+    "otherbands": "Bellwire, Dylan Patrick Ward",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "June 18, 2025",
+    "venue": "Table Bar",
+    "city": "Gardiner",
+    "state": "ME",
+    "otherbands": "Berm",
+    "solo_or_band": "solo",
+    "link": "https://www.tablebar207.com"
+  },
+  {
+    "date": "June 20, 2025",
+    "venue": "Club Moss",
+    "city": "Nobleboro",
+    "state": "ME",
+    "otherbands": "Berm, Emily Erving",
+    "solo_or_band": "solo",
+    "link": "https://www.tablebar207.com"
+  },
+  {
+    "date": "June 21, 2025",
+    "venue": "Red Rabbit Bazaar",
+    "city": "Bangor",
+    "state": "ME",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "June 22, 2025",
+    "venue": "The Waterford Inne",
+    "city": "Waterford",
+    "state": "ME",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "June 28, 2025",
+    "venue": "Deep Cuts",
+    "city": "Medford",
+    "state": "MA",
+    "otherbands": "Friendship, 2nd Grade",
+    "link": "https://dice.fm/partner/deep-cuts-llc/event/3ovglx-friendship-2nd-grade-jake-mckelvie-28th-jun-deep-cuts-medford-tickets"
+  },
+  {
+    "date": "July 12, 2025",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "otherbands": "Hedge, hey i'm outside, Beach Plums"
   }
 ]
