@@ -107,7 +107,7 @@
                 <p class="show__otherbands">w/ ${data[i].otherbands}</p>
                 `;
             }
-            if (data[i].solo_or_band && data[i].solo_or_band != 'band') {
+            if (data[i].solo_or_band != 'band' && typeof data[i].solo_or_band !== 'undefined') {
               showContent += `<p class="show__badge"><span class="">${data[i].solo_or_band}</span></p>`;
             }
             showContent += '</div>';

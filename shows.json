@@ -6887,7 +6887,8 @@
     "city": "Medford",
     "state": "MA",
     "otherbands": "Friendship, 2nd Grade",
-    "link": "https://dice.fm/partner/deep-cuts-llc/event/3ovglx-friendship-2nd-grade-jake-mckelvie-28th-jun-deep-cuts-medford-tickets"
+    "link": "https://dice.fm/partner/deep-cuts-llc/event/3ovglx-friendship-2nd-grade-jake-mckelvie-28th-jun-deep-cuts-medford-tickets",
+    "solo_or_band": "solo"
   },
   {
     "date": "July 12, 2025",
@@ -6895,5 +6896,35 @@
     "city": "Worcester",
     "state": "MA",
     "otherbands": "Hedge, hey i'm outside, Beach Plums"
+  },
+  {
+    "date": "July 20, 2025",
+    "venue": "Candia Road Brewing",
+    "city": "Manchester",
+    "state": "NH",
+    "otherbands": "Megan From Work, Cade Earick, Ken Higaonna",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "July 27, 2025",
+    "venue": "Marigold Theater",
+    "city": "Easthampton",
+    "state": "MA",
+    "otherbands": "The Tines",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "August 2, 2025",
+    "venue": "Blue",
+    "city": "Portland",
+    "state": "ME",
+    "otherbands": "Blue Yonder, Ladybrain, Gaud (solo)"
+  },
+  {
+    "date": "August 16, 2025",
+    "venue": "Root Awakening Kava Bar",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo"
   }
 ]
