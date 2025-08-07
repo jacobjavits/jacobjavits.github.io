@@ -6926,5 +6926,194 @@
     "city": "Worcester",
     "state": "MA",
     "solo_or_band": "solo"
+  },
+  {
+    "date": "September 11, 2025",
+    "venue": "Dreamaway Lodge",
+    "city": "Beckett",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Footings"
+  },
+  {
+    "date": "September 13, 2025",
+    "venue": "Psychic Garden",
+    "city": "Rochester",
+    "state": "NY",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "September 14, 2025",
+    "venue": "Poetry Lounge",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "solo_or_band": "solo",
+    "otherbands": "Kaston Guffey, Julianna Warner"
+  },
+  {
+    "date": "September 15, 2025",
+    "venue": "Smiling Skull",
+    "city": "Athens",
+    "state": "OH",
+    "solo_or_band": "solo",
+    "otherbands": "Joseph Crabtree, Caitlin Kraus"
+  },
+  {
+    "date": "September 16, 2025",
+    "venue": "Little Rose Tavern",
+    "city": "Cleveland",
+    "state": "OH",
+    "solo_or_band": "solo",
+    "otherbands": "Sure, Machine, Caley Conway"
+  },
+  {
+    "date": "September 17, 2025",
+    "venue": "Brass Rail",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "solo_or_band": "solo",
+    "otherbands": "Sundog Sarah"
+  },
+  {
+    "date": "September 18, 2025",
+    "venue": "Judson & Moore",
+    "city": "Chicago",
+    "state": "IL",
+    "solo_or_band": "solo",
+    "otherbands": "Advance Base, Max Morton"
+  },
+  {
+    "date": "September 19, 2025",
+    "venue": "7th Street Space",
+    "city": "DeKalb",
+    "state": "IL",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats"
+  },
+  {
+    "date": "September 20, 2025",
+    "venue": "Tra La La",
+    "city": "Milwaukee",
+    "state": "WI",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats"
+  },
+  {
+    "date": "September 21, 2025",
+    "venue": "Indie Coffee",
+    "city": "Madison",
+    "state": "WI",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats"
+  },
+  {
+    "date": "September 22, 2025",
+    "venue": "White Squirrel Bar",
+    "city": "Madison",
+    "state": "WI",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats, Why Cry"
+  },
+  {
+    "date": "September 23, 2025",
+    "venue": "The Lift",
+    "city": "Des Moines",
+    "state": "IA",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats, Clip Clop"
+  },
+  {
+    "date": "September 24, 2025",
+    "venue": "Raccoon Motel",
+    "city": "Davenport",
+    "state": "IA",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats"
+  },
+  {
+    "date": "September 27, 2025",
+    "venue": "Orbit Room",
+    "city": "Bloomington",
+    "state": "IN",
+    "solo_or_band": "solo",
+    "otherbands": "Amy O, David James"
+  },
+  {
+    "date": "September 28, 2025",
+    "venue": "Green Lantern",
+    "city": "Lexington",
+    "state": "KY",
+    "solo_or_band": "solo",
+    "otherbands": "Warren Byrom"
+  },
+  {
+    "date": "September 29, 2025",
+    "venue": "Maybe It's Fate",
+    "city": "Louisville",
+    "state": "KY",
+    "solo_or_band": "solo",
+    "otherbands": "Scottie Anderson, Rachel Meirs"
+  },
+  {
+    "date": "September 30, 2025",
+    "venue": "Vinyl Tap",
+    "city": "Nashville",
+    "state": "TN",
+    "solo_or_band": "solo",
+    "otherbands": "Joe Kenkel, Taylor Daukas"
+  },
+  {
+    "date": "October 1, 2025",
+    "venue": "The Murph",
+    "city": "Atlanta",
+    "state": "GA",
+    "solo_or_band": "solo",
+    "otherbands": "Yankee Roses, Mary Margaret Cozart"
+  },
+  {
+    "date": "October 2, 2025",
+    "venue": "Flicker Theater",
+    "city": "Athens",
+    "state": "GA",
+    "solo_or_band": "solo",
+    "otherbands": "Mountain of Youth, Wilting Pages"
+  },
+  {
+    "date": "October 3, 2025",
+    "venue": "House Show",
+    "city": "Knoxville",
+    "state": "TN",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 5, 2025",
+    "venue": "Etc.",
+    "city": "Greensboro",
+    "state": "NC",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 7, 2025",
+    "venue": "Ortlieb's",
+    "city": "Philadelphia",
+    "state": "PA",
+    "solo_or_band": "solo",
+    "otherbands": "Michael Martin Doherty (of Another Michael), Kristin Daelyn"
+  },
+  {
+    "date": "October 9, 2025",
+    "venue": "Cassette",
+    "city": "Ridgewood",
+    "state": "NY",
+    "solo_or_band": "solo",
+    "otherbands": "Michael Martin Doherty (of Another Michael), Zoh Amba"
+  },
+  {
+    "date": "October 10, 2025",
+    "venue": "Neverending Books",
+    "city": "New Haven",
+    "state": "CT",
+    "solo_or_band": "solo",
+    "otherbands": "Old Milk Mooney, Mother Juniper"
   }
 ]
