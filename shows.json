@@ -6952,7 +6952,7 @@
   },
   {
     "date": "September 15, 2025",
-    "venue": "Smiling Skull",
+    "venue": "Smiling Skull Saloon",
     "city": "Athens",
     "state": "OH",
     "solo_or_band": "solo",
@@ -6992,7 +6992,7 @@
   },
   {
     "date": "September 20, 2025",
-    "venue": "Tra La La",
+    "venue": "House Show",
     "city": "Milwaukee",
     "state": "WI",
     "solo_or_band": "solo",
@@ -7082,6 +7082,13 @@
     "date": "October 3, 2025",
     "venue": "House Show",
     "city": "Knoxville",
+    "state": "TN",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 4, 2025",
+    "venue": "Eda's Hide-a-way",
+    "city": "Weaverville",
     "state": "TN",
     "solo_or_band": "solo"
   },
