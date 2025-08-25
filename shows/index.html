@@ -40,6 +40,7 @@
         <li><a href="https://jacobcmckelvie.bandcamp.com" target="_blank">Music</a></li>
 <li><a href="https://jacobcmckelvie.bandcamp.com/merch" target="_blank">Merch</a></li>
         <li><a href="/press-materials">Press Stuff</a></li>
+        <li><a href="http://eepurl.com/if8fEz" rel="noopener" target="_blank">Newsletter</a></li>
       </ul>
     </nav>
     <div id="mc_embed_signup">
@@ -104,9 +105,6 @@
               showContent += `
                 <p class="show__otherbands">w/ ${data[i].otherbands}</p>
                 `;
-            }
-            if (data[i].solo_or_band != 'band' && data[i].solo_or_band != undefined) {
-              showContent += `<p class="show__badge"><span class="">${data[i].solo_or_band}</span></p>`;
             }
             showContent += '</div>';
             if (data[i].link != undefined) {
