@@ -6936,6 +6936,22 @@
     "otherbands": "Superjerk (album release), Really Great, Signal Chain"
   },
   {
+    "date": "September 3, 2025",
+    "venue": "Hotel Vernon",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Sarah Louise French, Aly West, Melo Green"
+  },
+  {
+    "date": "September 6, 2025",
+    "venue": "The Rose Room",
+    "city": "Webster",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Beetsblog, Norma Dream, The Star Family Singers"
+  },
+  {
     "date": "September 11, 2025",
     "venue": "Dreamaway Lodge",
     "city": "Beckett",
@@ -6944,11 +6960,20 @@
     "otherbands": "Footings"
   },
   {
+    "date": "September 12, 2025",
+    "venue": "Joust Cafe",
+    "city": "Catskill",
+    "state": "NY",
+    "solo_or_band": "solo",
+    "otherbands": "Alex P. Wernquist, Dmitry Wild"
+  },
+  {
     "date": "September 13, 2025",
     "venue": "Psychic Garden",
     "city": "Rochester",
     "state": "NY",
-    "solo_or_band": "solo"
+    "solo_or_band": "solo",
+    "otherbands": "Delaney West, All Day Futures"
   },
   {
     "date": "September 14, 2025",
@@ -6980,7 +7005,7 @@
     "city": "Fort Wayne",
     "state": "IN",
     "solo_or_band": "solo",
-    "otherbands": "Sundog Sarah"
+    "otherbands": "Sundog Sarah, Quiet Creator"
   },
   {
     "date": "September 18, 2025",
@@ -6997,7 +7022,7 @@
     "city": "DeKalb",
     "state": "IL",
     "solo_or_band": "solo",
-    "otherbands": "The Heligoats"
+    "otherbands": "The Heligoats, Cosmic Relief"
   },
   {
     "date": "September 20, 2025",
@@ -7037,7 +7062,8 @@
     "city": "Davenport",
     "state": "IA",
     "solo_or_band": "solo",
-    "otherbands": "The Heligoats"
+    "otherbands": "The Heligoats",
+    "link": "https://dice.fm/event/53gkgw-the-heligoats-wjake-mckelvie-24th-sep-raccoon-motel-davenport-tickets"
   },
   {
     "date": "September 27, 2025",
@@ -7045,7 +7071,7 @@
     "city": "Bloomington",
     "state": "IN",
     "solo_or_band": "solo",
-    "otherbands": "Amy O, David James"
+    "otherbands": "Yuki Kawana, David James"
   },
   {
     "date": "September 28, 2025",
@@ -7053,7 +7079,7 @@
     "city": "Lexington",
     "state": "KY",
     "solo_or_band": "solo",
-    "otherbands": "Warren Byrom"
+    "otherbands": "Warren Byrom, Andrew Russel English"
   },
   {
     "date": "September 29, 2025",
@@ -7098,14 +7124,22 @@
     "date": "October 4, 2025",
     "venue": "Eda's Hide-a-way",
     "city": "Weaverville",
-    "state": "TN",
-    "solo_or_band": "solo"
+    "state": "NC",
+    "solo_or_band": "solo",
+    "otherbands": "Liliana Hudgens"
   },
   {
     "date": "October 5, 2025",
     "venue": "Etc.",
     "city": "Greensboro",
     "state": "NC",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 6, 2025",
+    "venue": "Durty Nelly's",
+    "city": "Charlotesville",
+    "state": "VA",
     "solo_or_band": "solo"
   },
   {
