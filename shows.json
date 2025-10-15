@@ -7164,10 +7164,35 @@
   },
   {
     "date": "October 10, 2025",
-    "venue": "Neverending Books",
-    "city": "New Haven",
+    "venue": "Silver City Wine Tasting and Brewfest",
+    "city": "Meriden",
     "state": "CT",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "November 1, 2025",
+    "venue": "The Word Barn",
+    "city": "Exeter",
+    "state": "NH",
     "solo_or_band": "solo",
-    "otherbands": "Old Milk Mooney, Mother Juniper"
+    "otherbands": "Reed Foehl",
+    "link": "https://brightandlyon.ticketsauce.com/e/reed-foehl-jake-mckelvie/tickets"
+  },
+  {
+    "date": "November 8, 2025",
+    "venue": "Myrtle",
+    "city": "Providence",
+    "state": "RI",
+    "solo_or_band": "band",
+    "otherbands": "Wooll, Museum Legs",
+    "link": "https://www.givemyrtle.com/upcoming-events/wooll-jake-mckelvie-his-newold-band-museum-legs"
+  },
+  {
+    "date": "December 5, 2025",
+    "venue": "Birdies",
+    "city": "Keene",
+    "state": "NH",
+    "solo_or_band": "solo",
+    "otherbands": "Dylan Patrick Ward"
   }
 ]
