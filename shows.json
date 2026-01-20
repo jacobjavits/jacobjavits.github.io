@@ -7188,11 +7188,44 @@
     "link": "https://www.givemyrtle.com/upcoming-events/wooll-jake-mckelvie-his-newold-band-museum-legs"
   },
   {
-    "date": "December 5, 2025",
-    "venue": "Birdies",
-    "city": "Keene",
-    "state": "NH",
+    "date": "December 6, 2025",
+    "venue": "Ames Chapel",
+    "city": "Hingham",
+    "state": "MA",
+    "solo_or_band": "band",
+    "otherbands": "Andrew Cohen, Sailor Down"
+  },
+  {
+    "date": "January 13, 2026",
+    "venue": "The Rockwell",
+    "city": "Somerville",
+    "state": "MA",
     "solo_or_band": "solo",
-    "otherbands": "Dylan Patrick Ward"
+    "otherbands": "Modern Nature, Brigid Dawson & the Mothers Network"
+  },
+  {
+    "date": "January 31, 2026",
+    "venue": "Union Pool",
+    "city": "Brooklyn",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Wormy (album release), Chuck Hayes",
+    "link": "https://dice.fm/event/q2689x-wormy-record-release-31st-jan-union-pool-new-york-tickets"
+  },
+  {
+    "date": "February 28, 2026",
+    "venue": "CoCreative Center",
+    "city": "New Bedford",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Jeff Angeley"
+  },
+  {
+    "date": "April 18, 2026",
+    "venue": "House Show",
+    "city": "Boston",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "The Knife Kickers (solo), Ethan W. Olsen"
   }
 ]
