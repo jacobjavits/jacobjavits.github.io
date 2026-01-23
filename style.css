@@ -19,7 +19,7 @@
   --accent: #ffe771;
   --gray: #eee;
   --button-color: var(--accent);
-  --font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif;
+  --font-family: Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;
   --container: 100vw;
   --container-small: 600px;
 }
@@ -52,21 +52,23 @@ body::before {
   background-image: linear-gradient(to right, #000, transparent);
 }
 
-body::after {
-  content: 'Background image by Zoe Hopper';
-  position: fixed;
-  font-size: 0.75rem;
-  bottom: 5px;
-  right: 5px;
-}
-
-body > * {
+body>* {
   position: relative;
 }
 
 @media screen and (max-width: 767px) {
   body {
     background-image: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  body::after {
+    content: 'Background image by Zoe Hopper';
+    position: fixed;
+    font-size: 0.75rem;
+    bottom: 5px;
+    right: 5px;
   }
 }
 
@@ -496,4 +498,9 @@ main {
   height: 100%;
   display: flex;
   flex-direction: column;
+}
+
+figcaption {
+  font-size: var(--font-size-200);
+  margin-top: calc(var(--spacing) / 2);
 }
