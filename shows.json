@@ -7213,12 +7213,27 @@
     "link": "https://dice.fm/event/q2689x-wormy-record-release-31st-jan-union-pool-new-york-tickets"
   },
   {
-    "date": "February 28, 2026",
-    "venue": "CoCreative Center",
-    "city": "New Bedford",
+    "date": "March 28, 2026",
+    "venue": "Holiday Inn",
+    "city": "Providence",
+    "state": "RI",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "March 29, 2026",
+    "venue": "Boland's",
+    "city": "Worcester",
     "state": "MA",
     "solo_or_band": "solo",
-    "otherbands": "Jeff Angeley"
+    "time": "2:30pm"
+  },
+  {
+    "date": "April 3, 2026",
+    "venue": "Ralph's Rock Diner",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Hedge, hey i'm outside, Ezra Cohen and the Big City Band"
   },
   {
     "date": "April 18, 2026",
@@ -7227,5 +7242,13 @@
     "state": "MA",
     "solo_or_band": "solo",
     "otherbands": "The Knife Kickers (solo), Ethan W. Olsen"
+  },
+  {
+    "date": "May 9, 2026",
+    "venue": "Crystal Ballroom",
+    "city": "Somerville",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Remember Sports, Cusp"
   }
 ]
