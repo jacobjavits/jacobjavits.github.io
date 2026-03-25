@@ -7244,11 +7244,77 @@
     "otherbands": "The Knife Kickers (solo), Ethan W. Olsen"
   },
   {
+    "date": "May 1, 2026",
+    "venue": "House Show",
+    "city": "Burlington",
+    "state": "VT",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars"
+  },
+  {
+    "date": "May 2, 2026",
+    "venue": "Les Sans-Taverne",
+    "city": "Montreal",
+    "state": "QC",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars"
+  },
+  {
+    "date": "May 3, 2026",
+    "venue": "Lola",
+    "city": "Toronto",
+    "state": "ON",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars, Sarah Siddiqui"
+  },
+  {
+    "date": "May 4, 2026",
+    "venue": "Bar Bad Ending",
+    "city": "Rochester",
+    "state": "NY",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars, Delaney West, Tony Gill"
+  },
+  {
+    "date": "May 5, 2026",
+    "venue": "Acoustic Music Works",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars"
+  },
+  {
+    "date": "May 6, 2026",
+    "venue": "A Man Full of Trouble",
+    "city": "Philadelphia",
+    "state": "PA",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars, Another Michael"
+  },
+  {
+    "date": "May 7, 2026",
+    "venue": "Cassette",
+    "city": "Ridgewood",
+    "state": "NY",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars, Calder the Destoyer, Kacie Jewel Hill",
+    "link": "https://link.dice.fm/b09640506dc2"
+  },
+  {
+    "date": "May 8, 2026",
+    "venue": "The Yard",
+    "city": "Beacon",
+    "state": "NY",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars"
+  },
+  {
     "date": "May 9, 2026",
     "venue": "Crystal Ballroom",
     "city": "Somerville",
     "state": "MA",
     "solo_or_band": "solo",
-    "otherbands": "Remember Sports, Cusp"
+    "otherbands": "Remember Sports, Cusp",
+    "link": "https://www.crystalballroomboston.com/events/remember-sports-3/"
   }
 ]

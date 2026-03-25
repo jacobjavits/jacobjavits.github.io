@@ -109,8 +109,13 @@
             }
             showContent += '</div>';
             if (data[i].link != undefined) {
-              showContent += `
-                  <p class="show__link-p"><a class="button" href="${data[i].link}" target="_blank">Tickets/Info</a></p>`;
+              if( data[i].link == 'message' ) {
+                showContent += `
+                    <p class="show__link-p"><a class="button" href="mailto:songs@jakemckelvie.com" target="_blank">Email for Info</a></p>`;
+                  } else {
+                showContent += `
+                    <p class="show__link-p"><a class="button" href="${data[i].link}" target="_blank">Tickets/Info</a></p>`;
+              }
             }
             show.innerHTML = showContent;
             showContainer.appendChild(show);
