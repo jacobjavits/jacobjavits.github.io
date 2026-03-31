@@ -7244,6 +7244,14 @@
     "otherbands": "The Knife Kickers (solo), Ethan W. Olsen"
   },
   {
+    "date": "April 25, 2026",
+    "venue": "Hotel Vernon",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Berm (album release), Mary Elizabeth Remington"
+  },
+  {
     "date": "May 1, 2026",
     "venue": "House Show",
     "city": "Burlington",
@@ -7306,7 +7314,8 @@
     "city": "Beacon",
     "state": "NY",
     "solo_or_band": "solo",
-    "otherbands": "A Box of Stars"
+    "otherbands": "A Box of Stars, Idiota",
+    "link": "link.dice.fm/Kd54f4840f7c"
   },
   {
     "date": "May 9, 2026",
@@ -7316,5 +7325,21 @@
     "solo_or_band": "solo",
     "otherbands": "Remember Sports, Cusp",
     "link": "https://www.crystalballroomboston.com/events/remember-sports-3/"
+  },
+  {
+    "date": "May 15, 2026",
+    "venue": "The Shaskeen",
+    "city": "Manchester",
+    "state": "NH",
+    "solo_or_band": "solo",
+    "otherbands": "Mike Frazier, Ryan Rock Egan"
+  },
+  {
+    "date": "May 16, 2026",
+    "venue": "Marigold Theater",
+    "city": "Brattleboro",
+    "state": "VT",
+    "solo_or_band": "solo",
+    "otherbands": "Mike Frazier"
   }
 ]
