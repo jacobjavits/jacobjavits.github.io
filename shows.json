@@ -7236,6 +7236,13 @@
     "otherbands": "Hedge, hey i'm outside, Ezra Cohen and the Big City Band"
   },
   {
+    "date": "April 12, 2026",
+    "venue": "River & Rye",
+    "city": "Jamaica",
+    "state": "VT",
+    "solo_or_band": "solo"
+  },
+  {
     "date": "April 18, 2026",
     "venue": "House Show",
     "city": "Boston",
@@ -7322,12 +7329,11 @@
     "venue": "Crystal Ballroom",
     "city": "Somerville",
     "state": "MA",
-    "solo_or_band": "solo",
     "otherbands": "Remember Sports, Cusp",
     "link": "https://www.crystalballroomboston.com/events/remember-sports-3/"
   },
   {
-    "date": "May 15, 2026",
+    "date": "May 16, 2026",
     "venue": "The Shaskeen",
     "city": "Manchester",
     "state": "NH",
@@ -7335,11 +7341,122 @@
     "otherbands": "Mike Frazier, Ryan Rock Egan"
   },
   {
-    "date": "May 16, 2026",
+    "date": "May 17, 2026",
     "venue": "Marigold Theater",
     "city": "Brattleboro",
     "state": "VT",
     "solo_or_band": "solo",
-    "otherbands": "Mike Frazier"
+    "otherbands": "Mike Frazier, Derek Sensale",
+    "link": "https://marigold.org/sensalemckelviefrazier/"
+  },
+  {
+    "date": "May 18, 2026",
+    "venue": "Hotel Vernon",
+    "city": "Worcester",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Micah Schnabel & Vanessa Jean Speckman, Sarah French, Matt Charette"
+  },
+  {
+    "date": "May 21, 2026",
+    "venue": "Myrtle",
+    "city": "Providence",
+    "state": "RI",
+    "solo_or_band": "solo",
+    "otherbands": "Silver Dollar Bills, They They, Margeaux Lynn, Kessinger",
+    "link": "https://www.givemyrtle.com/upcoming-events/x93urfucdnvmdpnimbxd2mcujgykmx"
+  },
+  {
+    "date": "May 22, 2026",
+    "venue": "Ms. Carter's Place (House Show)",
+    "city": "New Haven",
+    "state": "CT",
+    "solo_or_band": "solo",
+    "otherbands": "Stadia, Mirabelle Skipworth, Old Milk Mooney"
+  },
+  {
+    "date": "May 28, 2026",
+    "venue": "House Show",
+    "city": "Williamsburg",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Norma Dream, Maximiano, Ellie Jackson"
+  },
+  {
+    "date": "June 4, 2026",
+    "venue": "Magic Rat",
+    "city": "Fort Collins",
+    "state": "CO",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats"
+  },
+  {
+    "date": "June 7, 2026",
+    "venue": "Skylark Lounge",
+    "city": "Denver",
+    "state": "CO",
+    "solo_or_band": "solo",
+    "otherbands": "The Heligoats, Caspar Milquetoast",
+    "link": "link.dice.fm/u0eb80315ced"
+  },
+  {
+    "date": "June 11, 2026",
+    "venue": "Batch",
+    "city": "Austin",
+    "state": "TX",
+    "solo_or_band": "solo",
+    "otherbands": "Denver Williams"
+  },
+  {
+    "date": "June 12, 2026",
+    "venue": "The Post",
+    "city": "Fort Worth",
+    "state": "TX",
+    "solo_or_band": "solo",
+    "otherbands": "Denver Williams, Oak and Ember",
+    "link": "https://www.tixr.com/groups/afallon/events/denver-williams-jake-mckelvie-oak-ember-183070"
+  },
+  {
+    "date": "June 13, 2026",
+    "venue": "All Good Cafe",
+    "city": "Dallas",
+    "state": "TX",
+    "solo_or_band": "solo",
+    "otherbands": "Denver Williams",
+    "link": "https://allgood-cafe.com/event/jake-mckelvie/"
+  },
+  {
+    "date": "June 26, 2026",
+    "venue": "Rapscallion Music Hall",
+    "city": "Lawrence",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Tiny the Bear",
+    "link": "https://rapscallionmusichall.com/upcoming-shows#/events/178840"
+  },
+  {
+    "date": "July 2, 2026",
+    "venue": "The Grand Croton",
+    "city": "Croton-on-Hudson",
+    "state": "NY",
+    "solo_or_band": "solo",
+    "link": "https://thegrandcroton.com/events/jake-mckelvie"
+  },
+  {
+    "date": "July 16, 2026",
+    "venue": "Deep Cuts",
+    "city": "Medford",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Styrofoam Winos, Sweet Petunia",
+    "link": "https://dice.fm/event/53bp2k-styrofoam-winos-sweet-petunia-jake-mckelvie-16th-jul-deep-cuts-medford-tickets"
+  },
+  {
+    "date": "July 17, 2026",
+    "venue": "Club Moss",
+    "city": "Waldoboro",
+    "state": "ME",
+    "solo_or_band": "solo",
+    "otherbands": "Berm, Boy Scout"
   }
 ]
