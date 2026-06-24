@@ -7426,6 +7426,14 @@
     "link": "https://allgood-cafe.com/event/jake-mckelvie/"
   },
   {
+    "date": "June 25, 2026",
+    "venue": "Gardner Ale House (Audio Wasabi Reunion!)",
+    "city": "Gardner",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Brian Chaffee, Melissa Gates, Chris Boutell, Josh McKelvie, Mike Martin, Reed Brewer, Ian Wilkins, Sweet Euphoria, Jukebox Jake, Franco O'Malley, Joshua "
+  },
+  {
     "date": "June 26, 2026",
     "venue": "Rapscallion Music Hall",
     "city": "Lawrence",
@@ -7433,6 +7441,13 @@
     "solo_or_band": "solo",
     "otherbands": "Tiny the Bear",
     "link": "https://rapscallionmusichall.com/upcoming-shows#/events/178840"
+  },
+  {
+    "date": "June 27, 2026",
+    "venue": "Buxton's",
+    "city": "Derry",
+    "state": "NH",
+    "otherbands": "Time Eater, Big Bruite, Regals"
   },
   {
     "date": "July 2, 2026",
@@ -7458,5 +7473,13 @@
     "state": "ME",
     "solo_or_band": "solo",
     "otherbands": "Berm, Boy Scout"
+  },
+  {
+    "date": "July 19, 2026",
+    "venue": "Luce Spirits",
+    "city": "Rockland",
+    "state": "ME",
+    "solo_or_band": "solo",
+    "otherbands": "Berm"
   }
 ]
