@@ -7481,5 +7481,156 @@
     "state": "ME",
     "solo_or_band": "solo",
     "otherbands": "Berm"
+  },
+  {
+    "date": "August 15, 2026",
+    "venue": "P'tit Ours (matinee show)",
+    "city": "Montreal",
+    "state": "QC",
+    "solo_or_band": "solo",
+    "otherbands": "Andries Theriault"
+  },
+  {
+    "date": "August 16, 2026",
+    "venue": "Art House",
+    "city": "Ottawa",
+    "state": "ON",
+    "solo_or_band": "solo",
+    "otherbands": "Tea & Oranges"
+  },
+  {
+    "date": "August 17, 2026",
+    "venue": "Burdock Music Hall",
+    "city": "Toronto",
+    "state": "ON",
+    "solo_or_band": "solo",
+    "otherbands": "Christo Graham, Lilydipper",
+    "link": "https://www.showpass.com/jake-mckelvie/"
+  },
+  {
+    "date": "August 18, 2026",
+    "venue": "Imprint Arts Collective",
+    "city": "Cleveland",
+    "state": "OH",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "August 19, 2026",
+    "venue": "Parsons North Brewing",
+    "city": "Columbus",
+    "state": "OH",
+    "solo_or_band": "solo",
+    "otherbands": "Joseph & His Ghost, Friends with Elephants, Clay Beechy",
+    "link": "https://www.eventbrite.com/e/joseph-his-ghostfriends-with-elephantsjake-mckelvieclay-beechy-tickets-1992462660453"
+  },
+  {
+    "date": "August 20, 2026",
+    "venue": "Dear Mom",
+    "city": "Indianapolis",
+    "state": "IN",
+    "solo_or_band": "solo",
+    "otherbands": "Jacki Guitar"
+  },
+  {
+    "date": "August 21, 2026",
+    "venue": "Linneman's Riverwest Inn",
+    "city": "Milwaukee",
+    "state": "WI",
+    "solo_or_band": "solo",
+    "otherbands": "Caley Conway, Liv Mueller",
+    "link": "https://linnemans.com/event/jake-mckelvie-w-caley-conway-liv-mueller-august-21-2026/"
+  },
+  {
+    "date": "August 22, 2026",
+    "venue": "Judson & Moore",
+    "city": "Chicago",
+    "state": "IL",
+    "solo_or_band": "solo",
+    "otherbands": "Max Morton"
+  },
+  {
+    "date": "August 23, 2026",
+    "venue": "Loose Cobra",
+    "city": "Tolono",
+    "state": "IL",
+    "solo_or_band": "solo",
+    "otherbands": "Jake Fleischli"
+  },
+  {
+    "date": "August 24, 2026",
+    "venue": "King Theodore Records",
+    "city": "Columbia",
+    "state": "MO",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "August 25, 2026",
+    "venue": "Blue Hour Bar",
+    "city": "St. Louis",
+    "state": "MO",
+    "solo_or_band": "solo",
+    "otherbands": "Allie Vogler"
+  },
+  {
+    "date": "August 26, 2026",
+    "venue": "Blockhouse",
+    "city": "Bloomington",
+    "state": "IN",
+    "solo_or_band": "solo",
+    "otherbands": "Mike Adams"
+  },
+  {
+    "date": "August 27, 2026",
+    "venue": "House Show",
+    "city": "Louisville",
+    "state": "KY",
+    "solo_or_band": "solo",
+    "otherbands": "Shadwick Wilde"
+  },
+  {
+    "date": "August 28, 2026",
+    "venue": "Green Lantern",
+    "city": "Lexington",
+    "state": "KY",
+    "solo_or_band": "solo",
+    "otherbands": "Grace Rogers"
+  },
+  {
+    "date": "August 29, 2026",
+    "venue": "Springwater",
+    "city": "Nashville",
+    "state": "TN",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "August 30, 2026",
+    "venue": "Daug Haus",
+    "city": "Asheville",
+    "state": "NC",
+    "solo_or_band": "solo",
+    "otherbands": "Laney Barnett"
+  },
+  {
+    "date": "August 31, 2026",
+    "venue": "The Pinhook",
+    "city": "Durham",
+    "state": "NC",
+    "solo_or_band": "solo",
+    "otherbands": "Rhodes Baby"
+  },
+  {
+    "date": "September 18, 2026",
+    "venue": "Sam's Listening Bar",
+    "city": "St. Johnsbury",
+    "state": "VT",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "September 17, 2026",
+    "venue": "Radio Bean",
+    "city": "Burlington",
+    "state": "VT",
+    "solo_or_band": "solo",
+    "otherbands": "A Box of Stars"
   }
 ]

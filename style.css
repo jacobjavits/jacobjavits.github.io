@@ -474,11 +474,28 @@ main {
   }
 }
 
+/** Releases */
+.releases {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing);
+  list-style: none;
+  padding: 0;
+}
+
+.releases li {
+  text-align: center;
+}
+
+.releases li img {
+  aspect-ratio: 1/1;
+}
+
 /** Photo Gallery */
 .photo-gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: calc(var(--spacing) * 3);
+  gap: var(--spacing);
 }
 
 .photo-gallery-item:hover img {
