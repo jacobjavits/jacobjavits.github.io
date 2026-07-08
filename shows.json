@@ -6570,7 +6570,7 @@
     "city": "Dover",
     "state": "NH",
     "solo_or_band": "band",
-    "otherbands": "Father Jon Pistie, MAU" 
+    "otherbands": "Father Jon Pistie, MAU"
   },
   {
     "date": "November 23, 2024",
@@ -6578,7 +6578,7 @@
     "city": "Worcester",
     "state": "MA",
     "solo_or_band": "band",
-    "otherbands": "Daniel Gay, Shaun Connolly, Bryan O'Donnell" 
+    "otherbands": "Daniel Gay, Shaun Connolly, Bryan O'Donnell"
   },
   {
     "date": "November 30, 2024",
@@ -6586,7 +6586,7 @@
     "city": "Medford",
     "state": "MA",
     "solo_or_band": "band",
-    "otherbands": "Justice Cow, Groan Man" 
+    "otherbands": "Justice Cow, Groan Man"
   },
   {
     "date": "December 1, 2024",
@@ -7619,18 +7619,18 @@
     "otherbands": "Rhodes Baby"
   },
   {
-    "date": "September 18, 2026",
-    "venue": "Sam's Listening Bar",
-    "city": "St. Johnsbury",
-    "state": "VT",
-    "solo_or_band": "solo"
-  },
-  {
     "date": "September 17, 2026",
     "venue": "Radio Bean",
     "city": "Burlington",
     "state": "VT",
     "solo_or_band": "solo",
     "otherbands": "A Box of Stars"
+  },
+  {
+    "date": "September 18, 2026",
+    "venue": "Sam's Listening Bar",
+    "city": "St. Johnsbury",
+    "state": "VT",
+    "solo_or_band": "solo"
   }
 ]
