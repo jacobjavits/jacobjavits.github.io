@@ -7555,7 +7555,7 @@
     "city": "Tolono",
     "state": "IL",
     "solo_or_band": "solo",
-    "otherbands": "Jake Fleischli"
+    "otherbands": "The Heligoats, Jake Fleischli"
   },
   {
     "date": "August 24, 2026",
@@ -7579,7 +7579,7 @@
     "city": "Bloomington",
     "state": "IN",
     "solo_or_band": "solo",
-    "otherbands": "Mike Adams"
+    "otherbands": "Mike Adams at His Honest Weight"
   },
   {
     "date": "August 27, 2026",
@@ -7602,7 +7602,8 @@
     "venue": "Springwater",
     "city": "Nashville",
     "state": "TN",
-    "solo_or_band": "solo"
+    "solo_or_band": "solo",
+    "otherbands": "The Altered Statesman, Taylor Daukas"
   },
   {
     "date": "August 30, 2026",
@@ -7619,6 +7620,15 @@
     "state": "NC",
     "solo_or_band": "solo",
     "otherbands": "Rhodes Baby, Frank Meadows"
+  },
+  {
+    "date": "September 4, 2026",
+    "venue": "Lizard Lounge",
+    "city": "Cambridge",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Sinnet, Jon Nolan & Good Co.",
+    "link": "https://www.eventbrite.com/e/sinnet-strange-currencies-release-wjon-nolan-good-co-and-jake-mckelvie-tickets-1996404690170?aff=ebdsoporgprofile"
   },
   {
     "date": "September 17, 2026",
