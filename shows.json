@@ -7483,12 +7483,20 @@
     "otherbands": "Berm"
   },
   {
+    "date": "August 8, 2026",
+    "venue": "Looky Here",
+    "city": "Greenfield",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Osprey, Clancy Conlin"
+  },
+  {
     "date": "August 15, 2026",
     "venue": "StarBar (matinee show)",
     "city": "Montreal",
     "state": "QC",
     "solo_or_band": "solo",
-    "otherbands": "Andries Theriault"
+    "otherbands": "Andries Theriault, Caro D."
   },
   {
     "date": "August 16, 2026",
@@ -7512,7 +7520,8 @@
     "venue": "Imprint Arts Collective",
     "city": "Cleveland",
     "state": "OH",
-    "solo_or_band": "solo"
+    "solo_or_band": "solo",
+    "otherbands": "Dustin Mayle, Austin Adams"
   },
   {
     "date": "August 19, 2026",
@@ -7529,7 +7538,7 @@
     "city": "Indianapolis",
     "state": "IN",
     "solo_or_band": "solo",
-    "otherbands": "Jacki Guitar"
+    "otherbands": "Jacki Guitar, Alex Turner, Victor Gooze"
   },
   {
     "date": "August 21, 2026",
@@ -7579,7 +7588,7 @@
     "city": "Bloomington",
     "state": "IN",
     "solo_or_band": "solo",
-    "otherbands": "Mike Adams at His Honest Weight"
+    "otherbands": "Mike Adams at His Honest Weight, Yuki Kawana"
   },
   {
     "date": "August 27, 2026",
@@ -7587,7 +7596,7 @@
     "city": "Louisville",
     "state": "KY",
     "solo_or_band": "solo",
-    "otherbands": "Shadwick Wilde"
+    "otherbands": "Shadwick Wilde, SmithSmith"
   },
   {
     "date": "August 28, 2026",
@@ -7643,13 +7652,76 @@
     "city": "Burlington",
     "state": "VT",
     "solo_or_band": "solo",
-    "otherbands": "A Box of Stars"
+    "otherbands": "A Box of Stars, Riverbed, Izzy Jones"
   },
   {
     "date": "September 18, 2026",
     "venue": "Sam's Listening Bar",
     "city": "St. Johnsbury",
     "state": "VT",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 14, 2026",
+    "venue": "Phyllis Maud",
+    "city": "Newport",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 15, 2026",
+    "venue": "Green Note Basement",
+    "city": "London",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 16,  2026",
+    "venue": "Foxtails",
+    "city": "Chorley",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 18, 2026",
+    "venue": "Red Deer Club",
+    "city": "Marsden",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 21, 2026",
+    "venue": "Leith Depot",
+    "city": "Edinburgh",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 22, 2026",
+    "venue": "Puzzle Hall",
+    "city": "Sowerby Bridge",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 23, 2026",
+    "venue": "Library Pub",
+    "city": "Oxford",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 25, 2026",
+    "venue": "The Waiting Room",
+    "city": "Eaglescliffe",
+    "state": "UK",
+    "solo_or_band": "solo"
+  },
+  {
+    "date": "October 27, 2026",
+    "venue": "The Grove",
+    "city": "Nottingham",
+    "state": "UK",
     "solo_or_band": "solo"
   }
 ]
