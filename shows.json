@@ -7709,6 +7709,7 @@
     "city": "Newport",
     "state": "UK",
     "solo_or_band": "solo",
+    "otherbands": "Alys Hardy",
     "link": "https://www.tickettailor.com/events/thephyllismaud/2389557"
   },
   {
@@ -7733,29 +7734,23 @@
     "city": "Marsden",
     "state": "UK",
     "solo_or_band": "solo",
+    "otherbands": "In Amongst the Clouds",
     "link": "https://www.reddeer.club/event/jake-mckelvie-in-amongst-the-clouds/"
-  },
-  {
-    "date": "October 19, 2026",
-    "venue": "Adrian's Bar",
-    "city": "Glasgow",
-    "state": "UK",
-    "solo_or_band": "solo",
-    "otherbands": "Cormac Nagle"
   },
   {
     "date": "October 20, 2026",
     "venue": "Adrian's Bar",
     "city": "Glasgow",
     "state": "UK",
-    "solo_or_band": "solo",
-    "otherbands": "Dow & Honeyman"
+    "otherbands": "Cormac Nagle",
+    "solo_or_band": "solo"
   },
   {
     "date": "October 21, 2026",
     "venue": "Leith Depot",
     "city": "Edinburgh",
     "state": "UK",
+    "otherbands": "Dow & Honeyman",
     "solo_or_band": "solo"
   },
   {
@@ -7763,6 +7758,7 @@
     "venue": "Puzzle Hall",
     "city": "Sowerby Bridge",
     "state": "UK",
+    "otherbands": "Eliza Beth",
     "solo_or_band": "solo"
   },
   {
@@ -7770,6 +7766,7 @@
     "venue": "Library Pub",
     "city": "Oxford",
     "state": "UK",
+    "otherbands": "Doogle, Odette",
     "solo_or_band": "solo"
   },
   {
@@ -7778,6 +7775,7 @@
     "city": "Eaglescliffe",
     "state": "UK",
     "solo_or_band": "solo",
+    "otherbands": "J.P. Riggal, Loveable Wholes",
     "link": "https://www.thewaitingroom.uk/event-details/jake-mckelvie"
   },
   {
@@ -7786,6 +7784,7 @@
     "city": "Nottingham",
     "state": "UK",
     "solo_or_band": "solo",
+    "otherbands": "Leah Sinead, Alex Hale",
     "link": "https://www.gigantic.com/jake-mcelvie-tickets/nottingham-the-grove/2026-10-27-19-00"
   },
   {
@@ -7820,6 +7819,39 @@
     "state": "RI",
     "solo_or_band": "band",
     "otherbands": "Sarah Noell, Convinced Friend"
+  },
+  {
+    "date": "December 3, 2026",
+    "venue": "Tourists",
+    "city": "North Adams",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Jordan Holtz, Will Lawrence",
+    "link": "https://www.singforyourslumber.com/"
+  },
+  {
+    "date": "December 4, 2026",
+    "venue": "Darling's",
+    "city": "Easthampton",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Jordan Holtz, Will Lawrence"
+  },
+  {
+    "date": "December 5, 2026 (matinee)",
+    "venue": "The Melody Maker",
+    "city": "Clinton",
+    "state": "MA",
+    "solo_or_band": "solo",
+    "otherbands": "Jordan Holtz"
+  },
+  {
+    "date": "December 5, 2026 (evening)",
+    "venue": "Auspicious Brew",
+    "city": "Dover",
+    "state": "NH",
+    "solo_or_band": "band",
+    "otherbands": "Jordan Holtz, The Dumbheads, Hedge"
   },
   {
     "date": "December 6, 2026",
